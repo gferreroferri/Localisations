@@ -25,7 +25,7 @@ If you'd like to help add new language/s to the repository, please follow the in
 1. Create a folder named `{LanguageCode}.lproj`
 2. Copy the files from the `en.lproj` project into this folder. 
 3. Edit the two files namely: `Localizable.strings` and `LaunchScreen.strings` with translations in this language. 
-4. Optionally edit the `Localizable.stringsdict` file using a Plist editor like TextMate.app or Xcode.app. Instructions for editing this file are available [here](https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/BPInternational/StringsdictFileFormat/StringsdictFileFormat.html) and [here](https://developer.apple.com/documentation/xcode/localizing-strings-that-contain-plurals). This file specifically contains translations for plural items. 
+4. Optionally edit the `Localizable.stringsdict` file using a Plist editor like [TextMate.app](https://macromates.com) or Xcode.app. Instructions for editing this file are available [here](https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/BPInternational/StringsdictFileFormat/StringsdictFileFormat.html) and [here](https://developer.apple.com/documentation/xcode/localizing-strings-that-contain-plurals). This file specifically contains translations for plural items. 
 5. Commit your changes and open a PR with your changes. 
 
 ## Instructions for Corrections
