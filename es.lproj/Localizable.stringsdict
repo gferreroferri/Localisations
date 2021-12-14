@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>unreadsCountFormat</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@unreadsCount@</string>
+		<key>unreadsCount</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>u</string>
+			<key>zero</key>
+			<string></string>
+			<key>one</key>
+			<string>%u no leído</string>
+			<key>two</key>
+			<string>%u no leído</string>
+			<key>few</key>
+			<string>%u no leído</string>
+			<key>many</key>
+			<string>%u no leídos</string>
+			<key>other</key>
+			<string>%u no leídos</string>
+		</dict>
+	</dict>
+	<key>summaryLinesFormat</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@lineCount@</string>
+		<key>lineCount</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>u</string>
+			<key>zero</key>
+			<string></string>
+			<key>one</key>
+			<string>%u línea</string>
+			<key>two</key>
+			<string>%u líneas</string>
+			<key>few</key>
+			<string>%u líneas</string>
+			<key>many</key>
+			<string>%u líneas</string>
+			<key>other</key>
+			<string>%u líneas</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

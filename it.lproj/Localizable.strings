@@ -1,0 +1,493 @@
+/* Common Actions */
+"New" = "New";
+"Delete" = "Elimina";
+
+"Move" = "Spostare";
+
+"Share" = "Condividere";
+
+"Rename" = "Rinominare";
+
+"Cancel" = "Annulla";
+
+"Done" = "Fatto";
+
+"Read" = "Leggi";
+
+"Bookmark" = "Segnalibro";
+
+"Unbookmark" = "Elimina segnalibro";
+
+"Browser" = "Browser";
+
+"Open in Browser" = "Apri nel browser";
+
+"Share Article" = "Condividi l'articolo";
+
+"Yes" = "sì";
+
+"Okay" = "Va bene";
+
+"Copy Link" = "Copia link";
+
+"Search" = "Ricerca";
+
+"Customize" = "personalizzare";
+
+"Close" = "Chiudere";
+
+"Copy" = "copia";
+
+"Share URL" = "Condividi URL";
+
+"Ok" = "Ok";
+
+"Add" = "Aggiungere";
+
+"Update" = "Aggiornare";
+
+"Enable" = "Abilitare";
+
+/* Common Errors */
+"No Subscription" = "Nessun abbonamento";
+
+"An Error Occurred" = "Si è verificato un errore";
+
+"An unknown error has occurred." = "Si è verificato un errore sconosciuto.";
+
+"Error Parsing" = "Errori antigas";
+
+"Error Processing" = "Elaborazione degli errori";
+
+"Failed to Update" = "Impossibile aggiornare";
+
+"Failed to Create" = "Impossibile creare";
+
+/* Sidebar VC */
+"Feeds" = "Feeds";
+
+"Unread" = "Non letto";
+
+"Today" = "Oggi";
+
+"Bookmarks" = "Segnalibri";
+
+"New Feed" = "Nuovo feed";
+
+"New Folder" = "Nuova cartella";
+
+"Last Sync: %@" = "Ultima sincronizzazione: %@";
+
+"Delete Feed" = "Elimina feed";
+
+"Are you sure you want to delete this feed?" = "Sei sicuro di voler cancellare questo feed?";
+
+"Delete Folder" = "Elimina cartella";
+
+"Are you sure you want to delete this folder?" = "Sei sicuro di voler eliminare questa cartella?";
+
+"Error Deleting Feed" = "Errore durante l'eliminazione dei feed";
+
+"Syncing..." = "Sincronizzazione ...";
+
+"Syncing Complete" = "Sincronizzazione completa";
+
+"Synced %.f%%" = "Sincronizzato %.f%%";
+
+"Share Feed URL" = "Condividi l'URL dei feed";
+
+"Share Website URL" = "Condividi URL del sito Web";
+
+"Feed Info" = "Feed Info.";
+
+"Feed Menu" = "Menu Feed.";
+
+"Folder Menu" = "Menu della cartella";
+
+"Rename Feed" = "Rinominare feed";
+
+"Feed Name" = "Nome del mangime";
+
+"Error Moving Folder" = "Errore durante lo spostamento della cartella";
+
+"An error occurred removing the feed from its current folder - %@" = "Si è verificato un errore rimuovendo il feed dalla sua cartella corrente - %@";
+
+/* Feed VC */
+"No unread articles" = "Nessun articolo non letto";
+
+"No recent articles" = "Nessun articolo recente";
+
+"Mark All Read?" = "Segna tutto come letto?";
+
+"Are you sure you want to mark all unread articles as read?" = "Sei sicuro di voler celebrare tutti gli articoli non letti come letto?";
+
+"Sorting Options" = "Opzioni di ordinamento";
+
+"Unread - Latest First" = "Non letto - Ultimo primo";
+
+"Unread - Oldest First" = "Non letto - il più vecchio primo";
+
+"All - Latest First" = "Tutto - ultimo primo";
+
+"All - Oldest First" = "Tutto - più vecchio primo";
+
+"Error Marking Read" = "Marcatura degli errori Leggi";
+
+"Error Marking Unread" = "Marcatura degli errori non letti";
+
+"Error Bookmarking" = "Errore durante il bookmarking.";
+
+"Error Unbookmarking" = "Errore un libro di lavoro";
+
+"An unknown error occurred when performing this action." = "Si è verificato un errore sconosciuto durante l'esecuzione di questa azione.";
+
+"Mark Read" = "Mark Legge.";
+
+"Mark Unread" = "Segna come da leggere";
+
+"Bookmark" = "Segnalibro";
+
+"Unbookmark" = "Elimina segnalibro";
+
+"Mark Newer Read" = "Mark Newer Leggi.";
+
+"Mark Older Read" = "Segna lettura più vecchia";
+
+"Articles by %@" = "Articoli di %@";
+
+"Article Actions" = "Articolo Azioni";
+
+"Untitled" = "Senza titolo";
+
+/* ArticleVC */
+"Previous search result" = "Risultato della ricerca precedente.";
+
+"Next search result" = "Successivo risultato della ricerca.";
+
+"Dismiss Search" = "Licenziare la ricerca";
+
+"Search Article Content" = "Cerca contenuti dell'articolo.";
+
+"Search for keywords in the article" = "Cerca le parole chiave nell'articolo";
+
+"Error loading the article" = "Errore durante il caricamento dell'articolo";
+
+"An Unexpected Error Occurred" = "Si è verificato un errore imprevisto";
+
+"Error Reloading" = "Errore Reloading.";
+
+"No article received after reloading." = "Nessun articolo ricevuto dopo aver ricaricato.";
+
+"Search in article" = "Cerca nell'articolo";
+
+"Go to previous article" = "Vai all'articolo precedente";
+
+"Previous Article" = "Articolo precedente";
+
+"Go to next article" = "Vai al prossimo articolo";
+
+"Next Article" = "Articolo successivo";
+
+"Close article" = "Chiudere l'articolo";
+
+/* Appearance VC */
+"Customization" = "Personalizzazione";
+
+"Use System Sizing" = "Utilizzare il dimensionamento del sistema";
+
+"Font Size" = "Dimensione del font";
+
+"Paragraph Font" = "Font di paragrafo";
+
+"Title Font" = "Titolo Font.";
+
+"Line Spacing" = "Interlinea";
+
+/* Feed Info */
+"Close Feed Info" = "Chiudi le informazioni sull'alimentazione";
+
+"Push Notifications" = "Notifiche push";
+
+"Local Notifications" = "Notifiche locali";
+
+"This feed supports real-time notifications." = "Questo feed supporta le notifiche in tempo reale.";
+
+"Notifications for this feed will be near real-time." = "Le notifiche per questo feed saranno vicine in tempo reale.";
+
+"Safari Reader Mode" = "Safari Reader Mode.";
+
+"Auto Full-Text" = "Auto full-text";
+
+"When enabled, the full-text for the article will be automatically fetched." = "Se abilitato, il testo completo per l'articolo verrà automaticamente recuperato.";
+
+"Opens in Browser" = "Si apre nel browser";
+
+"When enabled, the articles will be opened in the browser instead of the article reader." = "Se abilitato, gli articoli saranno aperti nel browser invece del lettore di articoli.";
+
+"Folder" = "Cartella";
+
+"None" = "Nessuno";
+
+"Feed URL" = "Feed URL";
+
+"Website URL" = "URL del sito";
+
+"Copy URL" = "Copia UR.";
+
+"URL Actions" = "Azioni URL";
+
+"Unsubscribe Failed" = "Annullare l'iscrizione non riuscita";
+
+"An unknown error occurred when unsubscribing." = "Si è verificato un errore sconosciuto durante l'annullamento dell'iscrizione.";
+
+"Subscribe Failed" = "Iscriviti non riusciti";
+
+"Select a Folder" = "Seleziona una cartella";
+
+/* Search */
+"Delete Feed?" = "Elimina feed?";
+
+"Are you sure you want to delete %@" = "Sei sicuro di voler eliminare %@";
+
+"Error Loading Feeds" = "Errore durante il caricamento dei feed";
+
+"The URL or query may be invalid. Please check the URL." = "L'URL o la query potrebbero non essere validi.Si prega di controllare l'URL.";
+
+"Feed Exists" = "Feed esiste";
+
+"This feed already exists in your account." = "Questo feed esiste già nel tuo account.";
+
+"An error occurred when parsing the feed's information. If this repeats, please contact support." = "Si è verificato un errore quando si analizza le informazioni del feed.Se questo si ripete, si prega di contattare il supporto.";
+
+"Adding Feed" = "Aggiunta di feed";
+
+"Close New Folder" = "Chiudi nuova cartella";
+
+/* STORE VC */
+"Monthly" = "Mensile";
+
+"Pay as you go" = "Pagare come vai";
+
+"MonthlyDesc" = "Nessun limite al numero di feed.
+Notifiche di spinta in tempo reale.
+Sincronizzazione integrata su tutti i tuoi dispositivi.
+Supporta uno sviluppatore indie.";
+
+"Yearly" = "Annuale";
+
+"Long Term" = "Lungo termine";
+
+"YearlyDesc" = "Tutti i vantaggi del piano mensile.
+Prezzi scontati.";
+
+"Failed to load Products" = "Impossibile caricare i prodotti";
+
+"An unknown error occurred when loading products. Please contact support@elytra.app" = "Si è verificato un errore sconosciuto durante il caricamento dei prodotti.Si prega di contattare supporto@elytra.app.";
+
+"Processing..." = "In lavorazione...";
+
+"Error Purchasing" = "ACQUISTO ERRORE";
+
+"Error Restoring" = "Errore durante il ripristino";
+
+"Error Loading Subscription" = "Errore durante il caricamento della sottoscrizione";
+
+"Select a subscription to being with" = "Seleziona un abbonamento con cui stare";
+
+" Your subscription is managed externally." = "Il tuo abbonamento è gestito esternamente.";
+
+"Your subscription expired on %@." = "Il tuo abbonamento è scaduto su %@.";
+
+"Your account has a Lifetime subscription." = "Il tuo account ha un abbonamento a vita.";
+
+"Your free trial is active up to %@." = "La tua prova gratuita è attiva fino a %@.";
+
+"Your subscription is active up to %@." = "Il tuo abbonamento è attivo fino a %@.";
+
+"Your subscription will renew on %@." = "Il tuo abbonamento si rinnoverà su %@.";
+
+/* Settings */
+"Settings" = "Impostazioni";
+
+"Account" = "Account";
+
+"Filters" = "Filtri";
+
+"Notifications" = "Notifiche";
+
+"Re-Sync" = "Re-sincronizzazione";
+
+"Appearance" = "Aspetto esteriore";
+
+"Background Fetch" = "Recupero di sfondo";
+
+"Image Loading" = "Caricamento dell'immagine";
+
+"External Apps" = "App esterne";
+
+"OPML" = "OPML.";
+
+"Miscellaneous" = "Varie";
+
+"Rate on AppStore" = "Vota su Appstore.";
+
+"Attributions" = "Attribuzioni";
+
+"Contact" = "Contatto";
+
+"Re-Sync All" = "Ri-sincronizzare tutti";
+
+"Re-Sync Feeds" = "Re-sync feed";
+
+/* Account Settings */
+"No Account Setup" = "Nessuna configurazione dell'account";
+
+"Deactivate Account" = "Disattiva Account";
+
+"Deactivate" = "Disattivare";
+
+"Your Subscription" = "Il tuo abbonamento";
+
+"Account ID" = "Account ID";
+
+"Subscription" = "Sottoscrizione";
+
+"If you deactivate your account and wish to activate it again, please email me on support@elytra.app with the above UUID. You can use the context menu/right click to copy the ID." = "Se si disattiva il tuo account e desideri attivarlo di nuovo, ti preghiamo di inviarmi un'email su support@elytra.app con l'UUID sopra.È possibile utilizzare il menu di scelta rapida / fare clic con il tasto destro del mouse per copiare l'ID.";
+
+"Connect your Apple ID to your Elytra account. This will enable you to sign in on other platforms as well. " = "Collega il tuo ID Apple al tuo account Elytra.Questo ti consentirà di accedere anche ad altre piattaforme.";
+
+"Copy Account ID" = "Copia l'ID account";
+
+"If you have remaining days on your Pro Subscription, no refund can be issued for the same." = "Se hai rimanenti giorni sul tuo abbonamento Pro, nessun rimborso può essere rilasciato per lo stesso.";
+
+/* Image Loading Settings */
+"The above setting only works when the Article source provides these options. If no such option is provided in the article source, the original image is always loaded." = "L'impostazione di cui sopra funziona solo quando la sorgente dell'articolo fornisce queste opzioni.Se nessuna opzione tale è fornita nella sorgente dell'articolo, l'immagine originale è sempre caricata.";
+
+"The above setting is also used for galleries and Youtube video previews." = "L'impostazione di cui sopra viene utilizzata anche per gallerie e anteprime video YouTube.";
+
+"Enabling this shows cover images in the feeds list. This setting is also affected by your setting for Bandwidth." = "Abilitando ciò mostra le immagini di copertura nell'elenco dei feeds.Questa impostazione è anche influenzata dalla tua impostazione per la larghezza di banda.";
+
+"Elytra can optionally use the weserv.nl Image Proxy for loading images optimized to be displayed on this device. Images loaded via the Image Proxy are smaller in size and therefore load faster and save bandwidth." = "Elytra può opzionalmente utilizzare il proxy Weserv.nl Image per il caricamento delle immagini ottimizzate per essere visualizzato su questo dispositivo.Le immagini caricate tramite il proxy dell'immagine sono di dimensioni più piccole e pertanto caricano più rapidamente e salvano la larghezza di banda.";
+
+"Autoloading GIFs is not recommended for the health of your device's battery and bandwidth load. However, if you have an unlimited data plan or lots of money, this setting is for you." = "I gif automatico non sono raccomandati per la salute della batteria del dispositivo e il carico della larghezza di banda.Tuttavia, se hai un piano dati illimitato o un sacco di soldi, questa impostazione è per te.";
+
+"Image Bandwidth" = "Fascia mediawidth.";
+
+"Never" = "Mai";
+
+"Wi-Fi Only" = "Solo wifi";
+
+"Always" = "Sempre";
+
+"Cover Images" = "Immagini di copertina";
+
+"Use Image Proxy" = "Usa il proxy dell'immagine";
+
+"Auto-load GIFs" = "GIF Carico automatico";
+
+"Image Resolution" = "Risoluzione dell'immagine";
+
+"Low Resolution" = "Bassa risoluzione";
+
+"Medium Resolution" = "Media risoluzione";
+
+"High Resolution" = "Alta risoluzione";
+
+/* Filters */
+"Error Fetching Filters" = "Errore durante il recupero dei filtri";
+
+"Active Filters" = "Filtri attivi";
+
+"Failed to Delete Filter" = "Impossibile eliminare il filtro";
+
+"An unknown error occurred when trying to delete the keyword." = "Si è verificato un errore sconosciuto durante il tentativo di eliminare la parola chiave.";
+
+"Short Keyword" = "Parola chiave";
+
+"The keyword should be atleast 3 letters" = "La parola chiave dovrebbe essere almeno 3 lettere";
+
+"Failed to add Filter" = "Impossibile aggiungere filtro";
+
+"An unknown error occurred when trying to delete the keyword." = "Si è verificato un errore sconosciuto durante il tentativo di eliminare la parola chiave.";
+
+/* MiscVC */
+"App Icon" = "Icona dell'app";
+
+"Reader Bar Size" = "Dimensione della barra dei lettori";
+
+"Small" = "Piccolo";
+
+"Regular" = "Regolare";
+
+"Large" = "Largo";
+
+"Enable Reader Mode" = "Abilita la modalità Reader";
+
+"Are you sure you want to enable Reader Mode for all feeds?" = "Sei sicuro di voler abilitare la modalità di lettore per tutti i feed?";
+
+"App Icon" = "Icona dell'app";
+
+"Unread Counters" = "Contatori non letti";
+
+"Relax Mode" = "Modalità relax";
+
+"Mark Read Prompt" = "Mark Lep Prompt.";
+
+"Hide Bookmarks" = "Nascondi segnalibri";
+
+"Open Unread" = "Apri non letto";
+
+"Summary Lines" = "Linee di riepilogo";
+
+"Use Toolbar" = "Usa la barra degli strumenti";
+
+"Hide Bars" = "Nascondi barre";
+
+"Reader Bar Size" = "Dimensione della barra dei lettori";
+
+"Portrait Lock" = "Blocco del ritratto";
+
+"Mirror Full UI" = "Specchio pieno Ui.";
+
+"Faded Selection Tint" = "Selezione sbiadita Tinta";
+
+"Mark Read on Scroll" = "Mark Leggi su Scorri";
+
+"Enable Reader Mode" = "Abilita la modalità Reader";
+
+"Set whether you want to see the number of unread articles in each section." = "Imposta se vuoi vedere il numero di articoli non letti in ciascuna sezione.";
+
+"Optionally hide unread counters only from feeds and folders." = "Facoltativamente nascondere i contatori nonli solo da feed e cartelle.";
+
+"Set whether the app should prompt you when marking articles as read." = "Imposta se l'app dovrebbe richiederti quando si contrassegna gli articoli come letto.";
+
+"You can optionally hide the Bookmarks Tab from the Feeds Interface." = "È possibile nascondere facoltativamente la scheda dei segnalibri dall'interfaccia dei feed.";
+
+"When enabled, the app will open the Unread List upon launch." = "Se abilitato, l'app aprirà l'elenco non letto al momento del lancio.";
+
+"Number of summary lines to show when viewing list of Articles." = "Numero di linee di riepilogo da mostrare durante la visualizzazione dell'elenco degli articoli.";
+
+"Show all actions in toolbar at the bottom of the interface instead of the navigation bar at the top. (Requires an App restart)" = "Mostra tutte le azioni nella barra degli strumenti nella parte inferiore dell'interfaccia invece della barra di navigazione in alto.(Richiede un riavvio di app)";
+
+"Hides the navigation bar and toolbar in the article reader when scrolling." = "Nasconde la barra di navigazione e la barra degli strumenti nel lettore di articoli durante lo scorrimento.";
+
+"You may choose to restrict the app's UI only to the portrait orientation." = "Puoi scegliere di limitare l'UI dell'app solo per l'orientamento del ritratto.";
+
+"When disabled, only the article reader interface is casted over Airplay." = "Quando disabilitato, solo l'interfaccia del lettore di articoli viene lanciata su AirPlay.";
+
+"When enabled, the articles list selection background color will be a light gray instead of the tint color." = "Se abilitato, il colore di sfondo di selezione dell'elenco articoli sarà un grigio chiaro invece del colore della tinta.";
+
+"As you scroll, the app will automatically mark articles as read." = "Mentre scorri, l'app segnerà automaticamente gli articoli come letto.";
+
+"You may enable reader mode for all feeds with a single tap." = "È possibile abilitare la modalità di lettore per tutti i feed con un singolo rubinetto.";
+
+/* Notifications */
+"Enable Push Notifications" = "Abilita notifiche push";
+
+"Error Registering" = "Errore registrazione";
+
+"An unknown error occurred when registering for Push Notifications." = "Si è verificato un errore sconosciuto al momento della registrazione delle notifiche push.";
+
+"Error Loading Subscriptions" = "Errore durante il caricamento di abbonamenti";
+
+"Error Removing Subscription" = "Errore durante la rimozione della sottoscrizione";

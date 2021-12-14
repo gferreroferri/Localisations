@@ -1,0 +1,284 @@
+/* 
+  Store.strings
+  Yeti
+
+  Created by Nikhil Nigade on 18/11/21.
+  Copyright © 2021 Dezine Zync Studios. All rights reserved.
+*/
+
+/* Common Actions */
+"New" = "New";
+"Delete" = "Delete";
+"Move" = "Move";
+"Share" = "Share";
+"Rename" = "Rename";
+"Cancel" = "Cancel";
+"Done" = "Done";
+"Read" = "Read";
+"Bookmark" = "Bookmark";
+"Unbookmark" = "Unbookmark";
+"Browser" = "Browser";
+"Open in Browser" = "Open in Browser";
+"Share Article" = "Share Article";
+"Copy Link" = "Copy Link";
+"Yes" = "Yes";
+"Okay" = "Okay";
+"Search" = "Search";
+"Customize" = "Customize";
+"Close" = "Close";
+"Copy" = "Copy";
+"Share URL" = "Share URL";
+"Ok" = "Ok";
+"Add" = "Add";
+"Update" = "Update";
+"Enable" = "Enable";
+
+/* Common Errors */
+"No Subscription" = "No Subscription";
+"An Error Occurred" = "An Error Occurred";
+"An unknown error has occurred." = "An unknown error has occurred.";
+"Error Parsing" = "Error Parsing";
+"Error Processing" = "Error Processing";
+"Failed to Update" = "Failed to Update";
+"Failed to Create" = "Failed to Create";
+
+/* Sidebar VC */
+"Feeds" = "Feeds";
+"Unread" = "Unread";
+"Today" = "Today";
+"Bookmarks" = "Bookmarks";
+"New Feed" = "New Feed";
+"New Folder" = "New Folder";
+"Last Sync: %@" = "Last Sync: %@";
+"Delete Feed" = "Delete Feed";
+"Are you sure you want to delete this feed?" = "Are you sure you want to delete this feed?";
+"Delete Folder" = "Delete Folder";
+"Are you sure you want to delete this folder?" = "Are you sure you want to delete this folder?";
+"Error Deleting Feed" = "Error Deleting Feed";
+"Syncing..." = "Syncing...";
+"Syncing Complete" = "Syncing Complete";
+"Synced %.f%%" = "Synced %.f%%";
+"Share Feed URL" = "Share Feed URL";
+"Share Website URL" = "Share Website URL";
+"Feed Info" = "Feed Info";
+"Feed Menu" = "Feed Menu";
+"Folder Menu" = "Folder Menu";
+"Rename Feed" = "Rename Feed";
+"Feed Name" = "Feed Name";
+"Error Moving Folder" = "Error Moving Folder";
+"An error occurred removing the feed from its current folder - %@" = "An error occurred removing the feed from its current folder - %@";
+
+/* Feed VC */
+"No unread articles" = "No unread articles";
+"No recent articles" = "No recent articles";
+"Mark All Read?" = "Mark All Read?";
+"Are you sure you want to mark all unread articles as read?" = "Are you sure you want to mark all unread articles as read?";
+"Sorting Options" = "Sorting Options";
+"Unread - Latest First" = "Unread - Latest First";
+"Unread - Oldest First" = "Unread - Oldest First";
+"All - Latest First" = "All - Latest First";
+"All - Oldest First" = "All - Oldest First";
+"Error Marking Read" = "Error Marking Read";
+"Error Marking Unread" = "Error Marking Unread";
+"Error Bookmarking" = "Error Bookmarking";
+"Error Unbookmarking" = "Error Unbookmarking";
+"An unknown error occurred when performing this action." = "An unknown error occurred when performing this action.";
+"Mark Read" = "Mark Read";
+"Mark Unread" = "Mark Unread";
+"Bookmark" = "Bookmark";
+"Unbookmark" = "Unbookmark";
+"Mark Newer Read" = "Mark Newer Read";
+"Mark Older Read" = "Mark Older Read";
+"Articles by %@" = "Articles by %@";
+"Article Actions" = "Article Actions";
+"Untitled" = "Untitled";
+
+/* ArticleVC */
+"Previous search result" = "Previous search result";
+"Next search result" = "Next search result";
+"Dismiss Search" = "Dismiss Search";
+"Search Article Content" = "Search Article Content";
+"Search for keywords in the article" = "Search for keywords in the article";
+"Error loading the article" = "Error loading the article";
+"An Unexpected Error Occurred" = "An Unexpected Error Occurred";
+"Error Reloading" = "Error Reloading";
+"No article received after reloading." = "No article received after reloading.";
+"Search in article" = "Search in article";
+"Go to previous article" = "Go to previous article";
+"Previous Article" = "Previous Article";
+"Go to next article" = "Go to next article";
+"Next Article" = "Next Article";
+"Close article" = "Close article";
+
+/* Appearance VC */
+"Customization" = "Customization";
+"Use System Sizing" = "Use System Sizing";
+"Font Size" = "Font Size";
+"Paragraph Font" = "Paragraph Font";
+"Title Font" = "Title Font";
+"Line Spacing" = "Line Spacing";
+
+/* Feed Info */
+"Close Feed Info" = "Close Feed Info";
+"Push Notifications" = "Push Notifications";
+"Local Notifications" = "Local Notifications";
+"This feed supports real-time notifications." = "This feed supports real-time notifications.";
+"Notifications for this feed will be near real-time." = "Notifications for this feed will be near real-time.";
+"Safari Reader Mode" = "Safari Reader Mode";
+"Auto Full-Text" = "Auto Full-Text";
+"When enabled, the full-text for the article will be automatically fetched." = "When enabled, the full-text for the article will be automatically fetched.";
+"Opens in Browser" = "Opens in Browser";
+"When enabled, the articles will be opened in the browser instead of the article reader." = "When enabled, the articles will be opened in the browser instead of the article reader.";
+"Folder" = "Folder";
+"None" = "None";
+"Feed URL" = "Feed URL";
+"Website URL" = "Website URL";
+"Copy URL" = "Copy URL";
+"URL Actions" = "URL Actions";
+"Unsubscribe Failed" = "Unsubscribe Failed";
+"An unknown error occurred when unsubscribing." = "An unknown error occurred when unsubscribing.";
+"Subscribe Failed" = "Subscribe Failed";
+"Select a Folder" = "Select a Folder";
+
+/* Search */
+"Delete Feed?" = "Delete Feed?";
+"Are you sure you want to delete %@" = "Are you sure you want to delete %@";
+
+/* New Feed/Folder */
+"New Feed" = "New Feed";
+"Error Loading Feeds" = "Error Loading Feeds";
+"The URL or query may be invalid. Please check the URL." = "The URL or query may be invalid. Please check the URL.";
+"Feed Exists" = "Feed Exists";
+"This feed already exists in your account." = "This feed already exists in your account.";
+"An error occurred when parsing the feed's information. If this repeats, please contact support." = "An error occurred when parsing the feed's information. If this repeats, please contact support.";
+"Adding Feed" = "Adding Feed";
+"Close New Folder" = "Close New Folder";
+
+/* STORE VC */
+"Monthly" = "Monthly";
+"Pay as you go" = "Pay as you go";
+"MonthlyDesc" = "No limit on number of feeds.
+Real-time Push Notifications.
+Integrated syncing across all of your devices.
+Support an Indie Developer.";
+
+"Yearly" = "Yearly";
+"Long Term" = "Long Term";
+"YearlyDesc" = "All the benefits of the Monthly Plan.
+Discounted Pricing.";
+
+"Failed to load Products" = "Failed to load Products";
+"An unknown error occurred when loading products. Please contact support@elytra.app" = "An unknown error occurred when loading products. Please contact support@elytra.app";
+"Processing..." = "Processing...";
+"Error Purchasing" = "Error Purchasing";
+"Error Restoring" = "Error Restoring";
+"Error Loading Subscription" = "Error Loading Subscription";
+"Select a subscription to being with" = "Select a subscription to being with";
+" Your subscription is managed externally." = " Your subscription is managed externally.";
+"Your subscription expired on %@." = "Your subscription expired on %@.";
+"Your account has a Lifetime subscription." = "Your account has a Lifetime subscription.";
+"Your free trial is active up to %@." = "Your free trial is active up to %@.";
+"Your subscription is active up to %@." = "Your subscription is active up to %@.";
+"Your subscription will renew on %@." = "Your subscription will renew on %@.";
+
+/* Settings */
+"Settings" = "Settings";
+"Account" = "Account";
+"Filters" = "Filters";
+"Notifications" = "Notifications";
+"Re-Sync" = "Re-Sync";
+"Appearance" = "Appearance";
+"Background Fetch" = "Background Fetch";
+"Image Loading" = "Image Loading";
+"External Apps" = "External Apps";
+"OPML" = "OPML";
+"Miscellaneous" = "Miscellaneous";
+"Rate on AppStore" = "Rate on AppStore";
+"Attributions" = "Attributions";
+"Contact" = "Contact";
+"Re-Sync All" = "Re-Sync All";
+"Re-Sync Feeds" = "Re-Sync Feeds";
+
+/* Account Settings */
+"No Account Setup" = "No Account Setup";
+"Deactivate Account" = "Deactivate Account";
+"Deactivate" = "Deactivate";
+"Your Subscription" = "Your Subscription";
+"Account ID" = "Account ID";
+"Subscription" = "Subscription";
+"If you deactivate your account and wish to activate it again, please email me on support@elytra.app with the above UUID. You can use the context menu/right click to copy the ID." = "If you deactivate your account and wish to activate it again, please email me on support@elytra.app with the above UUID. You can use the context menu/right click to copy the ID.";
+"Connect your Apple ID to your Elytra account. This will enable you to sign in on other platforms as well. " = "Connect your Apple ID to your Elytra account. This will enable you to sign in on other platforms as well.";
+"Copy Account ID" = "Copy Account ID";
+"If you have remaining days on your Pro Subscription, no refund can be issued for the same." = "If you have remaining days on your Pro Subscription, no refund can be issued for the same.";
+
+/* Image Loading Settings */
+"The above setting only works when the Article source provides these options. If no such option is provided in the article source, the original image is always loaded." = "The above setting only works when the Article source provides these options. If no such option is provided in the article source, the original image is always loaded.";
+"The above setting is also used for galleries and Youtube video previews." = "The above setting is also used for galleries and Youtube video previews.";
+"Enabling this shows cover images in the feeds list. This setting is also affected by your setting for Bandwidth." = "Enabling this shows cover images in the feeds list. This setting is also affected by your setting for Bandwidth.";
+"Elytra can optionally use the weserv.nl Image Proxy for loading images optimized to be displayed on this device. Images loaded via the Image Proxy are smaller in size and therefore load faster and save bandwidth." = "Elytra can optionally use the weserv.nl Image Proxy for loading images optimized to be displayed on this device. Images loaded via the Image Proxy are smaller in size and therefore load faster and save bandwidth.";
+"Autoloading GIFs is not recommended for the health of your device's battery and bandwidth load. However, if you have an unlimited data plan or lots of money, this setting is for you." = "Autoloading GIFs is not recommended for the health of your device's battery and bandwidth load. However, if you have an unlimited data plan or lots of money, this setting is for you.";
+"Image Bandwidth" = "Image Bandwidth";
+"Never" = "Never";
+"Wi-Fi Only" = "Wi-Fi Only";
+"Always" = "Always";
+"Cover Images" = "Cover Images";
+"Use Image Proxy" = "Use Image Proxy";
+"Auto-load GIFs" = "Auto-load GIFs";
+"Image Resolution" = "Image Resolution";
+"Low Resolution" = "Low Resolution";
+"Medium Resolution" = "Medium Resolution";
+"High Resolution" = "High Resolution";
+
+/* Filters */
+"Error Fetching Filters" = "Error Fetching Filters";
+"Active Filters" = "Active Filters";
+"Failed to Delete Filter" = "Failed to Delete Filter";
+"An unknown error occurred when trying to delete the keyword." = "An unknown error occurred when trying to delete the keyword.";
+"Short Keyword" = "Short Keyword";
+"The keyword should be atleast 3 letters" = "The keyword should be atleast 3 letters";
+"Failed to add Filter" = "Failed to add Filter";
+"An unknown error occurred when trying to delete the keyword." = "An unknown error occurred when trying to delete the keyword.";
+
+/* MiscVC */
+"App Icon" = "App Icon";
+"Reader Bar Size" = "Reader Bar Size";
+"Small" = "Small";
+"Regular" = "Regular";
+"Large" = "Large";
+"Enable Reader Mode" = "Enable Reader Mode";
+"Are you sure you want to enable Reader Mode for all feeds?" = "Are you sure you want to enable Reader Mode for all feeds?";
+"App Icon" = "App Icon";
+"Unread Counters" = "Unread Counters";
+"Relax Mode" = "Relax Mode";
+"Mark Read Prompt" = "Mark Read Prompt";
+"Hide Bookmarks" = "Hide Bookmarks";
+"Open Unread" = "Open Unread";
+"Summary Lines" = "Summary Lines";
+"Use Toolbar" = "Use Toolbar";
+"Hide Bars" = "Hide Bars";
+"Reader Bar Size" = "Reader Bar Size";
+"Portrait Lock" = "Portrait Lock";
+"Mirror Full UI" = "Mirror Full UI";
+"Faded Selection Tint" = "Faded Selection Tint";
+"Mark Read on Scroll" = "Mark Read on Scroll";
+"Enable Reader Mode" = "Enable Reader Mode";
+"Set whether you want to see the number of unread articles in each section." = "Set whether you want to see the number of unread articles in each section.";
+"Optionally hide unread counters only from feeds and folders." = "Optionally hide unread counters only from feeds and folders.";
+"Set whether the app should prompt you when marking articles as read." = "Set whether the app should prompt you when marking articles as read.";
+"You can optionally hide the Bookmarks Tab from the Feeds Interface." = "You can optionally hide the Bookmarks Tab from the Feeds Interface.";
+"When enabled, the app will open the Unread List upon launch." = "When enabled, the app will open the Unread List upon launch.";
+"Number of summary lines to show when viewing list of Articles." = "Number of summary lines to show when viewing list of Articles.";
+"Show all actions in toolbar at the bottom of the interface instead of the navigation bar at the top. (Requires an App restart)" = "Show all actions in toolbar at the bottom of the interface instead of the navigation bar at the top. (Requires an App restart)";
+"Hides the navigation bar and toolbar in the article reader when scrolling." = "Hides the navigation bar and toolbar in the article reader when scrolling.";
+"You may choose to restrict the app's UI only to the portrait orientation." = "You may choose to restrict the app's UI only to the portrait orientation.";
+"When disabled, only the article reader interface is casted over Airplay." = "When disabled, only the article reader interface is casted over Airplay.";
+"When enabled, the articles list selection background color will be a light gray instead of the tint color." = "When enabled, the articles list selection background color will be a light gray instead of the tint color.";
+"As you scroll, the app will automatically mark articles as read." = "As you scroll, the app will automatically mark articles as read.";
+"You may enable reader mode for all feeds with a single tap." = "You may enable reader mode for all feeds with a single tap.";
+
+/* Notifications */
+"Enable Push Notifications" = "Enable Push Notifications";
+"Error Registering" = "Error Registering";
+"An unknown error occurred when registering for Push Notifications." = "An unknown error occurred when registering for Push Notifications.";
+"Error Loading Subscriptions" = "Error Loading Subscriptions";
+"Error Removing Subscription" = "Error Removing Subscription";

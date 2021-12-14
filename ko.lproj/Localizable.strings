@@ -1,0 +1,494 @@
+/* Common Actions */
+"New" = "새로운";
+
+"Delete" = "삭제";
+
+"Move" = "이동하다";
+
+"Share" = "공유하다";
+
+"Rename" = "이름 바꾸기";
+
+"Cancel" = "취소";
+
+"Done" = "완료";
+
+"Read" = "읽다";
+
+"Bookmark" = "서표";
+
+"Unbookmark" = "unbookmark.";
+
+"Browser" = "브라우저";
+
+"Open in Browser" = "브라우저에서 열려";
+
+"Share Article" = "기사 공유";
+
+"Yes" = "예";
+
+"Okay" = "괜찮아";
+
+"Copy Link" = "링크 복사";
+
+"Search" = "찾다";
+
+"Customize" = "사용자 정의";
+
+"Close" = "닫다";
+
+"Copy" = "복사";
+
+"Share URL" = "URL 공유";
+
+"Ok" = "확인";
+
+"Add" = "추가하다";
+
+"Update" = "업데이트";
+
+"Enable" = "할 수있게하다";
+
+/* Common Errors */
+"No Subscription" = "구독하지 않습니다";
+
+"An Error Occurred" = "오류가 발생하였습니다";
+
+"An unknown error has occurred." = "알 수없는 오류가 발생했습니다.";
+
+"Error Parsing" = "오류 구문 분석";
+
+"Error Processing" = "오류 처리";
+
+"Failed to Update" = "업데이트하지 못했습니다";
+
+"Failed to Create" = "만들지 못했습니다";
+
+/* Sidebar VC */
+"Feeds" = "피드";
+
+"Unread" = "읽히지 않는";
+
+"Today" = "오늘";
+
+"Bookmarks" = "책갈피";
+
+"New Feed" = "새로운 피드";
+
+"New Folder" = "새 폴더";
+
+"Last Sync: %@" = "마지막 동기화 : %@";
+
+"Delete Feed" = "피드를 삭제하십시오";
+
+"Are you sure you want to delete this feed?" = "이 피드를 삭제 하시겠습니까?";
+
+"Delete Folder" = "폴더 삭제";
+
+"Are you sure you want to delete this folder?" = "이 폴더를 삭제 하시겠습니까?";
+
+"Error Deleting Feed" = "피드를 삭제하는 중 오류가 발생했습니다";
+
+"Syncing..." = "동기화 ...";
+
+"Syncing Complete" = "동기화 완료";
+
+"Synced %.f%%" = "동기화 %.f%%";
+
+"Share Feed URL" = "주식 공급 URL";
+
+"Share Website URL" = "웹 사이트 URL 공유";
+
+"Feed Info" = "피드 정보";
+
+"Feed Menu" = "피드 메뉴";
+
+"Folder Menu" = "폴더 메뉴";
+
+"Rename Feed" = "피드의 이름 바꾸기";
+
+"Feed Name" = "피드 이름";
+
+"Error Moving Folder" = "오류 이동 폴더";
+
+"An error occurred removing the feed from its current folder - %@" = "현재 폴더에서 피드를 제거하는 중 오류가 발생했습니다 - %@";
+
+/* Feed VC */
+"No unread articles" = "읽지 않은 기사가 없습니다";
+
+"No recent articles" = "최근 기사 없음";
+
+"Mark All Read?" = "모두 읽는 것을 표시합니까?";
+
+"Are you sure you want to mark all unread articles as read?" = "모든 읽지 않은 기사를 읽고 싶습니까?";
+
+"Sorting Options" = "정렬 옵션";
+
+"Unread - Latest First" = "읽지 않은 - 최신 첫 번째";
+
+"Unread - Oldest First" = "읽지 않은 - 가장 오래된 먼저";
+
+"All - Latest First" = "ALL - 최신 첫째";
+
+"All - Oldest First" = "모두 - 가장 오래된 우선";
+
+"Error Marking Read" = "오류 표시 읽기";
+
+"Error Marking Unread" = "읽지 않은 오류가 발생했습니다";
+
+"Error Bookmarking" = "오류 북마크";
+
+"Error Unbookmarking" = "Unbookmarking 오류가 발생했습니다";
+
+"An unknown error occurred when performing this action." = "이 작업을 수행 할 때 알 수없는 오류가 발생했습니다.";
+
+"Mark Read" = "표시를 읽습니다";
+
+"Mark Unread" = "읽지 않은 상태로 표시하십시오";
+
+"Bookmark" = "서표";
+
+"Unbookmark" = "unbookmark.";
+
+"Mark Newer Read" = "Mark Newer 읽기";
+
+"Mark Older Read" = "더 오래된 표시를 표시하십시오";
+
+"Articles by %@" = "기사 @ @";
+
+"Article Actions" = "기사 조치";
+
+"Untitled" = "제목 없어";
+
+/* ArticleVC */
+"Previous search result" = "이전 검색 결과";
+
+"Next search result" = "다음 검색 결과";
+
+"Dismiss Search" = "검색 해산";
+
+"Search Article Content" = "기사 콘텐츠 검색";
+
+"Search for keywords in the article" = "기사에서 키워드를 검색하십시오";
+
+"Error loading the article" = "기사를로드하는 중 오류가 발생했습니다";
+
+"An Unexpected Error Occurred" = "예기치 않은 오류가 발생했습니다";
+
+"Error Reloading" = "오류 다시로드";
+
+"No article received after reloading." = "다시로드 후 기사가 수신되지 않았습니다.";
+
+"Search in article" = "기사에서 검색하기";
+
+"Go to previous article" = "이전 기사로 이동하십시오";
+
+"Previous Article" = "이전 기사";
+
+"Go to next article" = "다음 기사로 이동하십시오";
+
+"Next Article" = "다음 기사";
+
+"Close article" = "닫기 기사";
+
+/* Appearance VC */
+"Customization" = "사용자 정의";
+
+"Use System Sizing" = "시스템 크기 조정을 사용하십시오";
+
+"Font Size" = "글꼴 크기";
+
+"Paragraph Font" = "단락 글꼴";
+
+"Title Font" = "제목 글꼴";
+
+"Line Spacing" = "라인 간격";
+
+/* Feed Info */
+"Close Feed Info" = "피드 정보를 닫습니다";
+
+"Push Notifications" = "푸시 알림";
+
+"Local Notifications" = "로컬 알림";
+
+"This feed supports real-time notifications." = "이 피드는 실시간 알림을 지원합니다.";
+
+"Notifications for this feed will be near real-time." = "이 피드에 대한 알림은 실시간에 가까울 것입니다.";
+
+"Safari Reader Mode" = "사파리 리더 모드";
+
+"Auto Full-Text" = "자동 전체 텍스트";
+
+"When enabled, the full-text for the article will be automatically fetched." = "활성화되면 기사의 전체 텍스트가 자동으로 가져옵니다.";
+
+"Opens in Browser" = "브라우저에서 열립니다";
+
+"When enabled, the articles will be opened in the browser instead of the article reader." = "활성화되면 문서 리더 대신 브라우저에서 기사가 열립니다.";
+
+"Folder" = "폴더";
+
+"None" = "없음";
+
+"Feed URL" = "피드 URL.";
+
+"Website URL" = "웹 사이트 주소";
+
+"Copy URL" = "URL 복사본";
+
+"URL Actions" = "URL 조치";
+
+"Unsubscribe Failed" = "탈퇴 실패";
+
+"An unknown error occurred when unsubscribing." = "탈퇴 할 때 알 수없는 오류가 발생했습니다.";
+
+"Subscribe Failed" = "구독 실패";
+
+"Select a Folder" = "폴더를 선택하십시오";
+
+/* Search */
+"Delete Feed?" = "피드 삭제?";
+
+"Are you sure you want to delete %@" = "삭제 하시겠습니까 %@";
+
+"Error Loading Feeds" = "오류로드 피드";
+
+"The URL or query may be invalid. Please check the URL." = "URL 또는 쿼리가 유효하지 않을 수 있습니다.URL을 확인하십시오.";
+
+"Feed Exists" = "피드가 있습니다";
+
+"This feed already exists in your account." = "이 피드는 이미 귀하의 계정에 있습니다.";
+
+"An error occurred when parsing the feed's information. If this repeats, please contact support." = "피드의 정보를 파싱 할 때 오류가 발생했습니다.이 반복되면 지원에 문의하십시오.";
+
+"Adding Feed" = "피드 추가";
+
+"Close New Folder" = "새 폴더를 닫습니다";
+
+/* STORE VC */
+"Monthly" = "월간 간행물";
+
+"Pay as you go" = "당신이가는대로 지불";
+
+"MonthlyDesc" = "피드 수에 대한 제한이 없습니다.
+실시간 푸시 알림.
+모든 장치에서 통합 된 동기화.
+인디 개발자를 지원하십시오.";
+
+"Yearly" = "매년";
+
+"Long Term" = "장기간";
+
+"YearlyDesc" = "월간 계획의 모든 이점.
+할인 된 가격 책정.";
+
+"Failed to load Products" = "제품을로드하지 못했습니다";
+
+"An unknown error occurred when loading products. Please contact support@elytra.app" = "제품을로드 할 때 알 수없는 오류가 발생했습니다.support@elytra.app.app.에 문의하십시오";
+
+"Processing..." = "가공 ...";
+
+"Error Purchasing" = "오류 구매";
+
+"Error Restoring" = "오류 복원";
+
+"Error Loading Subscription" = "가입 오류로드 중 오류가 발생했습니다";
+
+"Select a subscription to being with" = "With With 구독을 선택하십시오";
+
+" Your subscription is managed externally." = "구독은 외부에서 관리됩니다.";
+
+"Your subscription expired on %@." = "구독이 %@ @에 만료되었습니다.";
+
+"Your account has a Lifetime subscription." = "귀하의 계정에는 평생 구독이 있습니다.";
+
+"Your free trial is active up to %@." = "무료 평가판은 %@ @까지 활성화되어 있습니다.";
+
+"Your subscription is active up to %@." = "구독이 %@ 까지 활성화되었습니다.";
+
+"Your subscription will renew on %@." = "구독은 %@ 갱신됩니다.";
+
+/* Settings */
+"Settings" = "설정";
+
+"Account" = "계정";
+
+"Filters" = "필터";
+
+"Notifications" = "알림";
+
+"Re-Sync" = "재 동기화";
+
+"Appearance" = "모습";
+
+"Background Fetch" = "배경 가져 오기";
+
+"Image Loading" = "이미지로드";
+
+"External Apps" = "외부 앱";
+
+"OPML" = "opml.";
+
+"Miscellaneous" = "여러 가지 잡다한";
+
+"Rate on AppStore" = "AppStore에서의 비율";
+
+"Attributions" = "기여";
+
+"Contact" = "연락하다";
+
+"Re-Sync All" = "모두 다시 동기화됩니다";
+
+"Re-Sync Feeds" = "다시 동기화하십시오";
+
+/* Account Settings */
+"No Account Setup" = "계정 설정 없음";
+
+"Deactivate Account" = "계정 비활성화";
+
+"Deactivate" = "비활성화하십시오";
+
+"Your Subscription" = "귀하의 가입자";
+
+"Account ID" = "계정 ID";
+
+"Subscription" = "신청";
+
+"If you deactivate your account and wish to activate it again, please email me on support@elytra.app with the above UUID. You can use the context menu/right click to copy the ID." = "계정을 비활성화하고 다시 활성화하려면 Support@elytra.app에 위의 UUID로 이메일로 보내주십시오.컨텍스트 메뉴 / 오른쪽 버튼을 클릭하여 ID를 복사 할 수 있습니다.";
+
+"Connect your Apple ID to your Elytra account. This will enable you to sign in on other platforms as well. " = "Apple ID를 Elytra 계정에 연결하십시오.이렇게하면 다른 플랫폼에서도 로그인 할 수 있습니다.";
+
+"Copy Account ID" = "계정 ID 복사";
+
+"If you have remaining days on your Pro Subscription, no refund can be issued for the same." = "프로 구독에 남아있는 일이 있으면 동일하게 환불되지 않습니다.";
+
+/* Image Loading Settings */
+"The above setting only works when the Article source provides these options. If no such option is provided in the article source, the original image is always loaded." = "위의 설정은 기사 소스가 이러한 옵션을 제공 할 때만 작동합니다.기사 소스에 그러한 옵션이 없으면 원본 이미지가 항상로드됩니다.";
+
+"The above setting is also used for galleries and Youtube video previews." = "위의 설정은 갤러리 및 YouTube 비디오 미리보기에도 사용됩니다.";
+
+"Enabling this shows cover images in the feeds list. This setting is also affected by your setting for Bandwidth." = "이를 활성화하면 피드 목록의 이미지 표지가 표시됩니다.이 설정은 대역폭 설정에 영향을받습니다.";
+
+"Elytra can optionally use the weserv.nl Image Proxy for loading images optimized to be displayed on this device. Images loaded via the Image Proxy are smaller in size and therefore load faster and save bandwidth." = "Elytra는이 장치에 표시되도록 최적화 된 이미지를로드하기 위해 선택적으로 weserv.nl 이미지 프록시를 사용할 수 있습니다.이미지 프록시를 통해로드 된 이미지는 크기가 작아서 빠르게로드되고 대역폭을 저장합니다.";
+
+"Autoloading GIFs is not recommended for the health of your device's battery and bandwidth load. However, if you have an unlimited data plan or lots of money, this setting is for you." = "장치의 배터리 및 대역폭 부하 상태에 대한 자동 로딩 GIF는 권장되지 않습니다.그러나 무제한 데이터 계획이나 많은 돈이있는 경우이 설정은 사용자를위한 것입니다.";
+
+"Image Bandwidth" = "이미지 대역폭";
+
+"Never" = "절대";
+
+"Wi-Fi Only" = "Wi-Fi 전용";
+
+"Always" = "언제나";
+
+"Cover Images" = "이미지 커버";
+
+"Use Image Proxy" = "이미지 프록시를 사용하십시오";
+
+"Auto-load GIFs" = "자동로드 GIF";
+
+"Image Resolution" = "이미지 해상도";
+
+"Low Resolution" = "저해상도";
+
+"Medium Resolution" = "중간 해상도";
+
+"High Resolution" = "높은 해상도";
+
+/* Filters */
+"Error Fetching Filters" = "필터를 가져 오는 중 오류가 발생했습니다";
+
+"Active Filters" = "활성 필터";
+
+"Failed to Delete Filter" = "필터를 삭제하지 못했습니다";
+
+"An unknown error occurred when trying to delete the keyword." = "키워드를 삭제하려고 할 때 알 수없는 오류가 발생했습니다.";
+
+"Short Keyword" = "짧은 키워드";
+
+"The keyword should be atleast 3 letters" = "키워드는 적어도 3 글자이어야합니다";
+
+"Failed to add Filter" = "필터를 추가하지 못했습니다";
+
+"An unknown error occurred when trying to delete the keyword." = "키워드를 삭제하려고 할 때 알 수없는 오류가 발생했습니다.";
+
+/* MiscVC */
+"App Icon" = "앱 아이콘";
+
+"Reader Bar Size" = "리더 막대 크기";
+
+"Small" = "작은";
+
+"Regular" = "정기적 인";
+
+"Large" = "크기가 큰";
+
+"Enable Reader Mode" = "리더 모드 활성화";
+
+"Are you sure you want to enable Reader Mode for all feeds?" = "모든 피드에 대한 리더 모드를 활성화 하시겠습니까?";
+
+"App Icon" = "앱 아이콘";
+
+"Unread Counters" = "읽지 않은 카운터";
+
+"Relax Mode" = "휴식 모드";
+
+"Mark Read Prompt" = "읽기 프롬프트를 표시하십시오";
+
+"Hide Bookmarks" = "책갈피 숨기기";
+
+"Open Unread" = "읽지 않은 읽지 않은";
+
+"Summary Lines" = "요약 라인";
+
+"Use Toolbar" = "도구 모음을 사용하십시오";
+
+"Hide Bars" = "숨기기 막대";
+
+"Reader Bar Size" = "리더 막대 크기";
+
+"Portrait Lock" = "초상화 잠금";
+
+"Mirror Full UI" = "거울 전체 UI";
+
+"Faded Selection Tint" = "퇴색 한 선택 색조";
+
+"Mark Read on Scroll" = "스크롤에서 표시를 읽습니다";
+
+"Enable Reader Mode" = "리더 모드 활성화";
+
+"Set whether you want to see the number of unread articles in each section." = "각 섹션에서 읽지 않은 기사의 수를보고 싶지 않은지 여부를 설정하십시오.";
+
+"Optionally hide unread counters only from feeds and folders." = "선택적으로 FEEDS 및 폴더에서만 읽지 않은 카운터 만 숨 깁니다.";
+
+"Set whether the app should prompt you when marking articles as read." = "앱이 기사를 읽을 때 앱을 묻는 메시지 여부를 설정합니다.";
+
+"You can optionally hide the Bookmarks Tab from the Feeds Interface." = "선택적으로 피드 인터페이스에서 책갈피 탭을 숨길 수 있습니다.";
+
+"When enabled, the app will open the Unread List upon launch." = "활성화되면 앱이 시작될 때 읽지 않은 목록을 열 것입니다.";
+
+"Number of summary lines to show when viewing list of Articles." = "조항 목록을 볼 때 표시 할 요약 라인 수입니다.";
+
+"Show all actions in toolbar at the bottom of the interface instead of the navigation bar at the top. (Requires an App restart)" = "맨 위의 탐색 모음 대신 인터페이스 하단의 도구 모음의 모든 작업을 표시합니다.(앱 재시작 필요)";
+
+"Hides the navigation bar and toolbar in the article reader when scrolling." = "스크롤 할 때 기사 리더의 탐색 모음과 도구 모음을 숨 깁니다.";
+
+"You may choose to restrict the app's UI only to the portrait orientation." = "앱의 UI를 세로 방향으로만 제한하도록 선택할 수 있습니다.";
+
+"When disabled, only the article reader interface is casted over Airplay." = "비활성화되면 기사 리더 인터페이스 만 AirPlay에서 캐스팅됩니다.";
+
+"When enabled, the articles list selection background color will be a light gray instead of the tint color." = "활성화되면 기사 목록 선택 배경색이 색조가 아닌 밝은 회색이됩니다.";
+
+"As you scroll, the app will automatically mark articles as read." = "스크롤 할 때 앱이 자동으로 읽음으로 기사를 표시합니다.";
+
+"You may enable reader mode for all feeds with a single tap." = "단일 탭으로 모든 피드에 대한 리더 모드를 활성화 할 수 있습니다.";
+
+/* Notifications */
+"Enable Push Notifications" = "푸시 알림 사용";
+
+"Error Registering" = "오류 등록";
+
+"An unknown error occurred when registering for Push Notifications." = "푸시 알림에 등록 할 때 알 수없는 오류가 발생했습니다.";
+
+"Error Loading Subscriptions" = "구독을로드하는 중 오류가 발생했습니다";
+
+"Error Removing Subscription" = "가입 오류가 제거됩니다";
