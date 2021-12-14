@@ -1,5 +1,5 @@
 # Localisations
-Localisation files used within the apps
+Localisation files used within the Elytra apps.
 
 ### Base Localisations
 The base locations have been translated using Google Translate and DeepL. Some localisations may be incorrect. If you find any inaccuracies or incorrect translations, please submit a PR with the corrections or open an issue. 
