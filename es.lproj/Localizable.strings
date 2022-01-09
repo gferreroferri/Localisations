@@ -2,11 +2,11 @@
 "New" = "New";
 "Delete" = "Borrar";
 
-"Move" = "Moverse";
+"Move" = "Mover";
 
-"Share" = "Cuota";
+"Share" = "Compartir";
 
-"Rename" = "Rebautizar";
+"Rename" = "Renombrar";
 
 "Cancel" = "Cancelar";
 
@@ -16,17 +16,17 @@
 
 "Bookmark" = "Marcador";
 
-"Unbookmark" = "Unbookmark";
+"Unbookmark" = "Desmarcar";
 
 "Open in Browser" = "Abierta en el navegador";
 
 "Share Article" = "Compartir artículo";
 
-"Yes" = "sí";
+"Yes" = "Sí";
 
-"Okay" = "Okey";
+"Okay" = "Ok";
 
-"Browser" = "Browser";
+"Browser" = "Navegador";
 
 "Copy Link" = "Copiar link";
 
@@ -36,17 +36,17 @@
 
 "Close" = "Cerrar";
 
-"Copy" = "Dupdo";
+"Copy" = "Copiar";
 
 "Share URL" = "Compartir url";
 
 "Ok" = "Ok";
 
-"Add" = "Agregar";
+"Add" = "Añadir";
 
 "Update" = "Actualizar";
 
-"None" = "None";
+"None" = "Ninguno";
 
 "Enable" = "Permitir";
 
@@ -55,7 +55,7 @@
 
 "An Error Occurred" = "Ocurrió un error";
 
-"An unknown error has occurred." = "Un error desconocido a ocurrido.";
+"An unknown error has occurred." = "Un error desconocido ha ocurrido.";
 
 "Error Parsing" = "Error al analizar";
 
@@ -66,7 +66,7 @@
 "Failed to Create" = "Fallo al crear";
 
 /* Sidebar VC */
-"Feeds" = "Feeds";
+"Feeds" = "subscripciones";
 
 "Unread" = "No leído";
 
@@ -74,21 +74,21 @@
 
 "Bookmarks" = "Marcadores";
 
-"New Feed" = "Alimento nuevo";
+"New Feed" = "Nueva subscripción";
 
 "New Folder" = "Nueva carpeta";
 
 "Last Sync: %@" = "Última sincronización: %@";
 
-"Delete Feed" = "Eliminar feed";
+"Delete Feed" = "Eliminar subscripción";
 
-"Are you sure you want to delete this feed?" = "¿Estás seguro de que quieres eliminar este feed?";
+"Are you sure you want to delete this feed?" = "¿Estás seguro de que quieres eliminar esta subscripción?";
 
 "Delete Folder" = "Eliminar carpeta";
 
 "Are you sure you want to delete this folder?" = "¿Está seguro de que desea eliminar esta carpeta?";
 
-"Error Deleting Feed" = "Error al eliminar la alimentación";
+"Error Deleting Feed" = "Error al eliminar subscripción";
 
 "Syncing..." = "Sincronización ...";
 
@@ -96,19 +96,19 @@
 
 "Synced %.f%%" = "Sincronizado %.f%%";
 
-"Share Feed URL" = "Compartir la URL de alimentación";
+"Share Feed URL" = "Compartir la URL de subscripción";
 
 "Share Website URL" = "Compartir URL del sitio web";
 
-"Feed Info" = "Información de alimentación";
+"Feed Info" = "Información de subscripción";
 
-"Feed Menu" = "Menú de alimentación";
+"Feed Menu" = "Menú de subscripción";
 
 "Folder Menu" = "Menú de carpeta";
 
 "Rename Feed" = "Renombrar el feed";
 
-"Feed Name" = "nombre de la alimentación";
+"Feed Name" = "Nombre de la subscripción";
 
 "Error Moving Folder" = "Error al mover la carpeta";
 
@@ -125,13 +125,13 @@
 
 "Sorting Options" = "Opciones de clasificación";
 
-"Unread - Latest First" = "No leído - último primero";
+"Unread - Latest First" = "No leído - nuevos primero";
 
-"Unread - Oldest First" = "No leído - mayor primero";
+"Unread - Oldest First" = "No leído - más antiguos primero";
 
-"All - Latest First" = "Todo - último primero";
+"All - Latest First" = "Todo - nuevos primero";
 
-"All - Oldest First" = "Todo - mayor primero";
+"All - Oldest First" = "Todo - más antiguos primero";
 
 "Error Marking Read" = "MARCA DE ERROR LEER";
 
