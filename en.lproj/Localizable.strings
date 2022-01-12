@@ -173,7 +173,7 @@ Discounted Pricing.";
 "Error Purchasing" = "Error Purchasing";
 "Error Restoring" = "Error Restoring";
 "Error Loading Subscription" = "Error Loading Subscription";
-"Select a subscription to being with" = "Select a subscription to being with";
+"Select a subscription plan" = "Select a subscription plan";
 " Your subscription is managed externally." = " Your subscription is managed externally.";
 "Your subscription expired on %@." = "Your subscription expired on %@.";
 "Your account has a Lifetime subscription." = "Your account has a Lifetime subscription.";
