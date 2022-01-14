@@ -56,16 +56,16 @@
 
 "An unknown error has occurred." = "Ein unbekannter Fehler ist aufgetreten.";
 
-"Error Parsing" = "Error Parsing";
+"Error Parsing" = "Fehler beim Parsing";
 
 "Error Processing" = "Fehlerverarbeitung";
 
-"Failed to Update" = "Update fehlgeschlagen";
+"Failed to Update" = "Aktualisierung fehlgeschlagen";
 
-"Failed to Create" = "Konnte nicht erstellt werden";
+"Failed to Create" = "Fehler bei der Erstellung";
 
 /* Sidebar VC */
-"Feeds" = "Einspeisungen";
+"Feeds" = "Feeden";
 
 "Unread" = "Ungelesen";
 
@@ -79,15 +79,15 @@
 
 "Last Sync: %@" = "Letzte Sync: %@";
 
-"Delete Feed" = "Futter löschen";
+"Delete Feed" = "Feed löschen";
 
-"Are you sure you want to delete this feed?" = "Möchten Sie diesen Futter sicher löschen?";
+"Are you sure you want to delete this feed?" = "Möchten Sie diesen Feed sicher löschen?";
 
-"Delete Folder" = "Lösche Ordner";
+"Delete Folder" = "Löschen Ordner";
 
-"Are you sure you want to delete this folder?" = "Möchten Sie diesen Ordner sicher, dass Sie diesen Ordner löschen möchten?";
+"Are you sure you want to delete this folder?" = "Möchten Sie diesen Ordner sicher löschen?";
 
-"Error Deleting Feed" = "Fehler beim Löschen von Futtermitteln.";
+"Error Deleting Feed" = "Fehler beim Löschen von Feed.";
 
 "Syncing..." = "Synchronisierung ...";
 
@@ -99,26 +99,26 @@
 
 "Share Website URL" = "Website freigeben URL.";
 
-"Feed Info" = "FEED INFO.";
+"Feed Info" = "Feed INFO.";
 
 "Feed Menu" = "Feedmenü.";
 
 "Folder Menu" = "Ordnermenü.";
 
-"Rename Feed" = "Futter umbenennen";
+"Rename Feed" = "Feed umbenennen";
 
 "Feed Name" = "Feedname";
 
 "Error Moving Folder" = "Fehler beim Verschieben des Ordners";
 
-"An error occurred removing the feed from its current folder - %@" = "Beim Entfernen des Feeds von seinem aktuellen Ordner ist ein Fehler aufgetreten - %@";
+"An error occurred removing the feed from its current folder - %@" = "Beim Entfernen des Feed von seinem aktuellen Ordner ist ein Fehler aufgetreten - %@";
 
 /* Feed VC */
 "No unread articles" = "Keine ungelesenen Artikel";
 
 "No recent articles" = "Keine aktuellen Artikel";
 
-"Mark All Read?" = "Markiere alles Gelesene?";
+"Mark All Read?" = "Markieren Sie Alle gelesen?";
 
 "Are you sure you want to mark all unread articles as read?" = "Möchten Sie sicher, dass Sie alle ungelesenen Artikel wie gelesen markieren möchten?";
 
@@ -136,19 +136,19 @@
 
 "Error Marking Unread" = "Fehlermarkierung ungelesen";
 
-"Error Bookmarking" = "Fehlermarkierung.";
+"Error Bookmarking" = "Fehler Lesezeichen.";
 
-"Error Unbookmarking" = "Fehler-UNO-Postmarke.";
+"Error Unbookmarking" = "Fehler beim Entfernen des Lesezeichens.";
 
 "An unknown error occurred when performing this action." = "Bei der Durchführung dieser Aktion ist ein unbekannter Fehler aufgetreten.";
 
-"Mark Read" = "als gelesen markieren";
+"Mark Read" = "Markieren lesen";
 
-"Mark Unread" = "Als ungelesen markieren";
+"Mark Unread" = "Markieren ungelesn";
 
 "Bookmark" = "Lesezeichen";
 
-"Unbookmark" = "UNOBOOK MARK.";
+"Unbookmark" = "Lesezeichen entfernen.";
 
 "Mark Newer Read" = "Marke neuer lesen.";
 
@@ -158,18 +158,18 @@
 
 "Article Actions" = "Artikelaktionen";
 
-"Untitled" = "Ohne Titel";
+"Untitled" = "Titellos";
 
 /* ArticleVC */
 "Previous search result" = "Vorheriges Suchergebnis.";
 
 "Next search result" = "Nächstes Suchergebnis.";
 
-"Dismiss Search" = "Suche ab";
+"Dismiss Search" = "Suche abweisen";
 
 "Search Article Content" = "Artikel inhalt suchen.";
 
-"Search for keywords in the article" = "Suchen Sie nach Keywords im Artikel";
+"Search for keywords in the article" = "Suchen Sie nach Schlüsselworts im Artikel";
 
 "Error loading the article" = "Fehler beim Laden des Artikels";
 
@@ -194,22 +194,22 @@
 /* Appearance VC */
 "Customization" = "Anpassung";
 
-"Use System Sizing" = "Verwenden Sie die Systemgröße.";
+"Use System Sizing" = "Systemdimensionierung verwenden.";
 
 "Font Size" = "Schriftgröße";
 
-"Paragraph Font" = "Absatzart";
+"Paragraph Font" = "Absatzschrift";
 
-"Title Font" = "Überschrift";
+"Title Font" = "Titel Schriftart";
 
 "Line Spacing" = "Zeilenabstand";
 
 /* Feed Info */
-"Close Feed Info" = "Futtermittel info schließen";
+"Close Feed Info" = "Feedmittel info schließen";
 
 "Push Notifications" = "Mitteilungen";
 
-"Local Notifications" = "Lokale Benachrichtigungen";
+"Local Notifications" = "Lokale Mitteilungen";
 
 "This feed supports real-time notifications." = "Dieser Vorschub unterstützt Echtzeit-Benachrichtigungen.";
 
@@ -227,7 +227,7 @@
 
 "Folder" = "Ordner";
 
-"None" = "Keiner";
+"None" = "Kein";
 
 "Feed URL" = "Feed-URL";
 
@@ -246,28 +246,28 @@
 "Select a Folder" = "Wählen Sie einen Ordner aus";
 
 /* Search */
-"Delete Feed?" = "Futter löschen?";
+"Delete Feed?" = "Feed löschen?";
 
 "Are you sure you want to delete %@" = "Sind Sie sicher, dass Sie löschen möchten %@";
 
-"Error Loading Feeds" = "Fehler beim Laden von Feeds.";
+"Error Loading Feeds" = "Fehler beim Laden von Feed.";
 
-"The URL or query may be invalid. Please check the URL." = "Die URL oder die Abfrage kann ungültig sein.Bitte überprüfen Sie die URL.";
+"The URL or query may be invalid. Please check the URL." = "Die URL oder die Abfrage ist vielleicht ungültig. Bitte überprüfen Sie die URL.";
 
-"Feed Exists" = "Futter existiert.";
+"Feed Exists" = "Feed existiert.";
 
-"This feed already exists in your account." = "Dieser Futter ist bereits in Ihrem Konto vorhanden.";
+"This feed already exists in your account." = "Dieser Feed ist bereits in Ihrem Konto vorhanden.";
 
 "An error occurred when parsing the feed's information. If this repeats, please contact support." = "Beim Analysieren der Informationen des Feeds ist ein Fehler aufgetreten.Wenn dies wiederholt, wenden Sie sich bitte an den Support.";
 
-"Adding Feed" = "Futtermittel hinzufügen";
+"Adding Feed" = "Hinzufügen von Feed";
 
 "Close New Folder" = "Neuer Ordner schließen";
 
 /* STORE VC */
 "Monthly" = "Monatlich";
 
-"Pay as you go" = "Zahlen Sie wenn sie hinausgehen";
+"Pay as you go" = "Bezahlen Sie wenn Sie hinausgehen";
 
 "MonthlyDesc" = "Keine Begrenzung der Anzahl der Feeds.
 Echtzeit-Push-Benachrichtigungen.
@@ -285,11 +285,11 @@ Ermäßigte Preisgestaltung.";
 
 "An unknown error occurred when loading products. Please contact support@elytra.app" = "Beim Laden von Produkten ist ein unbekannter Fehler aufgetreten.Bitte wenden Sie sich an support@elytra.app.";
 
-"Processing..." = "Wird bearbeitet...";
+"Processing..." = "Bearbeitung...";
 
-"Error Purchasing" = "Fehler beim Kauf.";
+"Error Purchasing" = "Fehler beim Kaufen.";
 
-"Error Restoring" = "Fehlerbehebung";
+"Error Restoring" = "Fehler Wiederherstellung";
 
 "Error Loading Subscription" = "Fehler beim Laden der Abonnement";
 
@@ -301,7 +301,7 @@ Ermäßigte Preisgestaltung.";
 
 "Your account has a Lifetime subscription." = "Ihr Konto hat ein langjähriges Abonnement.";
 
-"Your free trial is active up to %@." = "Ihre kostenlose Testversion ist auf %@ tätig.";
+"Your free trial is active up to %@." = "Ihr kostenloser Test ist aktiv bis zu %@.";
 
 "Your subscription is active up to %@." = "Ihr Abonnement ist auf %@ aktiv.";
 
@@ -328,7 +328,7 @@ Ermäßigte Preisgestaltung.";
 
 "OPML" = "OPML";
 
-"Miscellaneous" = "Sonstig";
+"Miscellaneous" = "Sonstiges";
 
 "Rate on AppStore" = "Rate auf dem Appstore.";
 
@@ -341,7 +341,7 @@ Ermäßigte Preisgestaltung.";
 "Re-Sync Feeds" = "Re-sync-Feeds";
 
 /* Account Settings */
-"No Account Setup" = "Kein Konto-Setup.";
+"No Account Setup" = "Kein Konto einrichten.";
 
 "Deactivate Account" = "Benutzerkonto deaktivieren";
 
@@ -353,32 +353,32 @@ Ermäßigte Preisgestaltung.";
 
 "Subscription" = "Abonnement";
 
-"If you deactivate your account and wish to activate it again, please email me on support@elytra.app with the above UUID. You can use the context menu/right click to copy the ID." = "Wenn Sie Ihr Konto deaktivieren und erneut aktivieren möchten, senden Sie mir bitte eine E-Mail an support@elytra.app mit dem obigen UUID.Sie können den Kontextmenü / Rechtsklick verwenden, um die ID zu kopieren.";
+"If you deactivate your account and wish to activate it again, please email me on support@elytra.app with the above UUID. You can use the context menu/right click to copy the ID." = "Wenn Sie Ihr Konto deaktivieren und es wieder aktivieren möchten, senden Sie mir bitte eine E-Mail an support@elytra.app mit der oben genannten UUID. Sie können das Kontextmenü/Rechtsklick verwenden, um die ID zu kopieren.";
 
-"Connect your Apple ID to your Elytra account. This will enable you to sign in on other platforms as well. " = "Verbinden Sie Ihre Apple-ID an Ihr ELYTRA-Konto.So können Sie sich auch auf anderen Plattformen anmelden.";
+"Connect your Apple ID to your Elytra account. This will enable you to sign in on other platforms as well. " = "Verbinden Sie Ihre Apple ID mit Ihrem Elytra-Konto. Dies ermöglicht es Ihnen, sich auch auf anderen Plattformen anzumelden.";
 
 "Copy Account ID" = "Konto-ID kopieren";
 
-"If you have remaining days on your Pro Subscription, no refund can be issued for the same." = "Wenn Sie auf Ihrem Pro-Abonnement verbleibende Tage haben, kann für dasselbe keine Rückerstattung ausgegeben werden.";
+"If you have remaining days on your Pro Subscription, no refund can be issued for the same." = "Wenn Sie noch Tage für Ihr Pro-Abonnement übrig haben, kann keine Rückerstattung für dasselbe erfolgen.";
 
 /* Image Loading Settings */
-"The above setting only works when the Article source provides these options. If no such option is provided in the article source, the original image is always loaded." = "Die obige Einstellung funktioniert nur, wenn die Artikelquelle diese Optionen bereitstellt.Wenn in der Artikelquelle keine solche Option bereitgestellt wird, wird das Originalbild immer geladen.";
+"The above setting only works when the Article source provides these options. If no such option is provided in the article source, the original image is always loaded." = "Die obige Einstellung funktioniert nur, wenn die Artikelquelle diese Optionen bereitstellt. Wenn in der Artikelquelle keine solche Option vorgesehen ist, wird immer das Originalbild geladen.";
 
-"The above setting is also used for galleries and Youtube video previews." = "Die obige Einstellung wird auch für Galerien und YouTube-Videovorschau verwendet.";
+"The above setting is also used for galleries and Youtube video previews." = "Die obige Einstellung wird auch für Galerien und Youtube-Videovorschauen verwendet.";
 
-"Enabling this shows cover images in the feeds list. This setting is also affected by your setting for Bandwidth." = "Aktivieren, um dies zu ermöglichen, werden Abdeckbilder in der Futterliste angezeigt.Diese Einstellung ist auch von Ihrer Einstellung für die Bandbreite betroffen.";
+"Enabling this shows cover images in the feeds list. This setting is also affected by your setting for Bandwidth." = "Wenn Sie diese Einstellung aktivieren, werden in der Feeds-Liste Cover-Bilder angezeigt. Diese Einstellung wird auch von Ihrer Einstellung für die Bandbreite betroffen.";
 
-"Elytra can optionally use the weserv.nl Image Proxy for loading images optimized to be displayed on this device. Images loaded via the Image Proxy are smaller in size and therefore load faster and save bandwidth." = "Elytra kann optional den WeServ.nl-Image-Proxy verwenden, um Bilder auf diesem Gerät optimiert zu laden.Bilder, die über das Image-Proxy geladen sind, sind in der Größe kleiner und laden daher schneller und sparen Bandbreiten.";
+"Elytra can optionally use the weserv.nl Image Proxy for loading images optimized to be displayed on this device. Images loaded via the Image Proxy are smaller in size and therefore load faster and save bandwidth." = "Elytra kann optional den weserv.nl Image Proxy verwenden, um Bilder zu laden, die für die Anzeige auf diesem Gerät optimiert sind. Bilder, die über den Image Proxy geladen werden, sind kleiner und werden daher schneller geladen und sparen Bandbreite.";
 
-"Autoloading GIFs is not recommended for the health of your device's battery and bandwidth load. However, if you have an unlimited data plan or lots of money, this setting is for you." = "Das Autoloading-Gifs wird nicht für die Gesundheit der Batterie- und Bandbreitenlast Ihres Geräts empfohlen.Wenn Sie jedoch einen unbegrenzten Datenplan oder viel Geld haben, ist diese Einstellung für Sie.";
+"Autoloading GIFs is not recommended for the health of your device's battery and bandwidth load. However, if you have an unlimited data plan or lots of money, this setting is for you." = "Das automatische Laden von GIFs ist für den Akku Ihres Geräts und die Bandbreitenbelastung nicht empfehlenswert. Wenn Sie jedoch einen unbegrenzten Datentarif oder viel Geld haben, ist diese Einstellung für Sie geeignet.";
 
 "Image Bandwidth" = "Bildbandbreite";
 
-"Never" = "noch nie";
+"Never" = "Nie";
 
 "Wi-Fi Only" = "Nur Wifi";
 
-"Always" = "Stets";
+"Always" = "Immer";
 
 "Cover Images" = "Bilder abdecken";
 
@@ -403,11 +403,11 @@ Ermäßigte Preisgestaltung.";
 
 "An unknown error occurred when trying to delete the keyword." = "Beim Versuch, das Schlüsselwort zu löschen, ist ein unbekannter Fehler aufgetreten.";
 
-"Short Keyword" = "Kurzes Keyword";
+"Short Schlüsselwort" = "Kurzes Schlüsselwort";
 
 "The keyword should be atleast 3 letters" = "Das Schlüsselwort sollte mindestens 3 Buchstaben sein";
 
-"Failed to add Filter" = "Filter fehlgeschlagen fehlgeschlagen";
+"Failed to add Filter" = "Fehlgeschlagen beim Filter hinzufügen.";
 
 "An unknown error occurred when trying to delete the keyword." = "Beim Versuch, das Schlüsselwort zu löschen, ist ein unbekannter Fehler aufgetreten.";
 
@@ -424,7 +424,7 @@ Ermäßigte Preisgestaltung.";
 
 "Enable Reader Mode" = "Lesermodus aktivieren";
 
-"Are you sure you want to enable Reader Mode for all feeds?" = "Sind Sie sicher, dass Sie den Reader-Modus für alle Futtermitteln aktivieren möchten?";
+"Are you sure you want to enable Reader Mode for all feeds?" = "Sind Sie sicher, dass Sie den Reader-Modus für alle Feedmitteln aktivieren möchten?";
 
 "App Icon" = "App-Symbol";
 
@@ -450,9 +450,9 @@ Ermäßigte Preisgestaltung.";
 
 "Mirror Full UI" = "Spiegel voller UI.";
 
-"Faded Selection Tint" = "Verblasste Auswahltier";
+"Faded Selection Tint" = "Faded Selection Tint";
 
-"Mark Read on Scroll" = "Markieren Sie auf der Schriftrolle";
+"Mark Read on Scroll" = "Markierung auf Schriftrolle lesen";
 
 "Enable Reader Mode" = "Lesermodus aktivieren";
 
@@ -462,7 +462,7 @@ Ermäßigte Preisgestaltung.";
 
 "Set whether the app should prompt you when marking articles as read." = "Stellen Sie fest, ob die App Sie beim Markieren von Artikeln wie gelesen auffordert.";
 
-"You can optionally hide the Bookmarks Tab from the Feeds Interface." = "Sie können optional die Registerkarte Lesezeichen aus der Futterschnittstelle ausblenden.";
+"You can optionally hide the Bookmarks Tab from the Feeds Interface." = "Sie können optional die Registerkarte Lesezeichen aus der Feedschnittstelle ausblenden.";
 
 "When enabled, the app will open the Unread List upon launch." = "Wenn aktiviert, öffnet die App beim Start die ungelesene Liste.";
 
@@ -480,7 +480,7 @@ Ermäßigte Preisgestaltung.";
 
 "As you scroll, the app will automatically mark articles as read." = "Wenn Sie scrollen, markiert die App automatisch Artikel wie gelesen.";
 
-"You may enable reader mode for all feeds with a single tap." = "Sie können den Reader-Modus für alle Futtermitteln mit einem einzelnen Hahn aktivieren.";
+"You may enable reader mode for all feeds with a single tap." = "Sie können den Reader-Modus für alle Feedmitteln mit einem einzelnen Hahn aktivieren.";
 
 /* Notifications */
 "Enable Push Notifications" = "Aktivieren Sie Push-Benachrichtigungen";
@@ -496,7 +496,7 @@ Ermäßigte Preisgestaltung.";
 /* ResetVC */
 "Reset parts of your account or all data in your account. Please remember to export your feeds as an OPML file before resetting folders or feeds. Once the data is reset, it cannot be recovered." = "Setzen Sie Teile Ihres Kontos oder aller Daten auf Ihr Konto zurück.Bitte denken Sie daran, Ihre Feeds als OPML-Datei zu exportieren, bevor Sie Ordner oder Feeds zurücksetzen.Sobald die Daten zurückgesetzt werden, kann er nicht wiederhergestellt werden.";
 
-"Custom Feed Names" = "Benutzerdefinierte Futternamen";
+"Custom Feed Names" = "Benutzerdefinierte Feednamen";
 
 "Full Account" = "Volles Konto";
 
