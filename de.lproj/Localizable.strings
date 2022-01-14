@@ -456,31 +456,31 @@ Ermäßigte Preisgestaltung.";
 
 "Enable Reader Mode" = "Lesermodus aktivieren";
 
-"Set whether you want to see the number of unread articles in each section." = "Stellen Sie fest, ob Sie die Anzahl der ungelesenen Artikeln in jedem Abschnitt sehen möchten.";
+"Set whether you want to see the number of unread articles in each section." = "Entscheiden Sie, ob Sie die Anzahl der ungelesenen Artikel in jedem Abschnitt sehen möchten.";
 
-"Optionally hide unread counters only from feeds and folders." = "Geben Sie optional ungelesene Zähler nur aus Feeds und Ordnern aus.";
+"Optionally hide unread counters only from feeds and folders." = "Blenden Sie optional die Zähler für ungelesene Artikel nur in Feeds und Ordnern aus.";
 
-"Set whether the app should prompt you when marking articles as read." = "Stellen Sie fest, ob die App Sie beim Markieren von Artikeln wie gelesen auffordert.";
+"Set whether the app should prompt you when marking articles as read." = "Legen Sie fest, ob die App Sie auffordern soll, wenn Sie Artikel als gelesen markieren.";
 
-"You can optionally hide the Bookmarks Tab from the Feeds Interface." = "Sie können optional die Registerkarte Lesezeichen aus der Feedschnittstelle ausblenden.";
+"You can optionally hide the Bookmarks Tab from the Feeds Interface." = "Sie können optional die Option Lesezeichen aus der Feeds-Oberfläche ausblenden.";
 
-"When enabled, the app will open the Unread List upon launch." = "Wenn aktiviert, öffnet die App beim Start die ungelesene Liste.";
+"When enabled, the app will open the Unread List upon launch." = "Wenn diese Option aktiviert ist, wird die App beim Start die Liste der ungelesenen Artikel öffnen.";
 
-"Number of summary lines to show when viewing list of Articles." = "Anzahl der zusammenfassenden Zeilen, die beim Anzeigen der Liste der Artikeln angezeigt werden soll.";
+"Number of summary lines to show when viewing list of Articles." = "Anzahl der Zusammenfassungszeilen, die beim Anzeigen der Artikelliste angezeigt werden sollen.";
 
-"Show all actions in toolbar at the bottom of the interface instead of the navigation bar at the top. (Requires an App restart)" = "Alle Aktionen in der Symbolleiste an der Unterseite der Schnittstelle anstelle der Navigationsleiste an der Spitze anzeigen.(Erfordert eine App-Neustart)";
+"Show all actions in toolbar at the bottom of the interface instead of the navigation bar at the top. (Requires an App restart)" = "Alle Aktionen werden in der Symbolleiste am unteren Rand der Benutzeroberfläche statt in der Navigationsleiste am oberen Rand angezeigt. (Erfordert einen Neustart der App)";
 
-"Hides the navigation bar and toolbar in the article reader when scrolling." = "Häuptet die Navigationsleiste und die Symbolleiste im Artikelleser beim Scrollen an.";
+"Hides the navigation bar and toolbar in the article reader when scrolling." = "Blendet die Navigations- und Symbolleiste im Artikelreader beim Scrollen aus.";
 
-"You may choose to restrict the app's UI only to the portrait orientation." = "Sie können die Benutzeroberfläche der App nur auf die Porträtorientierung einschränken.";
+"You may choose to restrict the app's UI only to the portrait orientation." = "Sie können festlegen, dass die Benutzeroberfläche der App nur im Hochformat angezeigt wird.";
 
-"When disabled, only the article reader interface is casted over Airplay." = "Wenn deaktiviert, wird nur die Artikel-Reader-Schnittstelle über AirPlay gegossen.";
+"When disabled, only the article reader interface is casted over Airplay." = "Wenn diese Option deaktiviert ist, wird nur die Oberfläche des Artikel-Readers über Airplay übertragen.";
 
-"When enabled, the articles list selection background color will be a light gray instead of the tint color." = "Wenn aktiviert, ist die Artikelslistenauswahl-Hintergrundfarbe ein hellgraues Grau anstelle der Tönungsfarbe.";
+"When enabled, the articles list selection background color will be a light gray instead of the tint color." = "Wenn diese Option aktiviert ist, wird die Hintergrundfarbe der Artikelliste in einem hellen Grau statt in der Farbe des Farbtons angezeigt.";
 
-"As you scroll, the app will automatically mark articles as read." = "Wenn Sie scrollen, markiert die App automatisch Artikel wie gelesen.";
+"As you scroll, the app will automatically mark articles as read." = "Wenn Sie scrollen, markiert die App automatisch Artikel als gelesen.";
 
-"You may enable reader mode for all feeds with a single tap." = "Sie können den Reader-Modus für alle Feedmitteln mit einem einzelnen Hahn aktivieren.";
+"You may enable reader mode for all feeds with a single tap." = "Sie können den Lesemodus für alle Feeds mit einem einzigen Tippen aktivieren.";
 
 /* Notifications */
 "Enable Push Notifications" = "Aktivieren Sie Push-Benachrichtigungen";
@@ -494,7 +494,8 @@ Ermäßigte Preisgestaltung.";
 "Error Removing Subscription" = "Fehler beim Entfernen des Abonnements";
 
 /* ResetVC */
-"Reset parts of your account or all data in your account. Please remember to export your feeds as an OPML file before resetting folders or feeds. Once the data is reset, it cannot be recovered." = "Setzen Sie Teile Ihres Kontos oder aller Daten auf Ihr Konto zurück.Bitte denken Sie daran, Ihre Feeds als OPML-Datei zu exportieren, bevor Sie Ordner oder Feeds zurücksetzen.Sobald die Daten zurückgesetzt werden, kann er nicht wiederhergestellt werden.";
+"Reset parts of your account or all data in your account. Please remember to export your feeds as an OPML file before resetting folders or feeds. Once the data is reset, it cannot be recovered." = "Setzen Sie Teile Ihres Kontos oder alle Daten in Ihrem Konto zurück. Bitte denken Sie daran, Ihre Feeds als OPML-Datei zu exportieren, bevor Sie Ordner oder Feeds zurücksetzen. Sobald die Daten zurückgesetzt wurden, können sie nicht mehr wiederhergestellt werden. 
+";
 
 "Custom Feed Names" = "Benutzerdefinierte Feednamen";
 
@@ -513,7 +514,7 @@ Ermäßigte Preisgestaltung.";
 
 "Every hour" = "Jede Stunde";
 
-"Once your account is deactivated, all your account data is usually deleted within an hour. Please make sure you have taken an export of your feeds." = "Sobald Ihr Konto deaktiviert ist, werden alle Ihre Kontodaten in der Regel innerhalb einer Stunde gelöscht.Bitte stellen Sie sicher, dass Sie einen Export Ihrer Feeds ergriffen haben.";
+"Once your account is deactivated, all your account data is usually deleted within an hour. Please make sure you have taken an export of your feeds." = "Sobald Ihr Konto deaktiviert ist, werden alle Ihre Kontodaten in der Regel innerhalb einer Stunde gelöscht. Bitte stellen Sie sicher, dass Sie einen Export Ihrer Feeds vorgenommen haben.";
 
 "Open web pages in background in browser" = "Öffnen Sie Webseiten im Hintergrund im Browser";
 
@@ -532,13 +533,13 @@ Ermäßigte Preisgestaltung.";
 
 "Always load images" = "Laden Sie immer Bilder";
 
-"Misc" = "Verschiedenes";
+"Misc" = "Sonstiges";
 
 "Show cover images" = "Abdeckbilder anzeigen.";
 
 "Image Proxy" = "Image-Proxy.";
 
-"Elytra can optionally use the weserv.nl Image Proxy for loading images optimized to be displayed on this device. Images loaded from the Image Proxy are smaller in size and therefore load faster and save bandwidth." = "Elytra kann optional den WeServ.nl-Image-Proxy verwenden, um Bilder auf diesem Gerät optimiert zu laden.Bilder, die aus dem Image-Proxy geladen sind, sind in der Größe kleiner und laden daher schneller und sparen Bandbreiten.";
+"Elytra can optionally use the weserv.nl Image Proxy for loading images optimized to be displayed on this device. Images loaded from the Image Proxy are smaller in size and therefore load faster and save bandwidth." = "Elytra kann optional den weserv.nl Image Proxy verwenden, um Bilder zu laden, die für die Anzeige auf diesem Gerät optimiert sind. Bilder, die über den Image-Proxy geladen werden, sind kleiner und werden daher schneller geladen und sparen Bandbreite." = "Elytra kann optional den WeServ.nl-Image-Proxy verwenden, um Bilder auf diesem Gerät optimiert zu laden.Bilder, die aus dem Image-Proxy geladen werden, sind in der Größe kleiner und laden daher schneller und sparen Bandbreiten.";
 
 "Autoload GIFs" = "Autoload-Gifs.";
 
