@@ -3,7 +3,7 @@
 
 "Delete" = "Löschen";
 
-"Move" = "Bewegung";
+"Move" = "Bewegen";
 
 "Share" = "Teilen";
 
@@ -17,29 +17,29 @@
 
 "Bookmark" = "Lesezeichen";
 
-"Unbookmark" = "UNOBOOK MARK.";
+"Unbookmark" = "Entfernen Lesezeichen.";
 
 "Browser" = "Browser";
 
-"Open in Browser" = "Im Browser geöffnet";
+"Open in Browser" = "Im Browser öffnen";
 
 "Share Article" = "Artikel teilen.";
 
-"Yes" = "Jawohl";
+"Yes" = "Ja";
 
 "Okay" = "Okay";
 
 "Copy Link" = "Link kopieren";
 
-"Search" = "Suche";
+"Search" = "Suchen";
 
 "Customize" = "Anpassen";
 
-"Close" = "Nah dran";
+"Close" = "Schließen";
 
 "Copy" = "Kopieren";
 
-"Share URL" = "Teilen Sie URL";
+"Share URL" = "URL teilen";
 
 "Ok" = "Ok";
 
@@ -77,7 +77,7 @@
 
 "New Folder" = "Neuer Ordner";
 
-"Last Sync: %@" = "Letzte Sync:%@";
+"Last Sync: %@" = "Letzte Sync: %@";
 
 "Delete Feed" = "Futter löschen";
 
