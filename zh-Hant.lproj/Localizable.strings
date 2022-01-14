@@ -293,7 +293,7 @@
 
 "Error Loading Subscription" = "加載訂閱時出錯";
 
-"Select a subscription to being with" = "選擇訂閱";
+"Select a subscription plan" = "選擇訂閱計劃";
 
 " Your subscription is managed externally." = "您的訂閱在外部管理。";
 
@@ -492,3 +492,102 @@
 "Error Loading Subscriptions" = "加載訂閱時出錯";
 
 "Error Removing Subscription" = "刪除訂閱時出錯";
+
+/* ResetVC */
+"Reset parts of your account or all data in your account. Please remember to export your feeds as an OPML file before resetting folders or feeds. Once the data is reset, it cannot be recovered." = "重置帳戶的部分或帳戶中的所有數據。請記得在重置文件夾或饋送之前將饋送導出為OPML文件。重置數據後，無法恢復。";
+
+"Custom Feed Names" = "自定義饋送名稱";
+
+"Full Account" = "完整賬戶";
+
+"Selective" = "可選擇的";
+
+"All" = "全部";
+
+/* General Prefs */
+"Refresh feeds" = "刷新源：";
+
+"Manually" = "手動";
+
+"Every 30 minutes" = "每30分鐘一次";
+
+"Every hour" = "每隔一小時";
+
+"Once your account is deactivated, all your account data is usually deleted within an hour. Please make sure you have taken an export of your feeds." = "一旦您的帳戶停用，您的所有帳戶數據通常會在一小時內刪除。請確保您的飼料導出。";
+
+"Open web pages in background in browser" = "在瀏覽器中打開Web頁面";
+
+"Press the shift key to do the opposite" = "按Shift鍵進行對側";
+
+"Dock Icon" = "碼頭圖標";
+
+"Show unread count" = "顯示未讀數";
+
+/* Images Prefs */
+"Resolution" = "解決";
+
+"Bandwidth" = "帶寬";
+
+"Never load images" = "永遠不會加載圖像";
+
+"Always load images" = "始終加載圖像";
+
+"Misc" = "雜項";
+
+"Show cover images" = "顯示封面圖像";
+
+"Image Proxy" = "圖像代理";
+
+"Elytra can optionally use the weserv.nl Image Proxy for loading images optimized to be displayed on this device. Images loaded from the Image Proxy are smaller in size and therefore load faster and save bandwidth." = "Elytra可以選擇使用WeServ.nl圖像代理來加載優化的圖像，以顯示在此設備上。從圖像代理加載的圖像的尺寸較小，因此加載更快並節省帶寬。";
+
+"Autoload GIFs" = "自動加載GIF";
+
+"The font to use for drawing the paragraph text in an article." = "用於在文章中繪製段落文本的字體。";
+
+"Heading Font" = "標題字體";
+
+"The font to use for drawing the headers in an article." = "用於在文章中繪製標題的字體。";
+
+"Line spacing" = "行間距";
+
+"The space between two lines of text. A lower values renders a compact layout, a higher value renders comfortable layout." = "兩行文本之間的空間。較低的值呈現緊湊的佈局，較高的值呈現舒適的佈局。";
+
+"Font size" = "字體大小";
+
+"The base font size. Pargraphs are rendered at this size. Other elements derive their sizes proportional to this." = "基本字體大小。Pargraphs以這種尺寸呈現。其他元素導出其尺寸與此成正比。";
+
+/* MISC */
+"Show unread counters" = "顯示未讀計數器";
+
+"You can optionally hide the Bookmarks Tab from the Sidebar." = "您可以選擇從側欄中隱藏書籤選項卡。";
+
+"Summary" = "概括";
+
+"Number of summary lines to show when viewing the list of Articles." = "查看文章列表時要顯示的摘要行數。";
+
+"Apps" = "應用";
+
+"Your preferred Twitter app. Clicking on a tweet will open this app." = "您喜歡的Twitter應用程序。點擊推文將打開此應用程序。";
+
+"Updates" = "更新";
+
+"Release Builds" = "發布構建";
+
+"Test Builds" = "測試版本";
+
+"Automatically Check for Updates" = "自動檢查更新";
+
+"You should select Release if you want only the most stable releases. Test Builds may be buggy, crash  and even cause data loss." = "如果您只想最穩定的版本，您應該選擇版本。測試構建可能是錯誤，崩潰甚至導致數據丟失。";
+
+/* Preferences Controller */
+
+/* Title for General Prefs Tab */
+"General" = "一般的";
+
+/* Title for Images Prefs Tab */
+"Images" = "圖片";
+
+/* Title for Reader Prefs Tab */
+"Reader" = "讀者";
+
+"Set up your account" = "設置您的帳戶";

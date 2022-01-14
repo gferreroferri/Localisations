@@ -293,7 +293,7 @@ Ermäßigte Preisgestaltung.";
 
 "Error Loading Subscription" = "Fehler beim Laden der Abonnement";
 
-"Select a subscription to being with" = "Wählen Sie ein Abonnement zum Sein mit";
+"Select a subscription plan" = "Wählen Sie einen Abonnementplan aus";
 
 " Your subscription is managed externally." = "Ihr Abonnement wird extern verwaltet.";
 
@@ -492,3 +492,101 @@ Ermäßigte Preisgestaltung.";
 "Error Loading Subscriptions" = "Fehler beim Laden von Abonnements";
 
 "Error Removing Subscription" = "Fehler beim Entfernen des Abonnements";
+
+/* ResetVC */
+"Reset parts of your account or all data in your account. Please remember to export your feeds as an OPML file before resetting folders or feeds. Once the data is reset, it cannot be recovered." = "Setzen Sie Teile Ihres Kontos oder aller Daten auf Ihr Konto zurück.Bitte denken Sie daran, Ihre Feeds als OPML-Datei zu exportieren, bevor Sie Ordner oder Feeds zurücksetzen.Sobald die Daten zurückgesetzt werden, kann er nicht wiederhergestellt werden.";
+
+"Custom Feed Names" = "Benutzerdefinierte Futternamen";
+
+"Full Account" = "Volles Konto";
+
+"Selective" = "Selektiv";
+
+"All" = "Alle";
+
+/* General Prefs */
+"Refresh feeds" = "Refresh-Feeds:";
+
+"Manually" = "Manuell";
+
+"Every 30 minutes" = "Alle 30 Minuten";
+
+"Every hour" = "Jede Stunde";
+
+"Once your account is deactivated, all your account data is usually deleted within an hour. Please make sure you have taken an export of your feeds." = "Sobald Ihr Konto deaktiviert ist, werden alle Ihre Kontodaten in der Regel innerhalb einer Stunde gelöscht.Bitte stellen Sie sicher, dass Sie einen Export Ihrer Feeds ergriffen haben.";
+
+"Open web pages in background in browser" = "Öffnen Sie Webseiten im Hintergrund im Browser";
+
+"Press the shift key to do the opposite" = "Drücken Sie die Umschalttaste, um das Gegenteil zu dienen";
+
+"Dock Icon" = "Dock-Symbol";
+
+"Show unread count" = "Ungelesene Zählung anzeigen.";
+
+/* Images Prefs */
+"Resolution" = "Auflösung";
+
+"Bandwidth" = "Bandbreite";
+
+"Never load images" = "Laden Sie niemals Bilder";
+
+"Always load images" = "Laden Sie immer Bilder";
+
+"Misc" = "Verschiedenes";
+
+"Show cover images" = "Abdeckbilder anzeigen.";
+
+"Image Proxy" = "Image-Proxy.";
+
+"Elytra can optionally use the weserv.nl Image Proxy for loading images optimized to be displayed on this device. Images loaded from the Image Proxy are smaller in size and therefore load faster and save bandwidth." = "Elytra kann optional den WeServ.nl-Image-Proxy verwenden, um Bilder auf diesem Gerät optimiert zu laden.Bilder, die aus dem Image-Proxy geladen sind, sind in der Größe kleiner und laden daher schneller und sparen Bandbreiten.";
+
+"Autoload GIFs" = "Autoload-Gifs.";
+
+"The font to use for drawing the paragraph text in an article." = "Die Schriftart, um den Absatztext in einem Artikel zu zeichnen.";
+
+"Heading Font" = "Rubrikschrift";
+
+"The font to use for drawing the headers in an article." = "Die Schriftart, um die Header in einem Artikel zu zeichnen.";
+
+"Line spacing" = "Zeilenabstand";
+
+"The space between two lines of text. A lower values renders a compact layout, a higher value renders comfortable layout." = "Der Raum zwischen zwei Textzeilen.Eine niedrigere Werte macht ein kompaktes Layout, ein höherer Wert, der komfortables Layout angeht.";
+
+"Font size" = "Schriftgröße";
+
+"The base font size. Pargraphs are rendered at this size. Other elements derive their sizes proportional to this." = "Die Basis-Schriftgröße.Paragraphen werden zu dieser Größe gerendert.Andere Elemente liefern ihre Größen proportional dazu.";
+
+/* MISC */
+"Show unread counters" = "Ungelesene Zähler anzeigen.";
+
+"You can optionally hide the Bookmarks Tab from the Sidebar." = "Sie können optional die Registerkarte Lesezeichen aus der Seitenleiste ausblenden.";
+
+"Summary" = "Zusammenfassung";
+
+"Number of summary lines to show when viewing the list of Articles." = "Anzahl der zusammenfassenden Zeilen, um beim Anzeigen der Liste der Artikeln anzuzeigen.";
+
+"Apps" = "Apps";
+
+"Your preferred Twitter app. Clicking on a tweet will open this app." = "Ihre bevorzugte Twitter-App.Wenn Sie auf einen Tweet klicken, wird diese App geöffnet.";
+
+"Updates" = "Aktualisierung";
+
+"Release Builds" = "Release-Builds";
+
+"Test Builds" = "Testaufbau";
+
+"Automatically Check for Updates" = "Automatisch nach Aktualisierungen suchen";
+
+"You should select Release if you want only the most stable releases. Test Builds may be buggy, crash  and even cause data loss." = "Sie sollten die Freigabe auswählen, wenn Sie nur die stabilsten Versionen wünschen.Test Builds können fehlerhaft sein, abstürzen und sogar Datenverlust verursachen.";
+
+/* Preferences Controller */
+
+/* Title for General Prefs Tab */
+"General" = "Allgemein";
+/* Title for Images Prefs Tab */
+"Images" = "Bilde";
+/* Title for Reader Prefs Tab */
+"Reader" = "Reader";
+
+"Set up your account" = "Richten Sie Ihr Konto ein";
+

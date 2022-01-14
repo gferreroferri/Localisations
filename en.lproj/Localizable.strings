@@ -235,7 +235,7 @@ Discounted Pricing.";
 "Failed to Delete Filter" = "Failed to Delete Filter";
 "An unknown error occurred when trying to delete the keyword." = "An unknown error occurred when trying to delete the keyword.";
 "Short Keyword" = "Short Keyword";
-"The keyword should be atleast 3 letters" = "The keyword should be atleast 3 letters";
+"The keyword should be atleast 3 letters" = "The keyword should be at least 3 letters";
 "Failed to add Filter" = "Failed to add Filter";
 "An unknown error occurred when trying to delete the keyword." = "An unknown error occurred when trying to delete the keyword.";
 
@@ -282,3 +282,82 @@ Discounted Pricing.";
 "An unknown error occurred when registering for Push Notifications." = "An unknown error occurred when registering for Push Notifications.";
 "Error Loading Subscriptions" = "Error Loading Subscriptions";
 "Error Removing Subscription" = "Error Removing Subscription";
+
+/* Settings/ Preferences */
+/* ResetVC */
+"Reset parts of your account or all data in your account. Please remember to export your feeds as an OPML file before resetting folders or feeds. Once the data is reset, it cannot be recovered." = "Reset parts of your account or all data in your account. Please remember to export your feeds as an OPML file before resetting folders or feeds. Once the data is reset, it cannot be recovered.";
+"Custom Feed Names" = "Custom Feed Names";
+"Full Account" = "Full Account";
+"Selective" = "Selective";
+"All" = "All";
+
+/* General Prefs */
+"Refresh feeds" = "Refresh feeds:";
+"Manually" = "Manually";
+"Every 30 minutes" = "Every 30 minutes";
+"Every hour" = "Every hour";
+"Once your account is deactivated, all your account data is usually deleted within an hour. Please make sure you have taken an export of your feeds." = "Once your account is deactivated, all your account data is usually deleted within an hour. Please make sure you have taken an export of your feeds.";
+
+"Open web pages in background in browser" = "Open web pages in background in browser";
+"Press the shift key to do the opposite" = "Press the shift key to do the opposite";
+
+"Dock Icon" = "Dock Icon";
+"Show unread count" = "Show unread count";
+
+/* Images Prefs */
+"Resolution" = "Resolution";
+"The above setting only works when the Article source provides these options. If no such option is provided in the article source, the original image is always loaded." = "The above setting only works when the Article source provides these options. If no such option is provided in the article source, the original image is always loaded.";
+
+"Bandwidth" = "Bandwidth";
+"Never load images" = "Never load images";
+"Always load images" = "Always load images";
+
+"Misc" = "Misc";
+"Show cover images" = "Show cover images";
+"Enabling this shows cover images in the feeds list. This setting is also affected by your setting for Bandwidth." = "Enabling this shows cover images in the feeds list. This setting is also affected by your setting for Bandwidth.";
+"Image Proxy" = "Image Proxy";
+"Elytra can optionally use the weserv.nl Image Proxy for loading images optimized to be displayed on this device. Images loaded from the Image Proxy are smaller in size and therefore load faster and save bandwidth." = "Elytra can optionally use the weserv.nl Image Proxy for loading images optimized to be displayed on this device. Images loaded from the Image Proxy are smaller in size and therefore load faster and save bandwidth.";
+"Autoload GIFs" = "Autoload GIFs";
+"Autoloading GIFs is not recommended for the health of your device's battery and bandwidth load. However, if you have an unlimited data plan or lots of money, this setting is for you." = "Autoloading GIFs is not recommended for the health of your device's battery and bandwidth load. However, if you have an unlimited data plan or lots of money, this setting is for you.";
+
+/* Article View Prefs */
+"Paragraph Font" = "Paragraph Font";
+"The font to use for drawing the paragraph text in an article." = "The font to use for drawing the paragraph text in an article.";
+
+"Heading Font" = "Heading Font";
+"The font to use for drawing the headers in an article." = "The font to use for drawing the headers in an article.";
+
+"Line spacing" = "Line spacing";
+"The space between two lines of text. A lower values renders a compact layout, a higher value renders comfortable layout." = "The space between two lines of text. A lower values renders a compact layout, a higher value renders comfortable layout.";
+
+"Font size" = "Font size";
+"The base font size. Pargraphs are rendered at this size. Other elements derive their sizes proportional to this." = "The base font size. Pargraphs are rendered at this size. Other elements derive their sizes proportional to this.";
+
+/* MISC */
+"Show unread counters" = "Show unread counters";
+"Set whether you want to see the number of unread articles in each section." = "Set whether you want to see the number of unread articles in each section.";
+"You can optionally hide the Bookmarks Tab from the Sidebar." = "You can optionally hide the Bookmarks Tab from the Sidebar.";
+
+"Summary" = "Summary";
+"Number of summary lines to show when viewing the list of Articles." = "Number of summary lines to show when viewing the list of Articles.";
+"Set whether the app should prompt you when marking articles as read." = "Set whether the app should prompt you when marking articles as read.";
+
+"Apps" = "Apps";
+"Your preferred Twitter app. Clicking on a tweet will open this app." = "Your preferred Twitter app. Clicking on a tweet will open this app.";
+
+"Updates" = "Updates";
+"Release Builds" = "Release Builds";
+"Test Builds" = "Test Builds";
+"Automatically Check for Updates" = "Automatically Check for Updates";
+"You should select Release if you want only the most stable releases. Test Builds may be buggy, crash  and even cause data loss." = "You should select Release if you want only the most stable releases. Test Builds may be buggy, crash  and even cause data loss.";
+
+/* Preferences Controller */
+
+/* Title for General Prefs Tab */
+"General" = "General";
+/* Title for Images Prefs Tab */
+"Images" = "Images";
+/* Title for Reader Prefs Tab */
+"Reader" = "Reader";
+
+"Set up your account" = "Set up your account";

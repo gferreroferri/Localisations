@@ -10,7 +10,7 @@ The base locations have been translated using Google Translate and DeepL. Some l
 - [ ] Chinese Traditional (zh-Hant)
 - [ ] Korean (ko)
 - [ ] Italian (it)
-- [x] Spanish (es) (by [@gferreroferri](https://github.com/gferreroferri))
+- [ ] Spanish (es) (by [@gferreroferri](https://github.com/gferreroferri))
 - [ ] German (de)
 - [ ] French (fr)
 - [ ] Japanese (ja)

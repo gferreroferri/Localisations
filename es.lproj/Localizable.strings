@@ -491,3 +491,100 @@ Precios descontados.";
 "Error Loading Subscriptions" = "Error al cargar suscripciones";
 
 "Error Removing Subscription" = "Error al eliminar la suscripción";
+
+/* ResetVC */
+"Reset parts of your account or all data in your account. Please remember to export your feeds as an OPML file before resetting folders or feeds. Once the data is reset, it cannot be recovered." = "Restablecer partes de su cuenta o todos los datos en su cuenta.Recuerde que recuerde exportar sus fuentes como un archivo OPML antes de restablecer las carpetas o las fuentes.Una vez que se reinicie los datos, no se puede recuperar.";
+
+"Custom Feed Names" = "Nombres de feed personalizados";
+
+"Full Account" = "Cuenta completa";
+
+"Selective" = "Selective";
+ 
+"All" = "All";
+
+/* General Prefs */
+"Refresh feeds" = "Feeds de actualización:";
+
+"Manually" = "A mano";
+
+"Every 30 minutes" = "Cada 30 minutos";
+
+"Every hour" = "Cada hora";
+
+"Once your account is deactivated, all your account data is usually deleted within an hour. Please make sure you have taken an export of your feeds." = "Una vez que se desactiva su cuenta, todos los datos de su cuenta generalmente se eliminan dentro de una hora.Por favor, asegúrese de haber tomado una exportación de sus feeds.";
+
+"Open web pages in background in browser" = "Abra las páginas web en el fondo en el navegador";
+
+"Press the shift key to do the opposite" = "Presiona la tecla Mayús para hacer lo contrario.";
+
+"Dock Icon" = "Icono de muelle";
+
+"Show unread count" = "Mostrar recuento no leído";
+
+/* Images Prefs */
+"Resolution" = "Resolución";
+
+"Bandwidth" = "Banda ancha";
+
+"Never load images" = "Nunca cargar imágenes";
+
+"Always load images" = "Siempre cargar imágenes";
+
+"Show cover images" = "Mostrar imágenes de portada";
+
+"Image Proxy" = "Proxy de imagen";
+
+"Elytra can optionally use the weserv.nl Image Proxy for loading images optimized to be displayed on this device. Images loaded from the Image Proxy are smaller in size and therefore load faster and save bandwidth." = "Elytra puede usar opcionalmente el proxy de la imagen Weserv.NL para cargar imágenes optimizadas para que se muestren en este dispositivo.Las imágenes cargadas de la imagen proxy son más pequeñas en tamaño y, por lo tanto, cargan más rápido y ahorre ancho de banda.";
+
+"Autoload GIFs" = "GIFS AutoLoad";
+
+"The font to use for drawing the paragraph text in an article." = "La fuente para usar para dibujar el texto del párrafo en un artículo.";
+
+"Heading Font" = "Fuente de encabezado";
+
+"The font to use for drawing the headers in an article." = "La fuente para usar para dibujar los encabezados en un artículo.";
+
+"Line spacing" = "Espaciado entre líneas";
+
+"The space between two lines of text. A lower values renders a compact layout, a higher value renders comfortable layout." = "El espacio entre dos líneas de texto.Los valores más bajos hacen que un diseño compacto, un valor más alto hace un diseño cómodo.";
+
+"Font size" = "Tamaño de fuente";
+
+"The base font size. Pargraphs are rendered at this size. Other elements derive their sizes proportional to this." = "El tamaño de la fuente base.Los partógrafos se representan a este tamaño.Otros elementos derivan sus tamaños proporcionales a esto.";
+
+/* MISC */
+"Misc" = "Misc";
+
+"Show unread counters" = "Mostrar contadores no leídos";
+
+"You can optionally hide the Bookmarks Tab from the Sidebar." = "Opcionalmente, puede ocultar la pestaña Marcadores desde la barra lateral.";
+
+"Summary" = "Resumen";
+
+"Number of summary lines to show when viewing the list of Articles." = "Número de líneas de resumen para mostrar al ver la lista de artículos.";
+
+"Apps" = "Apps";
+
+"Your preferred Twitter app. Clicking on a tweet will open this app." = "Su aplicación de Twitter preferida.Al hacer clic en un tweet abrirá esta aplicación.";
+
+"Updates" = "Actualizaciones";
+
+"Release Builds" = "Construcciones de liberación";
+
+"Test Builds" = "Compilación de pruebas";
+
+"Automatically Check for Updates" = "Cheque automáticamente las actualizaciones";
+
+"You should select Release if you want only the most stable releases. Test Builds may be buggy, crash  and even cause data loss." = "Debe seleccionar la versión si desea solo los lanzamientos más estables.Las compilaciones de prueba pueden ser buggy, bloquear e incluso causar pérdida de datos.";
+
+/* Preferences Controller */
+
+/* Title for General Prefs Tab */
+"General" = "General";
+/* Title for Images Prefs Tab */
+"Images" = "Imágenes";
+/* Title for Reader Prefs Tab */
+"Reader" = "Reader";
+
+"Set up your account" = "Configurar tu cuenta";
