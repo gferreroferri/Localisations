@@ -543,51 +543,51 @@ Ermäßigte Preisgestaltung.";
 
 "Autoload GIFs" = "Autoload-Gifs.";
 
-"The font to use for drawing the paragraph text in an article." = "Die Schriftart, um den Absatztext in einem Artikel zu zeichnen.";
+"The font to use for drawing the paragraph text in an article." = "Die Schriftart, die für das Zeichnen des Absatztextes in einem Artikel verwendet wird.";
 
-"Heading Font" = "Rubrikschrift";
+"Heading Font" = "Überschrift Schrift";
 
-"The font to use for drawing the headers in an article." = "Die Schriftart, um die Header in einem Artikel zu zeichnen.";
+"The font to use for drawing the headers in an article." = "Die Schriftart, mit der die Überschriften in einem Artikel gezeichnet werden.";
 
 "Line spacing" = "Zeilenabstand";
 
-"The space between two lines of text. A lower values renders a compact layout, a higher value renders comfortable layout." = "Der Raum zwischen zwei Textzeilen.Eine niedrigere Werte macht ein kompaktes Layout, ein höherer Wert, der komfortables Layout angeht.";
+"The space between two lines of text. A lower values renders a compact layout, a higher value renders comfortable layout." = "Der Abstand zwischen zwei Textzeilen. Ein kleinerer Wert sorgt für ein kompaktes Layout, ein höherer Wert für ein komfortables Layout.";
 
 "Font size" = "Schriftgröße";
 
-"The base font size. Pargraphs are rendered at this size. Other elements derive their sizes proportional to this." = "Die Basis-Schriftgröße.Paragraphen werden zu dieser Größe gerendert.Andere Elemente liefern ihre Größen proportional dazu.";
+"The base font size. Pargraphs are rendered at this size. Other elements derive their sizes proportional to this." = "Die Basisschriftgröße. Pargraphen werden in dieser Größe wiedergegeben. Andere Elemente leiten ihre Größe proportional zu dieser Größe ab.";
 
 /* MISC */
 "Show unread counters" = "Ungelesene Zähler anzeigen.";
 
-"You can optionally hide the Bookmarks Tab from the Sidebar." = "Sie können optional die Registerkarte Lesezeichen aus der Seitenleiste ausblenden.";
+"You can optionally hide the Bookmarks Tab from the Sidebar." = "Sie können die Option Lesezeichen aus der Seitenleiste ausblenden.";
 
 "Summary" = "Zusammenfassung";
 
-"Number of summary lines to show when viewing the list of Articles." = "Anzahl der zusammenfassenden Zeilen, um beim Anzeigen der Liste der Artikeln anzuzeigen.";
+"Number of summary lines to show when viewing the list of Articles." = "Anzahl der Zusammenfassungszeilen, die bei der Anzeige der Artikelliste angezeigt werden.";
 
 "Apps" = "Apps";
 
-"Your preferred Twitter app. Clicking on a tweet will open this app." = "Ihre bevorzugte Twitter-App.Wenn Sie auf einen Tweet klicken, wird diese App geöffnet.";
+"Your preferred Twitter app. Clicking on a tweet will open this app." = "Ihre bevorzugte Twitter-App. Wenn Sie auf einen Tweet klicken, wird diese App geöffnet.";
 
 "Updates" = "Aktualisierung";
 
-"Release Builds" = "Release-Builds";
+"Release Builds" = "Freigeben-Builds";
 
 "Test Builds" = "Testaufbau";
 
 "Automatically Check for Updates" = "Automatisch nach Aktualisierungen suchen";
 
-"You should select Release if you want only the most stable releases. Test Builds may be buggy, crash  and even cause data loss." = "Sie sollten die Freigabe auswählen, wenn Sie nur die stabilsten Versionen wünschen.Test Builds können fehlerhaft sein, abstürzen und sogar Datenverlust verursachen.";
+"You should select Release if you want only the most stable releases. Test Builds may be buggy, crash  and even cause data loss." = "Sie sollten Freigabe wählen, wenn Sie nur die stabilsten Versionen haben wollen. Test Builds können fehlerhaft sein, abstürzen und sogar Datenverluste verursachen.";
 
 /* Preferences Controller */
 
 /* Title for General Prefs Tab */
 "General" = "Allgemein";
 /* Title for Images Prefs Tab */
-"Images" = "Bilde";
+"Images" = "Bilder";
 /* Title for Reader Prefs Tab */
-"Reader" = "Reader";
+"Reader" = "Leser";
 
-"Set up your account" = "Richten Sie Ihr Konto ein";
+"Set up your account" = "Erstellen Sie Ihr Konto.";
 
