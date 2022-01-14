@@ -235,7 +235,7 @@
 
 "Copy URL" = "URL kopieren";
 
-"URL Actions" = "URL-Aktionen";
+"URL Actions" = "URL Aktionen";
 
 "Unsubscribe Failed" = "Abbestellen fehlgeschlagen";
 
@@ -338,7 +338,7 @@ Ermäßigte Preisgestaltung.";
 
 "Re-Sync All" = "Alles synchronisieren";
 
-"Re-Sync Feeds" = "Re-sync-Feeds";
+"Re-Sync Feeds" = "Re-sync Feeds";
 
 /* Account Settings */
 "No Account Setup" = "Kein Konto einrichten.";
@@ -349,7 +349,7 @@ Ermäßigte Preisgestaltung.";
 
 "Your Subscription" = "Ihr Abonnement";
 
-"Account ID" = "Konto-ID.";
+"Account ID" = "Konto-ID";
 
 "Subscription" = "Abonnement";
 
@@ -426,11 +426,11 @@ Ermäßigte Preisgestaltung.";
 
 "Are you sure you want to enable Reader Mode for all feeds?" = "Sind Sie sicher, dass Sie den Reader-Modus für alle Feedmitteln aktivieren möchten?";
 
-"App Icon" = "App-Symbol";
+"App Icon" = "App Symbol";
 
 "Unread Counters" = "Ungelesene Zähler";
 
-"Relax Mode" = "Relax-Modus";
+"Relax Mode" = "Relax Modus";
 
 "Mark Read Prompt" = "Markieren Sie die Eingabeaufforderung";
 
@@ -494,8 +494,7 @@ Ermäßigte Preisgestaltung.";
 "Error Removing Subscription" = "Fehler beim Entfernen des Abonnements";
 
 /* ResetVC */
-"Reset parts of your account or all data in your account. Please remember to export your feeds as an OPML file before resetting folders or feeds. Once the data is reset, it cannot be recovered." = "Setzen Sie Teile Ihres Kontos oder alle Daten in Ihrem Konto zurück. Bitte denken Sie daran, Ihre Feeds als OPML-Datei zu exportieren, bevor Sie Ordner oder Feeds zurücksetzen. Sobald die Daten zurückgesetzt wurden, können sie nicht mehr wiederhergestellt werden. 
-";
+"Reset parts of your account or all data in your account. Please remember to export your feeds as an OPML file before resetting folders or feeds. Once the data is reset, it cannot be recovered." = "Setzen Sie Teile Ihres Kontos oder alle Daten in Ihrem Konto zurück. Bitte denken Sie daran, Ihre Feeds als OPML-Datei zu exportieren, bevor Sie Ordner oder Feeds zurücksetzen. Sobald die Daten zurückgesetzt wurden, können sie nicht mehr wiederhergestellt werden.";
 
 "Custom Feed Names" = "Benutzerdefinierte Feednamen";
 
@@ -506,7 +505,7 @@ Ermäßigte Preisgestaltung.";
 "All" = "Alle";
 
 /* General Prefs */
-"Refresh feeds" = "Refresh-Feeds:";
+"Refresh feeds" = "Refresh Feeds";
 
 "Manually" = "Manuell";
 
@@ -520,9 +519,9 @@ Ermäßigte Preisgestaltung.";
 
 "Press the shift key to do the opposite" = "Drücken Sie die Umschalttaste, um das Gegenteil zu dienen";
 
-"Dock Icon" = "Dock-Symbol";
+"Dock Icon" = "Dock Icon";
 
-"Show unread count" = "Ungelesene Zählung anzeigen.";
+"Show unread count" = "Ungelesene Zählung anzeigen";
 
 /* Images Prefs */
 "Resolution" = "Auflösung";
@@ -535,13 +534,13 @@ Ermäßigte Preisgestaltung.";
 
 "Misc" = "Sonstiges";
 
-"Show cover images" = "Abdeckbilder anzeigen.";
+"Show cover images" = "Abdeckbilder anzeigen";
 
-"Image Proxy" = "Image-Proxy.";
+"Image Proxy" = "Image Proxy";
 
-"Elytra can optionally use the weserv.nl Image Proxy for loading images optimized to be displayed on this device. Images loaded from the Image Proxy are smaller in size and therefore load faster and save bandwidth." = "Elytra kann optional den weserv.nl Image Proxy verwenden, um Bilder zu laden, die für die Anzeige auf diesem Gerät optimiert sind. Bilder, die über den Image-Proxy geladen werden, sind kleiner und werden daher schneller geladen und sparen Bandbreite." = "Elytra kann optional den WeServ.nl-Image-Proxy verwenden, um Bilder auf diesem Gerät optimiert zu laden.Bilder, die aus dem Image-Proxy geladen werden, sind in der Größe kleiner und laden daher schneller und sparen Bandbreiten.";
+"Elytra can optionally use the weserv.nl Image Proxy for loading images optimized to be displayed on this device. Images loaded from the Image Proxy are smaller in size and therefore load faster and save bandwidth." = "Elytra kann optional den WeServ.nl-Image-Proxy verwenden, um Bilder auf diesem Gerät optimiert zu laden.Bilder, die aus dem Image-Proxy geladen werden, sind in der Größe kleiner und laden daher schneller und sparen Bandbreiten.";
 
-"Autoload GIFs" = "Autoload-Gifs.";
+"Autoload GIFs" = "Autoload-Gifs";
 
 "The font to use for drawing the paragraph text in an article." = "Die Schriftart, die für das Zeichnen des Absatztextes in einem Artikel verwendet wird.";
 
@@ -558,7 +557,7 @@ Ermäßigte Preisgestaltung.";
 "The base font size. Pargraphs are rendered at this size. Other elements derive their sizes proportional to this." = "Die Basisschriftgröße. Pargraphen werden in dieser Größe wiedergegeben. Andere Elemente leiten ihre Größe proportional zu dieser Größe ab.";
 
 /* MISC */
-"Show unread counters" = "Ungelesene Zähler anzeigen.";
+"Show unread counters" = "Ungelesene Zähler anzeigen";
 
 "You can optionally hide the Bookmarks Tab from the Sidebar." = "Sie können die Option Lesezeichen aus der Seitenleiste ausblenden.";
 

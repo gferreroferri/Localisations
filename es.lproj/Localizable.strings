@@ -4,539 +4,279 @@
 
 "Delete" = "Eliminar";
 
-
-
 "Move" = "Mover";
-
-
 
 "Share" = "Compartir";
 
-
-
 "Rename" = "Renombrar";
-
-
 
 "Cancel" = "Cancelar";
 
-
-
 "Done" = "Hecho";
-
-
 
 "Read" = "Leído";
 
-
-
 "Bookmark" = "Marcar";
-
-
 
 "Unbookmark" = "Quitar marcador";
 
-
-
 "Open in Browser" = "Abrir en navegador";
-
-
 
 "Share Article" = "Compartir artículo";
 
-
-
 "Yes" = "Sí";
-
-
 
 "Okay" = "OK";
 
-
-
 "Browser" = "Navegador";
-
-
 
 "Copy Link" = "Copiar enlace";
 
-
-
 "Search" = "Buscar";
-
-
 
 "Customize" = "Personalizar";
 
-
-
 "Close" = "Cerrar";
-
-
 
 "Copy" = "Copiar";
 
-
-
 "Share URL" = "Compartir dirección";
-
-
 
 "Ok" = "Ok";
 
-
-
 "Add" = "Añadir";
-
-
 
 "Update" = "Actualizar";
 
-
-
 "None" = "Ninguno";
 
-
-
 "Enable" = "Permitir";
-
-
 
 /* Common Errors */
 
 "No Subscription" = "Sin subscripción";
 
-
-
 "An Error Occurred" = "Ocurrió un error";
-
-
 
 "An unknown error has occurred." = "Error desconocido.";
 
-
-
 "Error Parsing" = "Error al analizar";
-
-
 
 "Error Processing" = "Procesamiento de errores";
 
-
-
 "Failed to Update" = "Error al actualizar";
 
-
-
 "Failed to Create" = "Fallo al crear";
-
-
 
 /* Sidebar VC */
 
 "Feeds" = "Subscripciones";
 
-
-
 "Unread" = "No leído";
-
-
 
 "Today" = "Hoy";
 
-
-
 "Bookmarks" = "Marcadores";
-
-
 
 "New Feed" = "Nueva Subscripción";
 
-
-
 "New Folder" = "Nueva carpeta";
-
-
 
 "Last Sync: %@" = "Última sincronización: %@";
 
-
-
 "Delete Feed" = "Eliminar subscripción";
-
-
 
 "Are you sure you want to delete this feed?" = "¿Estás seguro de que quieres eliminar esta subscripción?";
 
-
-
 "Delete Folder" = "Eliminar carpeta";
-
-
 
 "Are you sure you want to delete this folder?" = "¿Está seguro de que desea eliminar esta carpeta?";
 
-
-
 "Error Deleting Feed" = "Error al eliminar la subscripción";
-
-
 
 "Syncing..." = "Sincronizando ...";
 
-
-
 "Syncing Complete" = "Sincronización completa";
-
-
 
 "Synced %.f%%" = "Sincronizado %.f%%";
 
-
-
 "Share Feed URL" = "Compartir dirección de subscripción";
-
-
 
 "Share Website URL" = "Compartir dirección de sitio web";
 
-
-
 "Feed Info" = "Información subscripción";
-
-
 
 "Feed Menu" = "Menú subscripción";
 
-
-
 "Folder Menu" = "Menú carpeta";
-
-
 
 "Rename Feed" = "Renombrar subscripción";
 
-
-
 "Feed Name" = "Nombre de subscripción";
-
-
 
 "Error Moving Folder" = "Error al mover la carpeta";
 
-
-
 "An error occurred removing the feed from its current folder - %@" = "Error al eliminar la subscripción de su carpeta actual - %@";
-
-
 
 /* Feed VC */
 
 "No unread articles" = "No hay artículos no leídos";
 
-
-
 "No recent articles" = "No hay artículos recientes";
-
-
 
 "Mark All Read?" = "¿Marcar todo como leído?";
 
-
-
 "Are you sure you want to mark all unread articles as read?" = "¿Está seguro que quiere marcar todos los artículos no leídos como leídos?";
-
-
 
 "Sorting Options" = "Opciones de clasificación";
 
-
-
 "Unread - Latest First" = "No leído - nuevos primero";
-
-
 
 "Unread - Oldest First" = "No leído - antiguos primero";
 
-
-
 "All - Latest First" = "Todo - nuevos primero";
-
-
 
 "All - Oldest First" = "Todo - antiguos primero";
 
-
-
 "Error Marking Read" = "Error al marcar como leído";
-
-
 
 "Error Marking Unread" = "Error al marcar sin leer";
 
-
-
 "Error Bookmarking" = "Error añadiendo marcador";
-
-
 
 "Error Unbookmarking" = "Error quitando marcador";
 
-
-
 "An unknown error occurred when performing this action." = "Error desconocido al realizar esta acción.";
-
-
 
 "Mark Read" = "Marcar como leído";
 
-
-
 "Mark Unread" = "Marcar como no leído";
-
-
 
 "Bookmark" = "Añadir marcador";
 
-
-
 "Unbookmark" = "Quitar marcador";
-
-
 
 "Mark Newer Read" = "Marcar más nuevos como leídos";
 
-
-
 "Mark Older Read" = "Marcar más antiguos como leídos";
-
-
 
 "Articles by %@" = "Artículos por %@";
 
-
-
 "Article Actions" = "Acciones de artículos";
 
-
-
 "Untitled" = "Sin título";
-
-
 
 /* ArticleVC */
 
 "Previous search result" = "Anterior resultado de búsqueda";
 
-
-
 "Next search result" = "Siguiente resultado de búsqueda";
-
-
 
 "Dismiss Search" = "Cancelar búsqueda";
 
-
-
 "Search Article Content" = "Buscar contenido del artículo";
-
-
 
 "Search for keywords in the article" = "Buscar palabras en el artículo";
 
-
-
 "Error loading the article" = "Error al cargar el artículo";
-
-
 
 "An Unexpected Error Occurred" = "Error inesperado";
 
-
-
 "Error Reloading" = "Error de recarga";
-
-
 
 "No article received after reloading." = "No se ha recibido ningún artículo después de la recarga.";
 
-
-
 "Search in article" = "Búsqueda en el artículo";
-
-
 
 "Go to previous article" = "Ir al artículo anterior";
 
-
-
 "Previous Article" = "Artículo anterior";
-
-
 
 "Go to next article" = "Ir al siguiente artículo";
 
-
-
 "Next Article" = "Artículo siguiente";
 
-
-
 "Close article" = "Cerrar artículo";
-
-
 
 /* Appearance VC */
 
 "Customization" = "Personalizar";
 
-
-
 "Use System Sizing" = "Utilizar tamaño del sistema";
-
-
 
 "Font Size" = "Tamaño de fuente";
 
-
-
 "Paragraph Font" = "Fuentes de párrafo";
-
-
 
 "Title Font" = "Fuente del titulo";
 
-
-
 "Line Spacing" = "Espaciado entre líneas";
-
-
 
 /* Feed Info */
 
 "Close Feed Info" = "Cerrar información de la subscripción";
 
-
-
 "Push Notifications" = "Notificaciones push";
-
-
 
 "Local Notifications" = "Notificaciones locales";
 
-
-
 "This feed supports real-time notifications." = "Esta subscripción permite notificaciones en tiempo real.";
-
-
 
 "Notifications for this feed will be near real-time." = "Las notificaciones para esta subscripción serán casi en tiempo real.";
 
-
-
 "Safari Reader Mode" = "Modo Lector de Safari";
-
-
 
 "Auto Full-Text" = "Texto completo";
 
-
-
 "When enabled, the full-text for the article will be automatically fetched." = "Cuando está habilitado, el texto completo para el artículo será cargado automáticamente.";
-
-
 
 "Opens in Browser" = "Se abre en el navegador";
 
-
-
 "When enabled, the articles will be opened in the browser instead of the article reader." = "Cuando está habilitado, los artículos se abrirán en el navegador en lugar del lector de artículos.";
-
-
 
 "Folder" = "Carpeta";
 
-
-
 "Feed URL" = "Dirección de la subscripción";
-
-
 
 "Website URL" = "Dirección del sitio web";
 
-
-
 "Copy URL" = "Copiar dirección";
-
-
 
 "URL Actions" = "Acciones con dirección";
 
-
-
 "Unsubscribe Failed" = "Fallo al cancelar subscripción";
-
-
 
 "An unknown error occurred when unsubscribing." = "SError desconocido al cancelar la suscripción.";
 
-
-
 "Subscribe Failed" = "Fallo de subscripción";
 
-
-
 "Select a Folder" = "Seleccione una carpeta";
-
-
 
 /* Search */
 
 "Delete Feed?" = "¿Eliminar subscripción?";
 
-
-
 "Are you sure you want to delete %@" = "¿Está seguro que quiere eliminar %@ ?";
-
-
 
 "Error Loading Feeds" = "Error al cargar subscripción";
 
-
-
 "The URL or query may be invalid. Please check the URL." = "La dirección o la consulta puede ser inválida. Por favor revise la dirección.";
-
-
 
 "Feed Exists" = "La subscripción ya existe";
 
-
-
 "This feed already exists in your account." = "Esta subscripción ya existe en su cuenta.";
-
-
 
 "An error occurred when parsing the feed's information. If this repeats, please contact support." = "Se produjo un error al analizar la información de la fuente.Si esto se repite, póngase en contacto con el asistencia.";
 
-
-
 "Adding Feed" = "Añadiendo subscripción";
 
-
-
 "Close New Folder" = "Cerrar nueva carpeta";
-
-
 
 /* STORE VC */
 
 "Monthly" = "Mensual";
 
-
-
 "Pay as you go" = "Pagar sobre la marcha";
-
-
 
 "MonthlyDesc" = "Sin límite en el número de subscripciones.
 
@@ -546,635 +286,329 @@ Sincronización integrada en todos sus dispositivos.
 
 Apoyar a un desarrollador indie.";
 
-
-
 "Yearly" = "Anual";
 
-
-
 "Long Term" = "A largo plazo";
-
-
 
 "YearlyDesc" = "Todos los beneficios del plan mensual.
 
 Precios descontados.";
 
-
-
 "Failed to load Products" = "Error al cargar productos";
-
-
 
 "An unknown error occurred when loading products. Please contact support@elytra.app" = "Error desconocido al cargar productos. Por favor, ponerse en contacto con support@elytra.app";
 
-
-
 "Processing..." = "Procesando...";
-
-
 
 "Error Purchasing" = "Error de compra";
 
-
-
 "Error Restoring" = "Error al restaurar";
-
-
 
 "Error Loading Subscription" = "Error al cargar suscripción";
 
-
-
 "Select a subscription plan" = "Seleccione plan de subscripción de la app";
-
-
 
 " Your subscription is managed externally." = "Suscripción administrada externamente.";
 
-
-
 "Your subscription expired on %@." = "Suscripción caducada en en %@.";
-
-
 
 "Your account has a Lifetime subscription." = "Cuenta con una suscripción de por vida.";
 
-
-
 "Your free trial is active up to %@." = "Prueba gratuita activada hasta %@.";
-
-
 
 "Your subscription is active up to %@." = "Suscripción está activa hasta %@.";
 
-
-
 "Your subscription will renew on %@." = "La suscripción se renovará en %@.";
-
-
 
 /* Settings */
 
 "Settings" = "Ajustes";
 
-
-
 "Account" = "Cuenta";
-
-
 
 "Filters" = "Filtros";
 
-
-
 "Notifications" = "Notificaciones";
-
-
 
 "Re-Sync" = "Re-sincronizar";
 
-
-
 "Appearance" = "Apariencia";
-
-
 
 "Background Fetch" = "Actualización en segundo plano";
 
-
-
 "Image Loading" = "Carga de imágenes";
-
-
 
 "External Apps" = "Aplicaciones externas";
 
-
-
 "OPML" = "OPML";
-
-
 
 "Miscellaneous" = "Miscellaneous";
 
-
-
 "Rate on AppStore" = "Crear reseña en AppStore";
-
-
 
 "Attributions" = "Atribuciones";
 
-
-
 "Contact" = "Contacto";
-
-
 
 "Re-Sync All" = "Volver a sincronizar todo";
 
-
-
 "Re-Sync Feeds" = "Volver a sincronizar subscripciones";
-
-
 
 /* Account Settings */
 
 "No Account Setup" = "No existe ninguna cuenta configurada";
 
-
-
 "Deactivate Account" = "Desactivar cuenta";
-
-
 
 "Deactivate" = "Desactivar";
 
-
-
 "Your Subscription" = "Su suscripción";
-
-
 
 "Account ID" = "ID de la cuenta";
 
-
-
 "Subscription" = "Suscripción";
-
-
 
 "If you deactivate your account and wish to activate it again, please email me on support@elytra.app with the above UUID. You can use the context menu/right click to copy the ID." = "Si se desactiva la cuenta y desea activarla nuevamente, enviar un correo electrónico a support@elytra.app con la UUID anterior. Puede usar el menú contextual / hacer clic derecho para copiar la identificación.";
 
-
-
 "Connect your Apple ID to your Elytra account. This will enable you to sign in on other platforms as well. " = "Conectar ID de Apple a cuenta de Elytra. Esto permitirá iniciar la sesión en otras plataformas también.";
-
-
 
 "Copy Account ID" = "Copiar ID de cuenta";
 
-
-
 "If you have remaining days on your Pro Subscription, no refund can be issued for the same." = "Si tiene días restantes en su suscripción PRO, no se puede emitir ningún reembolso por ellos.";
-
-
 
 /* Image Loading Settings */
 
 "The above setting only works when the Article source provides these options. If no such option is provided in the article source, the original image is always loaded." = "La configuración anterior solo funciona cuando la fuente del artículo proporciona estas opciones. Si no se proporciona tal opción en la fuente del artículo, la imagen original siempre será cargada.";
 
-
-
 "The above setting is also used for galleries and Youtube video previews." = "La configuración anterior también se usa para galerías y vistas previas de video de YouTube.";
-
-
 
 "Enabling this shows cover images in the feeds list. This setting is also affected by your setting for Bandwidth." = "Habilitando esto muestra las imágenes de portada en la lista de feeds. Esta configuración también se ve afectada por su configuración para el ancho de banda.";
 
-
-
 "Elytra can optionally use the weserv.nl Image Proxy for loading images optimized to be displayed on this device. Images loaded via the Image Proxy are smaller in size and therefore load faster and save bandwidth." = "Elytra puede usar opcionalmente el proxy de imágenes Weserv.nL para cargar imágenes optimizadas para que se muestren en este dispositivo. Las imágenes cargadas a través del proxy de imágenes son más pequeñas en tamaño y, por lo tanto, cargan más rápido y ahorra ancho de banda.";
-
-
 
 "Autoloading GIFs is not recommended for the health of your device's battery and bandwidth load. However, if you have an unlimited data plan or lots of money, this setting is for you." = "No se recomienda cargar GIFs automáticamente para ahorrar batería de su dispositivo y ancho de banda. Sin embargo, si tiene un plan de datos ilimitado o mucho dinero, esta configuración es para usted.";
 
-
-
 "Image Bandwidth" = "Ancho de banda de imagenes";
-
-
 
 "Never" = "Nunca";
 
-
-
 "Wi-Fi Only" = "Solo wifi";
-
-
 
 "Always" = "Siempre";
 
-
-
 "Cover Images" = "Imágenes de portada";
-
-
 
 "Use Image Proxy" = "Usar proxy de imágenes";
 
-
-
 "Auto-load GIFs" = "Cargar GIF automáticamente";
-
-
 
 "Image Resolution" = "Resolución de imagenes";
 
-
-
 "Low Resolution" = "Baja";
-
-
 
 "Medium Resolution" = "Media";
 
-
-
 "High Resolution" = "Alta";
-
-
 
 /* Filters */
 
 "Error Fetching Filters" = "Error al buscar filtros";
 
-
-
 "Active Filters" = "Filtros activos";
-
-
 
 "Failed to Delete Filter" = "Error al eliminar el filtro";
 
-
-
 "An unknown error occurred when trying to delete the keyword." = "Error desconocido al intentar eliminar la palabra clave.";
-
-
 
 "Short Keyword" = "Palabra clave corta";
 
-
-
 "The keyword should be atleast 3 letters" = "La palabra clave debe ser al menos de 3 letras";
-
-
 
 "Failed to add Filter" = "Error al añadir filtro";
 
-
-
 "An unknown error occurred when trying to delete the keyword." = "Se produjo un error desconocido al intentar eliminar la palabra clave.";
-
-
 
 /* MiscVC */
 
 "App Icon" = "Icono de la app";
 
-
-
 "Reader Bar Size" = "Tamaño de la barra de lector";
-
-
 
 "Small" = "Pequeña";
 
-
-
 "Regular" = "Normal";
-
-
 
 "Large" = "Grande";
 
-
-
 "Enable Reader Mode" = "Habilitar el modo lector";
-
-
 
 "Are you sure you want to enable Reader Mode for all feeds?" = "¿Está seguro de que desea habilitar el modo de lector para todas las subscripciones?";
 
-
-
 "App Icon" = "Icono de la aplicación";
-
-
 
 "Unread Counters" = "Contadores no leídos";
 
-
-
 "Relax Mode" = "Modo relax";
-
-
 
 "Mark Read Prompt" = "Notificación de lectura";
 
-
-
 "Hide Bookmarks" = "Ocultar marcadores";
-
-
 
 "Open Unread" = "Abrir no leído";
 
-
-
 "Summary Lines" = "Líneas de resumen";
-
-
 
 "Use Toolbar" = "Usar barra de herramientas";
 
-
-
 "Hide Bars" = "Ocultar barras";
-
-
 
 "Reader Bar Size" = "Tamaño de la barra de lector";
 
-
-
 "Portrait Lock" = "Fijar orientación en modo vertical";
-
-
 
 "Mirror Full UI" = "Interfaz en modo espejo";
 
-
-
 "Faded Selection Tint" = "Tinte de selección descolorido";
-
-
 
 "Mark Read on Scroll" = "Marcar como leído al desplazar";
 
-
-
 "Enable Reader Mode" = "Habilitar el modo lector";
-
-
 
 "Set whether you want to see the number of unread articles in each section." = "Elegir si se desea ver el número de artículos no leídos en cada sección.";
 
-
-
 "Optionally hide unread counters only from feeds and folders." = "Opcionalmente, ocultar contadores no leídos solo de subscripciones y carpetas.";
-
-
 
 "Set whether the app should prompt you when marking articles as read." = "Elegir si la aplicación debe preguntar al marcar artículos como leídos.";
 
-
-
 "You can optionally hide the Bookmarks Tab from the Feeds Interface." = "Opcionalmente, ocultar la pestaña Marcadores desde la interfaz de Subscripciones.";
-
-
 
 "When enabled, the app will open the Unread List upon launch." = "Cuando está habilitado, la aplicación abrirá la lista No leído al iniciarse.";
 
-
-
 "Number of summary lines to show when viewing list of Articles." = "Número de líneas de resumen para mostrar al ver la lista de artículos.";
-
-
 
 "Show all actions in toolbar at the bottom of the interface instead of the navigation bar at the top. (Requires an App restart)" = "Muestra todas las acciones en la barra de herramientas de la parte inferior en lugar de en la barra de navegación de la parte superior (Requiere un reinicio de la aplicación).";
 
-
-
 "Hides the navigation bar and toolbar in the article reader when scrolling." = "Oculta la barra de navegación y la barra de herramientas en el lector de artículos al desplazarse.";
-
-
 
 "You may choose to restrict the app's UI only to the portrait orientation." = "Puede optar por forzar la orientación de la interfaz de la aplicación siempre en modo vertical.";
 
-
-
 "When disabled, only the article reader interface is casted over Airplay." = "Al deshabilitar, solo la interfaz del lector de artículos se proyecta con AirPlay.";
-
-
 
 "When enabled, the articles list selection background color will be a light gray instead of the tint color." = "Al habilitar, el color de selección de artículos será un gris claro en lugar del color del tinte.";
 
-
-
 "As you scroll, the app will automatically mark articles as read." = "A medida que se desplaza por los artículos, la aplicación los marcará automáticamente como leídos.";
 
-
-
 "You may enable reader mode for all feeds with a single tap." = "Puede habilitar el modo de lector para todas las subscripciones con un solo toque.";
-
-
 
 /* Notifications */
 
 "Enable Push Notifications" = "Habilitar notificaciones push";
 
-
-
 "Error Registering" = "Error al registrarse";
-
-
 
 "An unknown error occurred when registering for Push Notifications." = "Se produjo un error desconocido al registrarse para recibir notificaciones.";
 
-
-
 "Error Loading Subscriptions" = "Error al cargar suscripciones";
-
-
 
 "Error Removing Subscription" = "Error al eliminar la suscripción";
 
-
-
 /* ResetVC */
-
 "Reset parts of your account or all data in your account. Please remember to export your feeds as an OPML file before resetting folders or feeds. Once the data is reset, it cannot be recovered." = "Restablecer partes de su cuenta o todos los datos en su cuenta. Recuerde exportar sus fuentes como un archivo OPML antes de restablecer las carpetas o las subscripciones. Una vez que se reinicien los datos, no se pueden recuperar.";
-
-
 
 "Custom Feed Names" = "Nombres de subscripciones personalizadas";
 
-
-
 "Full Account" = "Cuenta completa";
-
-
 
 "Selective" = "Selectivo";
 
- 
-
 "All" = "Todo";
-
-
 
 /* General Prefs */
 
 "Refresh feeds" = "Actualización de subscripciones:";
 
-
-
 "Manually" = "Manual";
-
-
 
 "Every 30 minutes" = "Cada 30 minutos";
 
-
-
 "Every hour" = "Cada hora";
-
-
 
 "Once your account is deactivated, all your account data is usually deleted within an hour. Please make sure you have taken an export of your feeds." = "Una vez que se desactiva la cuenta, todos los datos se eliminan en de una hora. Por favor, asegúrese de haber exportado  de sus subscripciones.";
 
-
-
 "Open web pages in background in browser" = "Abrir las páginas web en segundo plano en el navegador";
-
-
 
 "Press the shift key to do the opposite" = "Presione la tecla Mayúsculas para hacer lo contrario.";
 
-
-
 "Dock Icon" = "Icono del Dock";
 
-
-
 "Show unread count" = "Mostrar recuento de no leídos";
-
-
 
 /* Images Prefs */
 
 "Resolution" = "Resolución";
 
-
-
 "Bandwidth" = "Ancho de banda";
-
-
 
 "Never load images" = "Nunca cargar imágenes";
 
-
-
 "Always load images" = "Cargar imágenes siempre";
-
-
 
 "Show cover images" = "Mostrar imágenes de portada";
 
-
-
 "Image Proxy" = "Proxy de imagen";
-
-
 
 "Elytra can optionally use the weserv.nl Image Proxy for loading images optimized to be displayed on this device. Images loaded from the Image Proxy are smaller in size and therefore load faster and save bandwidth." = "Elytra puede usar opcionalmente el proxy de imágenes Weserv.NL para cargar imágenes optimizadas para este dispositivo. Las imágenes cargadas del proxy son más pequeñas en tamaño y, por lo tanto, cargan más rápido y ahorra ancho de banda.";
 
-
-
 "Autoload GIFs" = "Cargar GIFs automáticamente";
-
-
 
 "The font to use for drawing the paragraph text in an article." = "Fuente para mostrar el texto del párrafo del artículo.";
 
-
-
 "Heading Font" = "Fuente de encabezado";
-
-
 
 "The font to use for drawing the headers in an article." = "Fuente para mostrar los encabezados del artículo.";
 
-
-
 "Line spacing" = "Espaciado entre líneas";
-
-
 
 "The space between two lines of text. A lower values renders a compact layout, a higher value renders comfortable layout." = "Espacio entre dos líneas de texto. Los valores más bajos crean un diseño compacto, un valor más alto crea un diseño más espacioso.";
 
-
-
 "Font size" = "Tamaño de fuente";
 
-
-
 "The base font size. Pargraphs are rendered at this size. Other elements derive their sizes proportional to this." = "Tamaño de la fuente base. Los párrafos se muestran a este tamaño. Otros elementos derivan sus tamaños proporcionales a este.";
-
-
 
 /* MISC */
 
 "Misc" = "Misc";
 
-
-
 "Show unread counters" = "Mostrar contadores de no leídos";
-
-
 
 "You can optionally hide the Bookmarks Tab from the Sidebar." = "Opcionalmente, se puede ocultar la pestaña Marcadores desde la barra lateral.";
 
-
-
 "Summary" = "Resumen";
-
-
 
 "Number of summary lines to show when viewing the list of Articles." = "Número de líneas de resumen que se muestran en la lista de artículos.";
 
-
-
 "Apps" = "Apps";
-
-
 
 "Your preferred Twitter app. Clicking on a tweet will open this app." = "Aplicación de Twitter preferida. Al hacer clic en un tweet se abrirá esta aplicación.";
 
-
-
 "Updates" = "Actualizaciones";
-
-
 
 "Release Builds" = "Compilación de lanzamiento";
 
-
-
 "Test Builds" = "Compilación de pruebas";
-
-
 
 "Automatically Check for Updates" = "Buscar actualizaciones automáticamente";
 
-
-
 "You should select Release if you want only the most stable releases. Test Builds may be buggy, crash  and even cause data loss." = "Seleccionar la versión si desea solo los lanzamientos estables. Las compilaciones de prueba pueden contener defectos, bloquear e incluso causar pérdida de datos.";
 
-
-
 /* Preferences Controller */
-
-
-
 /* Title for General Prefs Tab */
-
 "General" = "General";
 
 /* Title for Images Prefs Tab */
-
 "Images" = "Imágenes";
 
 /* Title for Reader Prefs Tab */
-
 "Reader" = "Lector";
 
-
-
 "Set up your account" = "Configurar cuenta";
-
