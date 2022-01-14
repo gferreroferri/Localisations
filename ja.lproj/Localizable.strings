@@ -293,7 +293,7 @@
 
 "Error Loading Subscription" = "サブスクリプションのロード中にエラーが発生しました";
 
-"Select a subscription to being with" = "一緒にいるように購読を選択してください";
+"Select a subscription plan" = "購読計画を選択してください";
 
 " Your subscription is managed externally." = "あなたの購読は外部から管理されています。";
 
@@ -492,3 +492,102 @@
 "Error Loading Subscriptions" = "サブスクリプションのロード中にエラーが発生しました";
 
 "Error Removing Subscription" = "サブスクリプションの削除エラー";
+
+/* ResetVC */
+"Reset parts of your account or all data in your account. Please remember to export your feeds as an OPML file before resetting folders or feeds. Once the data is reset, it cannot be recovered." = "アカウントまたはすべてのデータの一部をアカウントにリセットします。フォルダやフィードをリセットする前に、フィードをOPMLファイルとしてエクスポートすることを忘れないでください。データがリセットされると、回復することはできません。";
+
+"Custom Feed Names" = "カスタムフィード名";
+
+"Full Account" = "全口座";
+
+"Selective" = "選択的な";
+
+"All" = "全て";
+
+/* General Prefs */
+"Refresh feeds" = "リフレッシュフィード：";
+
+"Manually" = "手動";
+
+"Every 30 minutes" = "30分ごとに";
+
+"Every hour" = "毎時";
+
+"Once your account is deactivated, all your account data is usually deleted within an hour. Please make sure you have taken an export of your feeds." = "アカウントが無効になったら、すべてのアカウントデータは通常1時間以内に削除されます。あなたがあなたのフィードのエクスポートを受けたことを確認してください。";
+
+"Open web pages in background in browser" = "ブラウザのバックグラウンドでWebページを開きます";
+
+"Press the shift key to do the opposite" = "Shiftキーを押して反対側を実行します";
+
+"Dock Icon" = "ドックアイコン";
+
+"Show unread count" = "未読カウントを表示します";
+
+/* Images Prefs */
+"Resolution" = "解決";
+
+"Bandwidth" = "帯域幅";
+
+"Never load images" = "絶対に画像をロードしないでください";
+
+"Always load images" = "Always load images";
+
+"Misc" = "その他";
+
+"Show cover images" = "カバー画像を表示します";
+
+"Image Proxy" = "イメージプロキシ";
+
+"Elytra can optionally use the weserv.nl Image Proxy for loading images optimized to be displayed on this device. Images loaded from the Image Proxy are smaller in size and therefore load faster and save bandwidth." = "Elytraはオプションでこのデバイスに表示されるように最適化された画像をロードするためにweserv.nlイメージプロキシを使用できます。画像プロキシからロードされた画像はサイズが小さく、したがってより速く負荷をかけて帯域幅を節約します。";
+
+"Autoload GIFs" = "オートロードGIFS";
+
+"The font to use for drawing the paragraph text in an article." = "記事の段落テキストを描画するために使用するフォント。";
+
+"Heading Font" = "フォント";
+
+"The font to use for drawing the headers in an article." = "記事内のヘッダーを描くために使用するフォント。";
+
+"Line spacing" = "行間隔";
+
+"The space between two lines of text. A lower values renders a compact layout, a higher value renders comfortable layout." = "2行のテキスト間のスペース。低い値はコンパクトなレイアウトをレンダリングし、より高い値は快適なレイアウトをレンダリングします。";
+
+"Font size" = "フォントサイズ";
+
+"The base font size. Pargraphs are rendered at this size. Other elements derive their sizes proportional to this." = "ベースフォントサイズ。Pargraphはこのサイズでレンダリングされます。他の要素はこれに比例したサイズを導き出します。";
+
+/* MISC */
+"Show unread counters" = "未読カウンターを表示";
+
+"You can optionally hide the Bookmarks Tab from the Sidebar." = "サイドバーから[ブックマーク]タブをオプションで非表示にすることができます。";
+
+"Summary" = "概要";
+
+"Number of summary lines to show when viewing the list of Articles." = "記事のリストを表示するときに表示する要約行の数。";
+
+"Apps" = "アプリ";
+
+"Your preferred Twitter app. Clicking on a tweet will open this app." = "あなたの好みのTwitterアプリ。ツイートをクリックするとこのアプリが開きます。";
+
+"Updates" = "更新";
+
+"Release Builds" = "リリースビルド";
+
+"Test Builds" = "テストビルド";
+
+"Automatically Check for Updates" = "更新を自動的に確認します";
+
+"You should select Release if you want only the most stable releases. Test Builds may be buggy, crash  and even cause data loss." = "最も安定したリリースだけが必要な場合は、リリースを選択する必要があります。テストビルドはバグ、クラッシュ、さらにデータの損失を引き起こす可能性があります。";
+
+/* Preferences Controller */
+
+/* Title for General Prefs Tab */
+"General" = "全般的";
+
+/* Title for Images Prefs Tab */
+"Images" = "images";
+
+/* Title for Reader Prefs Tab */
+"Reader" = "読者";
+
+"Set up your account" = "あなたのアカウントを設定します";

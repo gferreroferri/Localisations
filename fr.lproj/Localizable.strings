@@ -286,36 +286,26 @@
 /* StoreVC */
 "Monthly" = "Mensuel";
 
-
 "MonthlyDesc" = "Aucune limite sur le nombre d'aliments d'alimentation.\nNotifications push en temps réel.\nSynchronisation intégrée sur tous vos appareils.\nSoutenir un développeur indépendant.";
-
 
 "Pay as you go" = "Payer comme vous allez";
 
-
 "Processing..." = "Traitement...";
 
-
-"Select a subscription to being with" = "Sélectionnez un abonnement à être avec";
+"Select a subscription plan" = "Sélectionnez un plan d'abonnement";
 
 /*  */
 "Yearly" = "Annuel";
 
-
 "YearlyDesc" = "Tous les avantages du plan mensuel.\nPrix à prix réduit.";
-
 
 "Your account has a Lifetime subscription." = "Votre compte a une abonnement à vie.";
 
-
 "Your free trial is active up to %@." = "Votre essai gratuit est actif jusqu'à %@.";
-
 
 "Your subscription expired on %@." = "Votre abonnement a expiré sur %@.";
 
-
 "Your subscription is active up to %@." = "Votre abonnement est actif jusqu'à %@.";
-
 
 "Your subscription will renew on %@." = "Votre abonnement renouvelera %@.";
 
@@ -504,3 +494,100 @@
 "Error Loading Subscriptions" = "Erreur lors du chargement d'abonnements";
 
 "Error Removing Subscription" = "Erreur lors de la suppression de l'abonnement";
+
+/* ResetVC */
+"Reset parts of your account or all data in your account. Please remember to export your feeds as an OPML file before resetting folders or feeds. Once the data is reset, it cannot be recovered." = "Réinitialiser les parties de votre compte ou toutes les données de votre compte.N'oubliez pas d'exporter vos flux comme fichier OPML avant de réinitialiser les dossiers ou les flux.Une fois que les données sont réinitialisées, il ne peut pas être récupéré.";
+
+"Custom Feed Names" = "Noms d'alimentation personnalisés";
+
+"Full Account" = "Compte complet";
+
+"Selective" = "Selective";
+"All" = "All";
+
+/* General Prefs */
+"Refresh feeds" = "Actualiser les aliments:";
+
+"Manually" = "Manuellement";
+
+"Every 30 minutes" = "Toutes les 30 minutes";
+
+"Every hour" = "Toutes les heures";
+
+"Once your account is deactivated, all your account data is usually deleted within an hour. Please make sure you have taken an export of your feeds." = "Une fois que votre compte est désactivé, toutes les données de votre compte sont généralement supprimées dans une heure.Veuillez vous assurer que vous avez pris une exportation de vos flux.";
+
+"Open web pages in background in browser" = "Pages Web ouvertes en arrière-plan dans le navigateur";
+
+"Press the shift key to do the opposite" = "Appuyez sur la touche Maj pour faire le contraire";
+
+"Dock Icon" = "Icône de quai";
+
+"Show unread count" = "Montrer le nombre non lu";
+
+/* Images Prefs */
+"Resolution" = "Résolution";
+
+"Bandwidth" = "Bande passante";
+
+"Never load images" = "Ne jamais charger des images";
+
+"Always load images" = "Toujours charger des images";
+
+"Misc" = "Masse";
+
+"Show cover images" = "Afficher les images de couverture";
+
+"Image Proxy" = "Proxy d'image";
+
+"Elytra can optionally use the weserv.nl Image Proxy for loading images optimized to be displayed on this device. Images loaded from the Image Proxy are smaller in size and therefore load faster and save bandwidth." = "Elytra peut éventuellement utiliser le proxy d'image weserv.nl pour charger des images optimisées pour être affichée sur cet appareil.Les images chargées à partir du proxy d'image sont de plus petite taille et se chargent donc plus rapidement et économisent une bande passante.";
+
+"Autoload GIFs" = "FIBOAD GIFS";
+
+"The font to use for drawing the paragraph text in an article." = "La police à utiliser pour dessiner le texte du paragraphe dans un article.";
+
+"Heading Font" = "Direction de la police";
+
+"The font to use for drawing the headers in an article." = "La police à utiliser pour dessiner les en-têtes dans un article.";
+
+"Line spacing" = "Interligne";
+
+"The space between two lines of text. A lower values renders a compact layout, a higher value renders comfortable layout." = "L'espace entre deux lignes de texte.Une valeur inférieure rend une disposition compacte, une valeur plus élevée rend une disposition confortable.";
+
+"Font size" = "Taille de police";
+
+"The base font size. Pargraphs are rendered at this size. Other elements derive their sizes proportional to this." = "La taille de la police de base.Les pargraphes sont rendus à cette taille.D'autres éléments dérivent leurs tailles proportionnelles à cela.";
+
+/* MISC */
+"Show unread counters" = "Montrer des comptoirs non lâchés";
+
+"You can optionally hide the Bookmarks Tab from the Sidebar." = "Vous pouvez éventuellement masquer l'onglet Signets de la barre latérale.";
+
+"Summary" = "Résumé";
+
+"Number of summary lines to show when viewing the list of Articles." = "Nombre de lignes sommaires à montrer lors de la visualisation de la liste des articles.";
+
+"Apps" = "applications";
+
+"Your preferred Twitter app. Clicking on a tweet will open this app." = "Votre application Twitter préférée.En cliquant sur un tweet ouvrira cette application.";
+
+"Updates" = "Mises à jour";
+
+"Release Builds" = "Release Builds";
+
+"Test Builds" = "Constructions de test";
+
+"Automatically Check for Updates" = "Rechercher automatiquement les mises à jour";
+
+"You should select Release if you want only the most stable releases. Test Builds may be buggy, crash  and even cause data loss." = "Vous devez sélectionner la sortie si vous voulez uniquement les versions les plus stables.Les constructions de test peuvent être une buggy, une collision et même provoquer une perte de données.";
+
+/* Preferences Controller */
+
+/* Title for General Prefs Tab */
+"General" = "General";
+/* Title for Images Prefs Tab */
+"Images" = "Images";
+/* Title for Reader Prefs Tab */
+"Reader" = "Reader";
+
+"Set up your account" = "Configurez votre compte";
+

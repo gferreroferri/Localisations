@@ -293,7 +293,7 @@ Verdisconteerde prijzen.";
 
 "Error Loading Subscription" = "Fout bij het laden van het abonnement";
 
-"Select a subscription to being with" = "Selecteer een abonnement op zijn met";
+"Select a subscription plan" = "Selecteer een abonnementsplan";
 
 " Your subscription is managed externally." = "Uw abonnement wordt extern beheerd.";
 
@@ -492,3 +492,102 @@ Verdisconteerde prijzen.";
 "Error Loading Subscriptions" = "Fout bij het laden van abonnementen";
 
 "Error Removing Subscription" = "Fout bij het verwijderen van abonnement";
+
+/* ResetVC */
+"Reset parts of your account or all data in your account. Please remember to export your feeds as an OPML file before resetting folders or feeds. Once the data is reset, it cannot be recovered." = "Reset delen van uw account of alle gegevens in uw account.Vergeet niet om uw feeds te exporteren als een OPML-bestand voordat u mappen of feeds opnieuw inhoudt.Zodra de gegevens worden gereset, kan het niet worden hersteld.";
+
+"Custom Feed Names" = "Aangepaste invoernamen";
+
+"Full Account" = "Volledige account";
+
+"Selective" = "Selectief";
+
+"All" = "Allemaal";
+
+/* General Prefs */
+"Refresh feeds" = "Feeds vernieuwen:";
+
+"Manually" = "Handmatig";
+
+"Every 30 minutes" = "Om de 30 minuten";
+
+"Every hour" = "Elk uur";
+
+"Once your account is deactivated, all your account data is usually deleted within an hour. Please make sure you have taken an export of your feeds." = "Zodra uw account is gedeactiveerd, worden al uw accountgegevens meestal binnen een uur verwijderd.Zorg ervoor dat u een export van uw feeds hebt genomen.";
+
+"Open web pages in background in browser" = "Open webpagina's op achtergrond in browser";
+
+"Press the shift key to do the opposite" = "Druk op de SHIFT-toets om het tegenovergestelde te doen";
+
+"Dock Icon" = "Dock pictogram";
+
+"Show unread count" = "Toon ongelezen telling";
+
+/* Images Prefs */
+"Resolution" = "Oplossing";
+
+"Bandwidth" = "Bandbreedte";
+
+"Never load images" = "Laad nooit afbeeldingen";
+
+"Always load images" = "Laad altijd afbeeldingen";
+
+"Misc" = "Misc";
+
+"Show cover images" = "Toon dekbedden";
+
+"Image Proxy" = "Afbeelding proxy";
+
+"Elytra can optionally use the weserv.nl Image Proxy for loading images optimized to be displayed on this device. Images loaded from the Image Proxy are smaller in size and therefore load faster and save bandwidth." = "Elytra kan optioneel de Weserv.nl-beeldproxy gebruiken voor het laden van afbeeldingen die op dit apparaat kunnen worden weergegeven.Afbeeldingen die zijn geladen uit de image-proxy zijn kleiner in grootte en worden daarom sneller geladen en bandbreedte opslaan.";
+
+"Autoload GIFs" = "Autoload Gifs";
+
+"The font to use for drawing the paragraph text in an article." = "Het lettertype voor het tekenen van de alinea-tekst in een artikel.";
+
+"Heading Font" = "Rubriek lettertype";
+
+"The font to use for drawing the headers in an article." = "Het lettertype voor het tekenen van de headers in een artikel.";
+
+"Line spacing" = "Regelafstand";
+
+"The space between two lines of text. A lower values renders a compact layout, a higher value renders comfortable layout." = "De ruimte tussen twee regels tekst.Een lagere waarden maakt een compacte lay-out, een hogere waarde maakt comfortabele lay-out.";
+
+"Font size" = "Lettertypegrootte";
+
+"The base font size. Pargraphs are rendered at this size. Other elements derive their sizes proportional to this." = "De basislettergrootte.Pargraphs worden op deze grootte weergegeven.Andere elementen ontlenen hun maten evenredig hieraan.";
+
+/* MISC */
+"Show unread counters" = "Toon ongelezen tellers";
+
+"You can optionally hide the Bookmarks Tab from the Sidebar." = "U kunt optioneel het tabblad Bladwijzers van de zijbalk verbergen.";
+
+"Summary" = "Overzicht";
+
+"Number of summary lines to show when viewing the list of Articles." = "Aantal samenvatting Lijnen om te tonen bij het bekijken van de lijst met artikelen.";
+
+"Apps" = "Apps";
+
+"Your preferred Twitter app. Clicking on a tweet will open this app." = "Uw gewenste Twitter-app.Als u op een tweet klikt, wordt deze app geopend.";
+
+"Updates" = "Updates";
+
+"Release Builds" = "Release builds";
+
+"Test Builds" = "Test builds";
+
+"Automatically Check for Updates" = "Controleer automatisch op updates";
+
+"You should select Release if you want only the most stable releases. Test Builds may be buggy, crash  and even cause data loss." = "U moet de release selecteren als u alleen de meest stabiele releases wilt.Test Builds kunnen buggy zijn, crashen en zelfs gegevensverlies veroorzaken.";
+
+/* Preferences Controller */
+
+/* Title for General Prefs Tab */
+"General" = "Algemeen";
+
+/* Title for Images Prefs Tab */
+"Images" = "Afbeeldingen";
+
+/* Title for Reader Prefs Tab */
+"Reader" = "Lezer";
+
+"Set up your account" = "Maak je account aan";

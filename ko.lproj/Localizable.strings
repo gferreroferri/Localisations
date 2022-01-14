@@ -293,7 +293,7 @@
 
 "Error Loading Subscription" = "가입 오류로드 중 오류가 발생했습니다";
 
-"Select a subscription to being with" = "With With 구독을 선택하십시오";
+"Select a subscription plan" = "구독 계획을 선택하십시오";
 
 " Your subscription is managed externally." = "구독은 외부에서 관리됩니다.";
 
@@ -492,3 +492,102 @@
 "Error Loading Subscriptions" = "구독을로드하는 중 오류가 발생했습니다";
 
 "Error Removing Subscription" = "가입 오류가 제거됩니다";
+
+/* ResetVC */
+"Reset parts of your account or all data in your account. Please remember to export your feeds as an OPML file before resetting folders or feeds. Once the data is reset, it cannot be recovered." = "계정 또는 계정의 모든 데이터를 재설정하십시오.폴더 나 피드를 재설정하기 전에 피드를 OPML 파일로 내보내십시오.데이터가 재설정되면 복구 할 수 없습니다.";
+
+"Custom Feed Names" = "사용자 정의 피드 이름";
+
+"Full Account" = "전체 계정";
+
+"Selective" = "선택적";
+
+"All" = "모두";
+
+/* General Prefs */
+"Refresh feeds" = "새로 고침 피드 :";
+
+"Manually" = "수동으로";
+
+"Every 30 minutes" = "매 30 분마다";
+
+"Every hour" = "매시간";
+
+"Once your account is deactivated, all your account data is usually deleted within an hour. Please make sure you have taken an export of your feeds." = "계정이 비활성화되면 모든 계정 데이터가 일반적으로 1 시간 이내에 삭제됩니다.피드를 수출했는지 확인하십시오.";
+
+"Open web pages in background in browser" = "브라우저에서 배경에서 웹 페이지를 엽니 다";
+
+"Press the shift key to do the opposite" = "Shift 키를 눌러 반대를하십시오";
+
+"Dock Icon" = "도크 아이콘";
+
+"Show unread count" = "읽지 않은 카운트를 보여줍니다";
+
+/* Images Prefs */
+"Resolution" = "해결";
+
+"Bandwidth" = "대역폭";
+
+"Never load images" = "이미지를로드하지 마십시오";
+
+"Always load images" = "항상 이미지를로드하십시오";
+
+"Misc" = "기타";
+
+"Show cover images" = "표지 이미지 표시";
+
+"Image Proxy" = "이미지 프록시";
+
+"Elytra can optionally use the weserv.nl Image Proxy for loading images optimized to be displayed on this device. Images loaded from the Image Proxy are smaller in size and therefore load faster and save bandwidth." = "Elytra는이 장치에 표시되도록 최적화 된 이미지를로드하기 위해 선택적으로 weserv.nl 이미지 프록시를 사용할 수 있습니다.이미지 프록시에서로드 된 이미지는 크기가 작아서 빠르게로드되고 대역폭을 저장합니다.";
+
+"Autoload GIFs" = "GIF Autoload";
+
+"The font to use for drawing the paragraph text in an article." = "기사의 단락 텍스트를 그리는 데 사용할 글꼴입니다.";
+
+"Heading Font" = "제목 글꼴";
+
+"The font to use for drawing the headers in an article." = "기사의 헤더 그리기에 사용할 글꼴.";
+
+"Line spacing" = "라인 간격";
+
+"The space between two lines of text. A lower values renders a compact layout, a higher value renders comfortable layout." = "두 줄의 텍스트 사이의 공간.값이 적은 소형 레이아웃을 렌더링하면 더 높은 값은 편안한 레이아웃을 렌더링합니다.";
+
+"Font size" = "글꼴 크기";
+
+"The base font size. Pargraphs are rendered at this size. Other elements derive their sizes proportional to this." = "기본 글꼴 크기.pargraphs는이 크기로 렌더링됩니다.다른 요소는이 크기에 비례하는 크기를 유도합니다.";
+
+/* MISC */
+"Show unread counters" = "읽지 않은 카운터를 보여줍니다";
+
+"You can optionally hide the Bookmarks Tab from the Sidebar." = "선택적으로 사이드 바에서 북마크 탭을 숨길 수 있습니다.";
+
+"Summary" = "요약";
+
+"Number of summary lines to show when viewing the list of Articles." = "조항 목록을 볼 때 표시 할 요약 줄의 수.";
+
+"Apps" = "앱";
+
+"Your preferred Twitter app. Clicking on a tweet will open this app." = "원하는 트위터 앱.짹짹을 클릭하면이 앱이 열립니다.";
+
+"Updates" = "업데이트";
+
+"Release Builds" = "빌드 릴리스";
+
+"Test Builds" = "빌드 테스트";
+
+"Automatically Check for Updates" = "자동으로 업데이트를 확인합니다";
+
+"You should select Release if you want only the most stable releases. Test Builds may be buggy, crash  and even cause data loss." = "가장 안정된 릴리스 만 원할 경우 릴리스를 선택해야합니다.테스트 빌드는 버그가 있고 충돌이 발생할 수 있으며 데이터가 손실 될 수 있습니다.";
+
+/* Preferences Controller */
+
+/* Title for General Prefs Tab */
+"General" = "일반적인";
+
+/* Title for Images Prefs Tab */
+"Images" = "이미지";
+
+/* Title for Reader Prefs Tab */
+"Reader" = "리더";
+
+"Set up your account" = "귀하의 계정을 설정하십시오";
