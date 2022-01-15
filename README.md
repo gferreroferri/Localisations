@@ -6,7 +6,7 @@ The base locations have been translated using Google Translate and DeepL. Some l
 
 ### Localisations
 - [x] English (en-US)
-- [ ] Chinese Simplified (zh-Hans)
+- [x] Chinese Simplified (zh-Hans)
 - [ ] Chinese Traditional (zh-Hant)
 - [ ] Korean (ko)
 - [ ] Italian (it)
