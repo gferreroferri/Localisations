@@ -150,9 +150,9 @@
 
 "Unbookmark" = "取消收藏";
 
-"Mark Newer Read" = "标记此文章以上的为已读";
+"Mark Newer Read" = "标记此文章以上为已读";
 
-"Mark Older Read" = "标记此文章以下的为已读";
+"Mark Older Read" = "标记此文章以下为已读";
 
 "Articles by %@" = "文章%@";
 
@@ -305,7 +305,7 @@
 
 "Your subscription is active up to %@." = "您的订阅有效期至 %@。";
 
-"Your subscription will renew on %@." = "您的订阅将续订 %@。";
+"Your subscription will renew on %@." = "您的订阅将与 %@续订。";
 
 /* Settings */
 "Settings" = "设置";
@@ -332,9 +332,9 @@
 
 "Rate on AppStore" = "在AppStore评价我们";
 
-"Attributions" = "关于";
+"Attributions" = "关于我们";
 
-"Contact" = "联系";
+"Contact" = "联系我们";
 
 "Re-Sync All" = "重新同步所有";
 
@@ -353,7 +353,7 @@
 
 "Subscription" = "订阅";
 
-"If you deactivate your account and wish to activate it again, please email me on support@elytra.app with the above UUID. You can use the context menu/right click to copy the ID." = "如果您停用您的帐号后希望再次激活它，请通过上述UUID给我的电子邮箱Support@elytra.app发电子邮件。您可以使用上下文菜单/右键单击以复制ID。";
+"If you deactivate your account and wish to activate it again, please email me on support@elytra.app with the above UUID. You can use the context menu/right click to copy the ID." = "如果您在停用您的帐号后，希望再次激活它！请通过上述UUID给我的电子邮箱Support@elytra.app发电子邮件。您可以使用上下文菜单/右键单击以复制ID。";
 
 "Connect your Apple ID to your Elytra account. This will enable you to sign in on other platforms as well. " = "将Apple ID连接到您的Elytra帐户。这将使您也可以在其他平台上登录。";
 
@@ -362,9 +362,9 @@
 "If you have remaining days on your Pro Subscription, no refund can be issued for the same." = "如果您的订阅仍有效，则不能为其退款。";
 
 /* Image Loading Settings */
-"The above setting only works when the Article source provides these options. If no such option is provided in the article source, the original image is always loaded." = "上面的设置仅在文章源提供这些选项时工作。如果在文章源中没有提供此类选项，则始终加载原始图像。";
+"The above setting only works when the Article source provides these options. If no such option is provided in the article source, the original image is always loaded." = "该设置仅在文章源提供这些选项时工作。如果在文章源中没有提供此类选项，则始终加载原始图像。";
 
-"The above setting is also used for galleries and Youtube video previews." = "上面的设置也用于画廊和YouTube 视频预览。";
+"The above setting is also used for galleries and Youtube video previews." = "该设置也可用于画廊和YouTube 视频预览。";
 
 "Enabling this shows cover images in the feeds list. This setting is also affected by your setting for Bandwidth." = "启用该功能后，会在订阅源列表中显示封面图片。这个设置也受到你的图像缓存设置影响。";
 
@@ -432,7 +432,7 @@
 
 "Relax Mode" = "放松模式";
 
-"Mark Read Prompt" = "标记文章已读提示";
+"Mark Read Prompt" = "标记文章已读时提示";
 
 "Hide Bookmarks" = "隐藏收藏列表";
 
@@ -450,7 +450,7 @@
 
 "Mirror Full UI" = "镜像全局";
 
-"Faded Selection Tint" = "褪色选择列表背景的色调";
+"Faded Selection Tint" = "选择列表背景褪色";
 
 "Mark Read on Scroll" = "滚动时标记已读";
 
@@ -458,7 +458,7 @@
 
 "Set whether you want to see the number of unread articles in each section." = "设置是否要查看每个部分中未读文章的数量。";
 
-"Optionally hide unread counters only from feeds and folders." = "可选择仅从订阅源和文件夹隐藏未读计数。";
+"Optionally hide unread counters only from feeds and folders." = "可选择仅对订阅源和文件夹隐藏未读计数。";
 
 "Set whether the app should prompt you when marking articles as read." = "当将文章标记为已读时，请设置应用是否应提示您。";
 
