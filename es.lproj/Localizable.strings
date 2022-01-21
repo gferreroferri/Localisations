@@ -86,7 +86,7 @@
 
 "Delete Feed" = "Eliminar subscripción";
 
-"Are you sure you want to delete this feed?" = "¿Estás seguro de que quieres eliminar esta subscripción?";
+"Are you sure you want to delete this feed?" = "¿Está seguro de que quieres eliminar esta subscripción?";
 
 "Delete Folder" = "Eliminar carpeta";
 
@@ -162,19 +162,19 @@
 
 "Articles by %@" = "Artículos por %@";
 
-"Article Actions" = "Acciones de artículos";
+"Article Actions" = "Acciones de artículo";
 
 "Untitled" = "Sin título";
 
 /* ArticleVC */
 
-"Previous search result" = "Anterior resultado de búsqueda";
+"Previous search result" = "Resultado anterior";
 
-"Next search result" = "Siguiente resultado de búsqueda";
+"Next search result" = "Resultado siguiente";
 
 "Dismiss Search" = "Cancelar búsqueda";
 
-"Search Article Content" = "Buscar contenido del artículo";
+"Search Article Content" = "Buscar en el artículo";
 
 "Search for keywords in the article" = "Buscar palabras en el artículo";
 
@@ -228,11 +228,11 @@
 
 "Auto Full-Text" = "Texto completo";
 
-"When enabled, the full-text for the article will be automatically fetched." = "Cuando está habilitado, el texto completo para el artículo será cargado automáticamente.";
+"When enabled, the full-text for the article will be automatically fetched." = "Habilitar para cargar el texto completo del artículo automáticamente.";
 
-"Opens in Browser" = "Se abre en el navegador";
+"Opens in Browser" = "Abrir en el navegador";
 
-"When enabled, the articles will be opened in the browser instead of the article reader." = "Cuando está habilitado, los artículos se abrirán en el navegador en lugar del lector de artículos.";
+"When enabled, the articles will be opened in the browser instead of the article reader." = "Abrir los artículos en el navegador en lugar del lector de artículos.";
 
 "Folder" = "Carpeta";
 
@@ -246,11 +246,11 @@
 
 "Unsubscribe Failed" = "Fallo al cancelar subscripción";
 
-"An unknown error occurred when unsubscribing." = "SError desconocido al cancelar la suscripción.";
+"An unknown error occurred when unsubscribing." = "Error desconocido al cancelar la suscripción.";
 
 "Subscribe Failed" = "Fallo de subscripción";
 
-"Select a Folder" = "Seleccione una carpeta";
+"Select a Folder" = "Seleccionar carpeta";
 
 /* Search */
 
@@ -260,13 +260,13 @@
 
 "Error Loading Feeds" = "Error al cargar subscripción";
 
-"The URL or query may be invalid. Please check the URL." = "La dirección o la consulta puede ser inválida. Por favor revise la dirección.";
+"The URL or query may be invalid. Please check the URL." = "La dirección o la consulta puede ser inválida. Por favor revísela.";
 
 "Feed Exists" = "La subscripción ya existe";
 
 "This feed already exists in your account." = "Esta subscripción ya existe en su cuenta.";
 
-"An error occurred when parsing the feed's information. If this repeats, please contact support." = "Se produjo un error al analizar la información de la fuente.Si esto se repite, póngase en contacto con el asistencia.";
+"An error occurred when parsing the feed's information. If this repeats, please contact support." = "Error al analizar la información de la fuente.Si esto se repite, póngase en contacto con el asistencia.";
 
 "Adding Feed" = "Añadiendo subscripción";
 
@@ -306,7 +306,7 @@ Precios descontados.";
 
 "Error Loading Subscription" = "Error al cargar suscripción";
 
-"Select a subscription plan" = "Seleccione plan de subscripción de la app";
+"Select a subscription plan" = "Seleccionar plan de subscripción de la app";
 
 " Your subscription is managed externally." = "Suscripción administrada externamente.";
 
@@ -342,7 +342,7 @@ Precios descontados.";
 
 "OPML" = "OPML";
 
-"Miscellaneous" = "Miscellaneous";
+"Miscellaneous" = "Misceláneo";
 
 "Rate on AppStore" = "Crear reseña en AppStore";
 
@@ -388,7 +388,7 @@ Precios descontados.";
 
 "Autoloading GIFs is not recommended for the health of your device's battery and bandwidth load. However, if you have an unlimited data plan or lots of money, this setting is for you." = "No se recomienda cargar GIFs automáticamente para ahorrar batería de su dispositivo y ancho de banda. Sin embargo, si tiene un plan de datos ilimitado o mucho dinero, esta configuración es para usted.";
 
-"Image Bandwidth" = "Ancho de banda de imagenes";
+"Image Bandwidth" = "Uso de datos para imágenes";
 
 "Never" = "Nunca";
 
@@ -400,9 +400,9 @@ Precios descontados.";
 
 "Use Image Proxy" = "Usar proxy de imágenes";
 
-"Auto-load GIFs" = "Cargar GIF automáticamente";
+"Auto-load GIFs" = "Cargar GIFs automáticamente";
 
-"Image Resolution" = "Resolución de imagenes";
+"Image Resolution" = "Resolución de imágenes";
 
 "Low Resolution" = "Baja";
 
@@ -420,13 +420,13 @@ Precios descontados.";
 
 "An unknown error occurred when trying to delete the keyword." = "Error desconocido al intentar eliminar la palabra clave.";
 
-"Short Keyword" = "Palabra clave corta";
+"Short Keyword" = "Palabra clave demasiado corta";
 
 "The keyword should be atleast 3 letters" = "La palabra clave debe ser al menos de 3 letras";
 
 "Failed to add Filter" = "Error al añadir filtro";
 
-"An unknown error occurred when trying to delete the keyword." = "Se produjo un error desconocido al intentar eliminar la palabra clave.";
+"An unknown error occurred when trying to delete the keyword." = "Error desconocido al intentar eliminar la palabra clave.";
 
 /* MiscVC */
 
@@ -440,13 +440,13 @@ Precios descontados.";
 
 "Large" = "Grande";
 
-"Enable Reader Mode" = "Habilitar el modo lector";
+"Enable Reader Mode" = "Habilitar el modo lector de Safari";
 
-"Are you sure you want to enable Reader Mode for all feeds?" = "¿Está seguro de que desea habilitar el modo de lector para todas las subscripciones?";
+"Are you sure you want to enable Reader Mode for all feeds?" = "¿Seguro de que desea habilitar el modo de lector para todas las subscripciones?";
 
 "App Icon" = "Icono de la aplicación";
 
-"Unread Counters" = "Contadores no leídos";
+"Unread Counters" = "Contador de no leídos";
 
 "Relax Mode" = "Modo relax";
 
@@ -454,7 +454,7 @@ Precios descontados.";
 
 "Hide Bookmarks" = "Ocultar marcadores";
 
-"Open Unread" = "Abrir no leído";
+"Open Unread" = "Abrir en no leído";
 
 "Summary Lines" = "Líneas de resumen";
 
@@ -468,7 +468,7 @@ Precios descontados.";
 
 "Mirror Full UI" = "Interfaz en modo espejo";
 
-"Faded Selection Tint" = "Tinte de selección descolorido";
+"Faded Selection Tint" = "Tinte de selección suavizado";
 
 "Mark Read on Scroll" = "Marcar como leído al desplazar";
 
@@ -476,29 +476,29 @@ Precios descontados.";
 
 "Set whether you want to see the number of unread articles in each section." = "Elegir si se desea ver el número de artículos no leídos en cada sección.";
 
-"Optionally hide unread counters only from feeds and folders." = "Opcionalmente, ocultar contadores no leídos solo de subscripciones y carpetas.";
+"Optionally hide unread counters only from feeds and folders." = "Ocultar contadores no leídos solo de subscripciones y carpetas.";
 
 "Set whether the app should prompt you when marking articles as read." = "Elegir si la aplicación debe preguntar al marcar artículos como leídos.";
 
-"You can optionally hide the Bookmarks Tab from the Feeds Interface." = "Opcionalmente, ocultar la pestaña Marcadores desde la interfaz de Subscripciones.";
+"You can optionally hide the Bookmarks Tab from the Feeds Interface." = "Ocultar la pestaña Marcadores desde la interfaz de Subscripciones.";
 
-"When enabled, the app will open the Unread List upon launch." = "Cuando está habilitado, la aplicación abrirá la lista No leído al iniciarse.";
+"When enabled, the app will open the Unread List upon launch." = "Abrir la lista de No leído al iniciarse.";
 
 "Number of summary lines to show when viewing list of Articles." = "Número de líneas de resumen para mostrar al ver la lista de artículos.";
 
-"Show all actions in toolbar at the bottom of the interface instead of the navigation bar at the top. (Requires an App restart)" = "Muestra todas las acciones en la barra de herramientas de la parte inferior en lugar de en la barra de navegación de la parte superior (Requiere un reinicio de la aplicación).";
+"Show all actions in toolbar at the bottom of the interface instead of the navigation bar at the top. (Requires an App restart)" = "Mostrar todas las acciones en la barra de herramientas de la parte inferior en lugar de en la barra de navegación de la parte superior (Requiere un reinicio de la aplicación).";
 
-"Hides the navigation bar and toolbar in the article reader when scrolling." = "Oculta la barra de navegación y la barra de herramientas en el lector de artículos al desplazarse.";
+"Hides the navigation bar and toolbar in the article reader when scrolling." = "Ocultar la barra de navegación y la barra de herramientas en el lector de artículos al desplazarse.";
 
-"You may choose to restrict the app's UI only to the portrait orientation." = "Puede optar por forzar la orientación de la interfaz de la aplicación siempre en modo vertical.";
+"You may choose to restrict the app's UI only to the portrait orientation." = "Forzar la orientación de la interfaz de la aplicación siempre en modo vertical.";
 
-"When disabled, only the article reader interface is casted over Airplay." = "Al deshabilitar, solo la interfaz del lector de artículos se proyecta con AirPlay.";
+"When disabled, only the article reader interface is casted over Airplay." = "Deshabilitar para proyectar solo la interfaz del lector de artículos con AirPlay.";
 
-"When enabled, the articles list selection background color will be a light gray instead of the tint color." = "Al habilitar, el color de selección de artículos será un gris claro en lugar del color del tinte.";
+"When enabled, the articles list selection background color will be a light gray instead of the tint color." = "Habilitar para que el color de selección de artículos será un gris claro en lugar del color del tinte.";
 
-"As you scroll, the app will automatically mark articles as read." = "A medida que se desplaza por los artículos, la aplicación los marcará automáticamente como leídos.";
+"As you scroll, the app will automatically mark articles as read." = "Marcar artículos como leídos automáticamente a medida que se desplaza por los artículos.";
 
-"You may enable reader mode for all feeds with a single tap." = "Puede habilitar el modo de lector para todas las subscripciones con un solo toque.";
+"You may enable reader mode for all feeds with a single tap." = "Habilitar el modo de lector para todas las subscripciones con un solo toque.";
 
 /* Notifications */
 
@@ -506,7 +506,7 @@ Precios descontados.";
 
 "Error Registering" = "Error al registrarse";
 
-"An unknown error occurred when registering for Push Notifications." = "Se produjo un error desconocido al registrarse para recibir notificaciones.";
+"An unknown error occurred when registering for Push Notifications." = "Error desconocido al registrarse para recibir notificaciones.";
 
 "Error Loading Subscriptions" = "Error al cargar suscripciones";
 
@@ -537,7 +537,7 @@ Precios descontados.";
 
 "Open web pages in background in browser" = "Abrir las páginas web en segundo plano en el navegador";
 
-"Press the shift key to do the opposite" = "Presione la tecla Mayúsculas para hacer lo contrario.";
+"Press the shift key to do the opposite" = "Presionar la tecla Mayúsculas para hacer lo contrario.";
 
 "Dock Icon" = "Icono del Dock";
 
@@ -549,23 +549,23 @@ Precios descontados.";
 
 "Bandwidth" = "Ancho de banda";
 
-"Never load images" = "Nunca cargar imágenes";
+"Never load images" = "No cargar imágenes nunca";
 
 "Always load images" = "Cargar imágenes siempre";
 
 "Show cover images" = "Mostrar imágenes de portada";
 
-"Image Proxy" = "Proxy de imagen";
+"Image Proxy" = "Proxy para imágenes";
 
 "Elytra can optionally use the weserv.nl Image Proxy for loading images optimized to be displayed on this device. Images loaded from the Image Proxy are smaller in size and therefore load faster and save bandwidth." = "Elytra puede usar opcionalmente el proxy de imágenes Weserv.NL para cargar imágenes optimizadas para este dispositivo. Las imágenes cargadas del proxy son más pequeñas en tamaño y, por lo tanto, cargan más rápido y ahorra ancho de banda.";
 
 "Autoload GIFs" = "Cargar GIFs automáticamente";
 
-"The font to use for drawing the paragraph text in an article." = "Fuente para mostrar el texto del párrafo del artículo.";
+"The font to use for drawing the paragraph text in an article." = "Fuente del párrafo del artículo.";
 
 "Heading Font" = "Fuente de encabezado";
 
-"The font to use for drawing the headers in an article." = "Fuente para mostrar los encabezados del artículo.";
+"The font to use for drawing the headers in an article." = "Fuente de los encabezados del artículo.";
 
 "Line spacing" = "Espaciado entre líneas";
 
@@ -581,7 +581,7 @@ Precios descontados.";
 
 "Show unread counters" = "Mostrar contadores de no leídos";
 
-"You can optionally hide the Bookmarks Tab from the Sidebar." = "Opcionalmente, se puede ocultar la pestaña Marcadores desde la barra lateral.";
+"You can optionally hide the Bookmarks Tab from the Sidebar." = "Ocultar la pestaña Marcadores desde la barra lateral.";
 
 "Summary" = "Resumen";
 
