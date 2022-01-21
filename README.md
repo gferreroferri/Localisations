@@ -11,10 +11,10 @@ The base locations have been translated using Google Translate and DeepL. Some l
 - [ ] Korean (ko)
 - [ ] Italian (it)
 - [x] Spanish (es) (by [@gferreroferri](https://github.com/gferreroferri))
-- [x] German (de) (by [@sonalidz](https://github.com/sonalidz)
+- [x] German (de) (by [@sonalidz](https://github.com/sonalidz))
 - [ ] French (fr)
 - [ ] Japanese (ja)
-- [ ] Dutch (nl)
+- [x] Dutch (nl) (by [@ThomasvZadelhoff](https://github.com/ThomasvZadelhoff))
 
 A languge is marked with a checkmark once it has been fully verified and up-to-date. If updates are issued with incompleted or unverified translations, the checkmark is removed. 
 
