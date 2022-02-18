@@ -591,3 +591,7 @@
 "Reader" = "讀者";
 
 "Set up your account" = "設置您的帳戶";
+
+/* Logs */
+"App Logs" = "App 記錄";
+"Export Logs" = "輸出記錄";

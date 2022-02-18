@@ -592,3 +592,7 @@ Korting ten opzichte van het maandelijkse abonnement.";
 "Reader" = "Lezer";
 
 "Set up your account" = "Maak je account aan";
+
+/* Logs */
+"App Logs" = "App Logbestanden";
+"Export Logs" = "Exporteer logbestanden";

@@ -590,3 +590,6 @@ Ermäßigte Preisgestaltung.";
 
 "Set up your account" = "Erstellen Sie Ihr Konto.";
 
+/* Logs */
+"App Logs" = "App Protokolldateien";
+"Export Logs" = "Protokolle exportieren";

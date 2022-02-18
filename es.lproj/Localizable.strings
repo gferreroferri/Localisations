@@ -612,3 +612,7 @@ Precios descontados.";
 "Reader" = "Lector";
 
 "Set up your account" = "Configurar cuenta";
+
+/* Logs */
+"App Logs" = "App Registros";
+"Export Logs" = "Exportar registros";

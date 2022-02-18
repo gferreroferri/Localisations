@@ -591,3 +591,7 @@
 "Reader" = "리더";
 
 "Set up your account" = "귀하의 계정을 설정하십시오";
+
+/* Logs */
+"App Logs" = "App 로그";
+"Export Logs" = "로그 내보내기";

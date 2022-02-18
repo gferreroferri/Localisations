@@ -591,3 +591,7 @@
 "Reader" = "读者";
 
 "Set up your account" = "设置您的帐户";
+
+/* Logs */
+"App Logs" = "App 日志";
+"Export Logs" = "导出日志";

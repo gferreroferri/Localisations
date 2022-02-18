@@ -592,4 +592,6 @@ Prezzi scontati.";
 
 "Set up your account" = "Configura il tuo account";
 
-
+/* Logs */
+"App Logs" = "App Logs";
+"Export Logs" = "Esporta log";

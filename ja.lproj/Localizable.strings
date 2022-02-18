@@ -591,3 +591,7 @@
 "Reader" = "リーダー";
 
 "Set up your account" = "アカウントの設定";
+
+/* Logs */
+"App Logs" = "App ログ";
+"Export Logs" = "ログを書き出す";

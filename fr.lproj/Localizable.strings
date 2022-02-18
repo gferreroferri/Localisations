@@ -591,3 +591,6 @@
 
 "Set up your account" = "Configurez votre compte";
 
+/* Logs */
+"App Logs" = "App Historiques";
+"Export Logs" = "Exporter les historiques";
