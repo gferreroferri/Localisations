@@ -597,3 +597,6 @@
 /* Logs */
 "App Logs" = "App 로그";
 "Export Logs" = "로그 내보내기";
+
+/* Import/Export */
+"Import/Export" = "수입 수출";

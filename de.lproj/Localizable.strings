@@ -595,3 +595,6 @@ Ermäßigte Preisgestaltung.";
 /* Logs */
 "App Logs" = "App Protokolldateien";
 "Export Logs" = "Protokolle exportieren";
+
+/* Import/Export */
+"Import/Export" = "Import/Export";

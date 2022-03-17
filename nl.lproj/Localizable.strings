@@ -598,3 +598,6 @@ Korting ten opzichte van het maandelijkse abonnement.";
 /* Logs */
 "App Logs" = "App Logbestanden";
 "Export Logs" = "Exporteer logbestanden";
+
+/* Import/Export */
+"Import/Export" = "Import/Export";

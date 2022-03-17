@@ -596,3 +596,6 @@
 /* Logs */
 "App Logs" = "App Historiques";
 "Export Logs" = "Exporter les historiques";
+
+/* Import/Export */
+"Import/Export" = "Importer/Exporter";

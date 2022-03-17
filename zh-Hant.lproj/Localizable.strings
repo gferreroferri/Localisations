@@ -597,3 +597,6 @@
 /* Logs */
 "App Logs" = "App 記錄";
 "Export Logs" = "輸出記錄";
+
+/* Import/Export */
+"Import/Export" = "導入/導出";

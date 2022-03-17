@@ -597,3 +597,6 @@ Prezzi scontati.";
 /* Logs */
 "App Logs" = "App Logs";
 "Export Logs" = "Esporta log";
+
+/* Import/Export */
+"Import/Export" = "Importazione/Esportazione";

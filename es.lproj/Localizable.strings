@@ -618,3 +618,6 @@ Precios descontados.";
 /* Logs */
 "App Logs" = "App Registros";
 "Export Logs" = "Exportar registros";
+
+/* Import/Export */
+"Import/Export" = "Importación/Exportación";

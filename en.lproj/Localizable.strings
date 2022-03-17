@@ -366,3 +366,11 @@ Discounted Pricing.";
 /* Logs */
 "App Logs" = "App Logs";
 "Export Logs" = "Export Logs";
+
+/* Import/Export */
+"Import/Export" = "Import/Export";
+"Import" = "Import";
+"Export" = "Export";
+"Empty Content" = "Empty Content";
+"no file selected" = "no file selected";
+"Select a file" = "Select a file";
