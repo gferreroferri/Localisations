@@ -606,3 +606,12 @@
 "Select a file" = "Sélectionnez un fichier";
 "Import Feed Settings" = "Importer les paramètres des flux";
 "Export Feed Settings" = "Paramètres d'exportation des flux";
+
+/* Menu */
+"View Subscription" = "Afficher les abonnements";
+"Preferences" = "Préférences";
+"Refresh" = "Actualiser";
+"Next Result" = "Résultat Suivant";
+"Previous Result" = "Résultat Précédent";
+"Email Support" = "Envoyer un email à l'assistance";
+"Frequently Asked Questions" = "Frequently Asked Questions";

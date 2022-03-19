@@ -607,3 +607,12 @@
 "Select a file" = "ファイルを選択してください";
 "Import Feed Settings" = "フィードのインポート設定";
 "Export Feed Settings" = "フィードのエクスポート設定";
+
+/* Menu */
+"View Subscription" = "サブスクリプションを表示";
+"Preferences" = "環境設定";
+"Refresh" = "更新";
+"Next Result" = "次の結果を表示します";
+"Previous Result" = "前の結果を表示します";
+"Email Support" = "メールサポート";
+"Frequently Asked Questions" = "Frequently Asked Questions";

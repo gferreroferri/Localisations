@@ -607,3 +607,12 @@
 "Select a file" = "選擇一個文件";
 "Import Feed Settings" = "導入 Feed 設置";
 "Export Feed Settings" = "導出 Feed 設置";
+
+/* Menu */
+"View Subscription" = "檢視訂閲項目";
+"Preferences" = "偏好設定";
+"Refresh" = "重新整理";
+"Next Result" = "下一個結果";
+"Previous Result" = "上一個結果";
+"Email Support" = "電郵支援";
+"Frequently Asked Questions" = "Frequently Asked Questions";

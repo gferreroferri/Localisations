@@ -608,3 +608,12 @@ Korting ten opzichte van het maandelijkse abonnement.";
 "Select a file" = "Selecteer een bestand";
 "Import Feed Settings" = "Feed Instellingen Importeren";
 "Export Feed Settings" = "Feed Instellingen Exporteren";
+
+/* Menu */
+"View Subscription" = "Bekijk abonnement";
+"Preferences" = "Voorkeuren";
+"Refresh" = "Vernieuw";
+"Next Result" = "Volgende Resultaat";
+"Previous Result" = "Vorige resultaat";
+"Email Support" = "E-mailondersteuning";
+"Frequently Asked Questions" = "Frequently Asked Questions";

@@ -376,3 +376,12 @@ Discounted Pricing.";
 "Select a file" = "Select a file";
 "Import Feed Settings" = "Import Feed Settings";
 "Export Feed Settings" = "Export Feed Settings";
+
+/* Menu */
+"View Subscription" = "View Subscription";
+"Preferences" = "Preferences";
+"Refresh" = "Refresh";
+"Next Result" = "Next Result";
+"Previous Result" = "Previous Result";
+"Email Support" = "Email Support";
+"Frequently Asked Questions" = "Frequently Asked Questions";

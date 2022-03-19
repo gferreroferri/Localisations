@@ -607,3 +607,12 @@
 "Select a file" = "选择一个文件";
 "Import Feed Settings" = "导入饲料设置";
 "Export Feed Settings" = "导出饲料设置";
+
+/* Menu */
+"View Subscription" = "查看订阅";
+"Preferences" = "偏好设置";
+"Refresh" = "刷新";
+"Next Result" = "下一个结果";
+"Previous Result" = "上一个结果";
+"Email Support" = "发送邮件给支持";
+"Frequently Asked Questions" = "Frequently Asked Questions";

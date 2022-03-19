@@ -628,3 +628,12 @@ Precios descontados.";
 "Select a file" = "Selecciona un archivo";
 "Import Feed Settings" = "Importar configuración subscripción";
 "Export Feed Settings" = "Exportar configuración subscripción";
+
+/* Menu */
+"View Subscription" = "Ver suscripción";
+"Preferences" = "Preferencias";
+"Refresh" = "Actualizar";
+"Next Result" = "Resultado Siguiente";
+"Previous Result" = "Resultado Anterior";
+"Email Support" = "Envía un correo soporte";
+"Frequently Asked Questions" = "Frequently Asked Questions";

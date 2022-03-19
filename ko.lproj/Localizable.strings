@@ -607,3 +607,12 @@
 "Select a file" = "파일을 선택하십시오";
 "Import Feed Settings" = "피드 설정 가져오기";
 "Export Feed Settings" = "피드 설정 내보내기";
+
+/* Menu */
+"View Subscription" = "구독 보기";
+"Preferences" = "환경설정";
+"Refresh" = "새로 고침";
+"Next Result" = "다음 결과보";
+"Previous Result" = "이전 결과를";
+"Email Support" = "지원 이메일 보내기";
+"Frequently Asked Questions" = "Frequently Asked Questions";

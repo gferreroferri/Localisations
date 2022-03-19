@@ -605,3 +605,12 @@ Ermäßigte Preisgestaltung.";
 "Select a file" = "Datei auswählen";
 "Import Feed Settings" = "Feed-Einstellungen importieren";
 "Export Feed Settings" = "Feed-Einstellungen exportieren";
+
+/* Menu */
+"View Subscription" = "Abo anzeigen";
+"Preferences" = "Einstellungen";
+"Refresh" = "Aktualisieren";
+"Next Result" = "Nächstes Ergebnis";
+"Previous Result" = "Vorheriges Ergebnis";
+"Email Support" = "Email Support";
+"Frequently Asked Questions" = "Frequently Asked Questions";

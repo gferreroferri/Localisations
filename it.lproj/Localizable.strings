@@ -607,3 +607,12 @@ Prezzi scontati.";
 "Select a file" = "Seleziona un file";
 "Import Feed Settings" = "Importa impostazioni feed";
 "Export Feed Settings" = "Esporta impostazioni feed";
+
+/* Menu */
+"View Subscription" = "Visualizza abbonamento";
+"Preferences" = "Preferenze";
+"Refresh" = "Aggiorna";
+"Next Result" = "Risultato Successivo";
+"Previous Result" = "Risultato Precedente";
+"Email Support" = "Invia e-mail al supporto";
+"Frequently Asked Questions" = "Frequently Asked Questions";
