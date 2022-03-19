@@ -620,4 +620,11 @@ Precios descontados.";
 "Export Logs" = "Exportar registros";
 
 /* Import/Export */
-"Import/Export" = "Importación/Exportación";
+"Import/Export" = "Importar/Exportar";
+"Import" = "Importar";
+"Export" = "Exportar";
+"Empty Content" = "Contenido vacío";
+"no file selected" = "ningún archivo seleccionado";
+"Select a file" = "Selecciona un archivo";
+"Import Feed Settings" = "Importar configuración subscripción";
+"Export Feed Settings" = "Exportar configuración subscripción";

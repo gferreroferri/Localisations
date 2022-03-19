@@ -597,4 +597,11 @@ Ermäßigte Preisgestaltung.";
 "Export Logs" = "Protokolle exportieren";
 
 /* Import/Export */
-"Import/Export" = "Import/Export";
+"Import/Export" = "Importieren/Exportieren";
+"Import" = "Importieren";
+"Export" = "Exportieren";
+"Empty Content" = "Leerer Inhalt";
+"no file selected" = "Keine Datei ausgewählt";
+"Select a file" = "Datei auswählen";
+"Import Feed Settings" = "Feed-Einstellungen importieren";
+"Export Feed Settings" = "Feed-Einstellungen exportieren";

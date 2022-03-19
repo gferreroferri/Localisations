@@ -600,4 +600,11 @@ Korting ten opzichte van het maandelijkse abonnement.";
 "Export Logs" = "Exporteer logbestanden";
 
 /* Import/Export */
-"Import/Export" = "Import/Export";
+"Import/Export" = "Importeer/Exporteer";
+"Import" = "Importeer";
+"Export" = "Exporteer";
+"Empty Content" = "Lege inhoud";
+"no file selected" = "geen bestand geselecteerd";
+"Select a file" = "Selecteer een bestand";
+"Import Feed Settings" = "Feed Instellingen Importeren";
+"Export Feed Settings" = "Feed Instellingen Exporteren";

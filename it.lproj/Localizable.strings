@@ -599,4 +599,11 @@ Prezzi scontati.";
 "Export Logs" = "Esporta log";
 
 /* Import/Export */
-"Import/Export" = "Importazione/Esportazione";
+"Import/Export" = "Importa/Esporta";
+"Import" = "Importa";
+"Export" = "Esporta";
+"Empty Content" = "Senza contenuto";
+"no file selected" = "nessun file selezionato";
+"Select a file" = "Seleziona un file";
+"Import Feed Settings" = "Importa impostazioni feed";
+"Export Feed Settings" = "Esporta impostazioni feed";

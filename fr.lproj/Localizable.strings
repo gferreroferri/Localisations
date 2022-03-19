@@ -599,3 +599,10 @@
 
 /* Import/Export */
 "Import/Export" = "Importer/Exporter";
+"Import" = "Importer";
+"Export" = "Exporter";
+"Empty Content" = "Contenu vide";
+"no file selected" = "aucun fichier sélectionné";
+"Select a file" = "Sélectionnez un fichier";
+"Import Feed Settings" = "Importer les paramètres des flux";
+"Export Feed Settings" = "Paramètres d'exportation des flux";

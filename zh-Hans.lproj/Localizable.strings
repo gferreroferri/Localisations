@@ -600,3 +600,10 @@
 
 /* Import/Export */
 "Import/Export" = "导入/导出";
+"Import" = "进口";
+"Export" = "出口";
+"Empty Content" = "空内容";
+"no file selected" = "没有选择文件";
+"Select a file" = "选择一个文件";
+"Import Feed Settings" = "导入饲料设置";
+"Export Feed Settings" = "导出饲料设置";

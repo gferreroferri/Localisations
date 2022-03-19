@@ -600,3 +600,10 @@
 
 /* Import/Export */
 "Import/Export" = "導入/導出";
+"Import" = "Import";
+"Export" = "Export";
+"Empty Content" = "空內容";
+"no file selected" = "沒有選擇文件";
+"Select a file" = "選擇一個文件";
+"Import Feed Settings" = "導入 Feed 設置";
+"Export Feed Settings" = "導出 Feed 設置";

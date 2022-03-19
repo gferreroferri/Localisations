@@ -600,3 +600,10 @@
 
 /* Import/Export */
 "Import/Export" = "インポート・エクスポート";
+"Import" = "インポート";
+"Export" = "エクスポート";
+"Empty Content" = "空のコンテンツ";
+"no file selected" = "ファイル未選択";
+"Select a file" = "ファイルを選択してください";
+"Import Feed Settings" = "フィードのインポート設定";
+"Export Feed Settings" = "フィードのエクスポート設定";
