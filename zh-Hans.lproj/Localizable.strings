@@ -616,3 +616,7 @@
 "Previous Result" = "上一个结果";
 "Email Support" = "发送邮件给支持";
 "Frequently Asked Questions" = "Frequently Asked Questions";
+
+/* Empty VC */
+/* Class = "UILabel"; text = "Select an article from your feeds to begin reading it. "; ObjectID = "llj-MV-kuV"; */
+"llj-MV-kuV.text" = "从饲料中选择一篇文章开始阅读它。";

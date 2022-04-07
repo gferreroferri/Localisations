@@ -615,3 +615,7 @@
 "Previous Result" = "Résultat Précédent";
 "Email Support" = "Envoyer un email à l'assistance";
 "Frequently Asked Questions" = "Frequently Asked Questions";
+
+/* Empty VC */
+/* Class = "UILabel"; text = "Select an article from your feeds to begin reading it. "; ObjectID = "llj-MV-kuV"; */
+"llj-MV-kuV.text" = "Sélectionnez un article de vos flux pour commencer à le lire.";

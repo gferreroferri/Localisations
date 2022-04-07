@@ -616,3 +616,7 @@
 "Previous Result" = "前の結果を表示します";
 "Email Support" = "メールサポート";
 "Frequently Asked Questions" = "Frequently Asked Questions";
+
+/* Empty VC */
+/* Class = "UILabel"; text = "Select an article from your feeds to begin reading it. "; ObjectID = "llj-MV-kuV"; */
+"llj-MV-kuV.text" = "あなたのフィードから記事を選択して読むことを始めます。";

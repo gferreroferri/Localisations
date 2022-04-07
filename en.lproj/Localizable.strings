@@ -385,3 +385,8 @@ Discounted Pricing.";
 "Previous Result" = "Previous Result";
 "Email Support" = "Email Support";
 "Frequently Asked Questions" = "Frequently Asked Questions";
+
+/* Empty VC */
+
+/* Class = "UILabel"; text = "Select an article from your feeds to begin reading it."; ObjectID = "llj-MV-kuV"; */
+"llj-MV-kuV.text" = "Select an article from your feeds to begin reading it.";

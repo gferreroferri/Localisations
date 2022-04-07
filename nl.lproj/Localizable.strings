@@ -617,3 +617,7 @@ Korting ten opzichte van het maandelijkse abonnement.";
 "Previous Result" = "Vorige resultaat";
 "Email Support" = "E-mailondersteuning";
 "Frequently Asked Questions" = "Frequently Asked Questions";
+
+/* Empty VC */
+/* Class = "UILabel"; text = "Select an article from your feeds to begin reading it. "; ObjectID = "llj-MV-kuV"; */
+"llj-MV-kuV.text" = "Selecteer een artikel uit uw feeds om het te laten lezen.";
