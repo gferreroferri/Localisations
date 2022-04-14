@@ -593,8 +593,11 @@ Ermäßigte Preisgestaltung.";
 "Set up your account" = "Erstellen Sie Ihr Konto.";
 
 /* Logs */
+"Help" = "Hilfe";
+"Frequently Asked Questions" = "Frequently Asked Questions";
 "App Logs" = "App Protokolldateien";
 "Export Logs" = "Protokolle exportieren";
+"Show Logs" = "Protokolle einblenden";
 
 /* Import/Export */
 "Import/Export" = "Importieren/Exportieren";

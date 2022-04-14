@@ -616,8 +616,11 @@ Precios descontados.";
 "Set up your account" = "Configurar cuenta";
 
 /* Logs */
+"Help" = "Ayuda";
+"Frequently Asked Questions" = "Frequently Asked Questions";
 "App Logs" = "App Registros";
 "Export Logs" = "Exportar registros";
+"Show Logs" = "Mostrar registros";
 
 /* Import/Export */
 "Import/Export" = "Importar/Exportar";

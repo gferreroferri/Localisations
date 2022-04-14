@@ -595,8 +595,11 @@
 "Set up your account" = "귀하의 계정을 설정하십시오";
 
 /* Logs */
+"Help" = "도움말";
+"Frequently Asked Questions" = "Frequently Asked Questions";
 "App Logs" = "App 로그";
 "Export Logs" = "로그 내보내기";
+"Show Logs" = "로그 보기";
 
 /* Import/Export */
 "Import/Export" = "가져오기 / 내보내기";

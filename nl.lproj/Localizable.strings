@@ -596,8 +596,11 @@ Korting ten opzichte van het maandelijkse abonnement.";
 "Set up your account" = "Maak je account aan";
 
 /* Logs */
+"Help" = "Help";
+"Frequently Asked Questions" = "Frequently Asked Questions";
 "App Logs" = "App Logbestanden";
 "Export Logs" = "Exporteer logbestanden";
+"Show Logs" = "Toon logbestanden";
 
 /* Import/Export */
 "Import/Export" = "Importeer/Exporteer";

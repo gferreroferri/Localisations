@@ -595,8 +595,11 @@
 "Set up your account" = "アカウントの設定";
 
 /* Logs */
+"Help" = "ヘルプ";
+"Frequently Asked Questions" = "Frequently Asked Questions";
 "App Logs" = "App ログ";
 "Export Logs" = "ログを書き出す";
+"Show Logs" = "ログを表示";
 
 /* Import/Export */
 "Import/Export" = "インポート・エクスポート";

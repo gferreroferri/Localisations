@@ -364,8 +364,11 @@ Discounted Pricing.";
 "Set up your account" = "Set up your account";
 
 /* Logs */
+"Help" = "Help";
+"Frequently Asked Questions" = "Frequently Asked Questions";
 "App Logs" = "App Logs";
 "Export Logs" = "Export Logs";
+"Show Logs" = "Show Logs";
 
 /* Import/Export */
 "Import/Export" = "Import/Export";

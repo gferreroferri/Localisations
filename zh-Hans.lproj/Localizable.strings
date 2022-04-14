@@ -595,8 +595,11 @@
 "Set up your account" = "设置您的帐户";
 
 /* Logs */
+"Help" = "帮助";
+"Frequently Asked Questions" = "Frequently Asked Questions";
 "App Logs" = "App 日志";
 "Export Logs" = "导出日志";
+"Show Logs" = "显示日志";
 
 /* Import/Export */
 "Import/Export" = "导入/导出";

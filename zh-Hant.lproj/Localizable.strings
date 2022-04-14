@@ -595,8 +595,11 @@
 "Set up your account" = "設置您的帳戶";
 
 /* Logs */
+"Help" = "輔助說明";
+"Frequently Asked Questions" = "Frequently Asked Questions";
 "App Logs" = "App 記錄";
 "Export Logs" = "輸出記錄";
+"Show Logs" = "顯示記錄";
 
 /* Import/Export */
 "Import/Export" = "導入/導出";

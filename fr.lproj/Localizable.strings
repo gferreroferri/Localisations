@@ -594,8 +594,11 @@
 "Set up your account" = "Configurez votre compte";
 
 /* Logs */
+"Help" = "Aide";
+"Frequently Asked Questions" = "Frequently Asked Questions";
 "App Logs" = "App Historiques";
 "Export Logs" = "Exporter les historiques";
+"Show Logs" = "Afficher les historiques";
 
 /* Import/Export */
 "Import/Export" = "Importer/Exporter";
