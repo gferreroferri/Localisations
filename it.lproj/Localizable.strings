@@ -623,3 +623,5 @@ Prezzi scontati.";
 /* Empty VC */
 /* Class = "UILabel"; text = "Select an article from your feeds to begin reading it. "; ObjectID = "llj-MV-kuV"; */
 "llj-MV-kuV.text" = "Seleziona un articolo dai tuoi feed per iniziare a leggerlo.";
+
+"No Summary" = "Nessun riepilogo";

@@ -393,3 +393,5 @@ Discounted Pricing.";
 
 /* Class = "UILabel"; text = "Select an article from your feeds to begin reading it."; ObjectID = "llj-MV-kuV"; */
 "llj-MV-kuV.text" = "Select an article from your feeds to begin reading it.";
+
+"No Summary" = "No Summary";

@@ -623,3 +623,5 @@
 /* Empty VC */
 /* Class = "UILabel"; text = "Select an article from your feeds to begin reading it. "; ObjectID = "llj-MV-kuV"; */
 "llj-MV-kuV.text" = "피드에서 읽으려면 물품을 선택하여 읽으십시오.";
+
+"No Summary" = "요약 없음";
