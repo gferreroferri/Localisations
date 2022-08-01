@@ -357,7 +357,7 @@
 
 "If you deactivate your account and wish to activate it again, please email me on support@elytra.app with the above UUID. You can use the context menu/right click to copy the ID." = "계정을 비활성화하고 다시 활성화하려면 Support@elytra.app에 위의 UUID로 이메일로 보내주십시오.컨텍스트 메뉴 / 오른쪽 버튼을 클릭하여 ID를 복사 할 수 있습니다.";
 
-"Connect your Apple ID to your Elytra account. This will enable you to sign in on other platforms as well. " = "Apple ID를 Elytra 계정에 연결하십시오.이렇게하면 다른 플랫폼에서도 로그인 할 수 있습니다.";
+"Connect your Apple ID to your Elytra account. This will enable you to sign in on other devices using the same account." = "Apple ID를 Elytra 계정에 연결하십시오.이렇게하면 다른 플랫폼에서도 로그인 할 수 있습니다.";
 
 "Copy Account ID" = "계정 ID 복사";
 

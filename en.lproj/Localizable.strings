@@ -208,7 +208,7 @@ Discounted Pricing.";
 "Account ID" = "Account ID";
 "Subscription" = "Subscription";
 "If you deactivate your account and wish to activate it again, please email me on support@elytra.app with the above UUID. You can use the context menu/right click to copy the ID." = "If you deactivate your account and wish to activate it again, please email me on support@elytra.app with the above UUID. You can use the context menu/right click to copy the ID.";
-"Connect your Apple ID to your Elytra account. This will enable you to sign in on other platforms as well. " = "Connect your Apple ID to your Elytra account. This will enable you to sign in on other platforms as well.";
+"Connect your Apple ID to your Elytra account. This will enable you to sign in on other devices using the same account." = "Connect your Apple ID to your Elytra account. This will enable you to sign in on other devices using the same account.";
 "Copy Account ID" = "Copy Account ID";
 "If you have remaining days on your Pro Subscription, no refund can be issued for the same." = "If you have remaining days on your Pro Subscription, no refund can be issued for the same.";
 
@@ -238,7 +238,6 @@ Discounted Pricing.";
 "Short Keyword" = "Short Keyword";
 "The keyword should be atleast 3 letters" = "The keyword should be at least 3 letters";
 "Failed to add Filter" = "Failed to add Filter";
-"An unknown error occurred when trying to delete the keyword." = "An unknown error occurred when trying to delete the keyword.";
 
 /* MiscVC */
 "App Icon" = "App Icon";

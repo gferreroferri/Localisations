@@ -357,7 +357,7 @@
 
 "If you deactivate your account and wish to activate it again, please email me on support@elytra.app with the above UUID. You can use the context menu/right click to copy the ID." = "アカウントを停止し、再度有効化したい場合は、上記のUUIDを明記の上、support@elytra.app までメールをください。コンテキストメニュー/右クリックでIDをコピーすることができます。";
 
-"Connect your Apple ID to your Elytra account. This will enable you to sign in on other platforms as well. " = "Apple IDをElytraのアカウントに接続します。これにより、他のプラットフォームでもサインインできるようになります。";
+"Connect your Apple ID to your Elytra account. This will enable you to sign in on other devices using the same account." = "Apple IDをElytraのアカウントに接続します。これにより、他のプラットフォームでもサインインできるようになります。";
 
 "Copy Account ID" = "アカウントIDのコピー";
 
