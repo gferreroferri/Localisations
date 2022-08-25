@@ -93,6 +93,9 @@
 "Article Actions" = "Article Actions";
 "Untitled" = "Untitled";
 
+/* Open in New Window title */
+"Open in New Window" = "Open in New Window";
+
 /* ArticleVC */
 "Previous search result" = "Previous search result";
 "Next search result" = "Next search result";
