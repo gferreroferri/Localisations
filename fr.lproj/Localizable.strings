@@ -624,3 +624,11 @@
 "llj-MV-kuV.text" = "Sélectionnez un article de vos flux pour commencer à le lire.";
 
 "No Summary" = "Aucun résumé";
+
+/* Menu */
+"New Window" = "Nouvelle fenêtre";
+"Refresh Feeds" = "Refresh Feeds";
+"Go to Unread" = "Go to Unread";
+"Go to Today" = "Go to Today";
+"Go to Bookmarks" = "Go to Bookmarks";
+"Open in New Window" = "Ouvrir dans une nouvelle fenêtre";

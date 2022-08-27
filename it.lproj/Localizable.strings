@@ -625,3 +625,11 @@ Prezzi scontati.";
 "llj-MV-kuV.text" = "Seleziona un articolo dai tuoi feed per iniziare a leggerlo.";
 
 "No Summary" = "Nessun riepilogo";
+
+/* Menu */
+"New Window" = "Nuova finestra";
+"Refresh Feeds" = "Refresh Feeds";
+"Go to Unread" = "Go to Unread";
+"Go to Today" = "Go to Today";
+"Go to Bookmarks" = "Go to Bookmarks";
+"Open in New Window" = "Apri in una nuova finestra";

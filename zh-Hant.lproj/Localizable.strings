@@ -625,3 +625,11 @@
 "llj-MV-kuV.text" = "從飼料中選擇一篇文章開始閱讀它。";
 
 "No Summary" = "沒有摘要";
+
+/* Menu */
+"New Window" = "新增視窗";
+"Refresh Feeds" = "Refresh Feeds";
+"Go to Unread" = "Go to Unread";
+"Go to Today" = "Go to Today";
+"Go to Bookmarks" = "Go to Bookmarks";
+"Open in New Window" = "以新視窗打開";

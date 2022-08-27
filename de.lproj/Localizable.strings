@@ -623,3 +623,11 @@ Ermäßigte Preisgestaltung.";
 "llj-MV-kuV.text" = "Wählen Sie einen Artikel aus Ihren Feeds aus, um das Lesen zu lesen.";
 
 "No Summary" = "Keine Zusammenfassung";
+
+/* Menu */
+"New Window" = "Neues Fenster";
+"Refresh Feeds" = "Feeds aktualisieren";
+"Go to Unread" = "Zu Ungelesen gehen";
+"Go to Today" = "Gehe zu Heute";
+"Go to Bookmarks" = "Zu den Lesezeichen gehen";
+"Open in New Window" = "In neuem Fenster öffnen";

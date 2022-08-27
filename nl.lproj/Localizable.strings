@@ -626,3 +626,11 @@ Korting ten opzichte van het maandelijkse abonnement.";
 "llj-MV-kuV.text" = "Selecteer een artikel uit uw feeds om het te laten lezen.";
 
 "No Summary" = "Geen overzicht";
+
+/* Menu */
+"New Window" = "Nieuw venster";
+"Refresh Feeds" = "Refresh Feeds";
+"Go to Unread" = "Go to Unread";
+"Go to Today" = "Go to Today";
+"Go to Bookmarks" = "Go to Bookmarks";
+"Open in New Window" = "Open in nieuw venster";

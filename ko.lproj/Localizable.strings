@@ -625,3 +625,11 @@
 "llj-MV-kuV.text" = "피드에서 읽으려면 물품을 선택하여 읽으십시오.";
 
 "No Summary" = "요약 없음";
+
+/* Menu */
+"New Window" = "새로운 윈도우";
+"Refresh Feeds" = "Refresh Feeds";
+"Go to Unread" = "Go to Unread";
+"Go to Today" = "Go to Today";
+"Go to Bookmarks" = "Go to Bookmarks";
+"Open in New Window" = "새로운 윈도우에서 열기";

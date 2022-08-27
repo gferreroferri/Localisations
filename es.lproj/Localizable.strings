@@ -646,3 +646,11 @@ Precios descontados.";
 "llj-MV-kuV.text" = "Seleccione un artículo de sus feeds para comenzar a leerlo.";
 
 "No Summary" = "Sin resumen";
+
+/* Menu */
+"New Window" = "Nueva ventana";
+"Refresh Feeds" = "Refresh Feeds";
+"Go to Unread" = "Go to Unread";
+"Go to Today" = "Go to Today";
+"Go to Bookmarks" = "Go to Bookmarks";
+"Open in New Window" = "Abrir en una ventana nueva";

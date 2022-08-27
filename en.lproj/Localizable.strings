@@ -397,3 +397,11 @@ Discounted Pricing.";
 "llj-MV-kuV.text" = "Select an article from your feeds to begin reading it.";
 
 "No Summary" = "No Summary";
+
+/* Menu */
+"New Window" = "New Window";
+"Refresh Feeds" = "Refresh Feeds";
+"Go to Unread" = "Go to Unread";
+"Go to Today" = "Go to Today";
+"Go to Bookmarks" = "Go to Bookmarks";
+"Open in New Window" = "Open in New Window";

@@ -625,3 +625,11 @@
 "llj-MV-kuV.text" = "あなたのフィードから記事を選択して読むことを始めます。";
 
 "No Summary" = "概要なし";
+
+/* Menu */
+"New Window" = "新規ウインドウ";
+"Refresh Feeds" = "Refresh Feeds";
+"Go to Unread" = "Go to Unread";
+"Go to Today" = "Go to Today";
+"Go to Bookmarks" = "Go to Bookmarks";
+"Open in New Window" = "新規ウインドウで開く";
