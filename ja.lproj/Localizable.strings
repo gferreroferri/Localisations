@@ -118,7 +118,9 @@
 
 "No recent articles" = "最近の記事はありません";
 
-"Mark All Read?" = "すべて既読にしますか？";
+"Mark All Read?" = "すべて既読にしますか?";
+
+"Mark All Read" = "すべて既読にしますか";
 
 "Are you sure you want to mark all unread articles as read?" = "未読の記事をすべて既読にしますか？";
 
