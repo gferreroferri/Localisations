@@ -1,637 +1,951 @@
-/* Common Actions */
-"New" = "新的";
-
-"Delete" = "刪除";
-
-"Move" = "移動";
-
-"Share" = "分享";
-
-"Rename" = "改名";
-
-"Cancel" = "取消";
-
-"Done" = "完畢";
-
-"Read" = "讀";
-
-"Bookmark" = "書籤";
-
-"Unbookmark" = "未預訂";
-
-"Browser" = "瀏覽器";
-
-"Open in Browser" = "在瀏覽器中打開";
-
-"Share Article" = "分享文章";
-
-"Yes" = "是的";
-
-"Okay" = "好的";
-
-"Copy Link" = "複製鏈接";
-
-"Search" = "搜索";
-
-"Customize" = "定制";
-
-"Close" = "關閉";
-
-"Copy" = "複製";
-
-"Share URL" = "分享URL.";
-
-"Ok" = "好的";
-
-"Add" = "添加";
-
-"Update" = "更新";
-
-"Enable" = "使能夠";
-
-/* Common Errors */
-"No Subscription" = "沒有訂閱";
-
-"An Error Occurred" = "發生錯誤";
-
-"An unknown error has occurred." = "出現未知錯誤。";
-
-"Error Parsing" = "錯誤解析";
-
-"Error Processing" = "錯誤處理";
-
-"Failed to Update" = "無法更新";
-
-"Failed to Create" = "無法創建";
-
-/* Sidebar VC */
-"Feeds" = "飼料";
-
-"Unread" = "違背";
-
-"Today" = "今天";
-
-"Bookmarks" = "書籤";
-
-"New Feed" = "新飼料";
-
-"New Folder" = "新建文件夾";
-
-"Last Sync: %@" = "最後一個同步：%@";
-
-"Delete Feed" = "刪除Feed.";
-
-"Are you sure you want to delete this feed?" = "您確定要刪除此素材嗎？";
-
-"Delete Folder" = "刪除文件夾";
-
-"Are you sure you want to delete this folder?" = "您確定要刪除此文件夾嗎？";
-
-"Error Deleting Feed" = "刪除源時出錯";
-
-"Syncing..." = "同步......";
-
-"Syncing Complete" = "同步完成";
-
-"Synced %.f%%" = "同步 %.f%%";
-
-"Share Feed URL" = "分享Feed URL.";
-
-"Share Website URL" = "分享網站URL.";
-
-"Feed Info" = "飼料信息";
-
-"Feed Menu" = "飼料菜單";
-
-"Folder Menu" = "文件夾菜單";
-
-"Rename Feed" = "重命名飼料";
-
-"Feed Name" = "飼料名稱";
-
-"Error Moving Folder" = "錯誤移動文件夾";
-
-"An error occurred removing the feed from its current folder - %@" = "從其當前文件夾中刪除Feed發生的錯誤 - %@";
-
-/* Feed VC */
-"No unread articles" = "沒有未讀的文章";
-
-"No recent articles" = "沒有最近的文章";
-
-"Mark All Read?" = "標記所有閱讀?";
-
-"Mark All Read" = "標記所有閱讀";
-
-"Are you sure you want to mark all unread articles as read?" = "您確定要將所有未讀文章標記為閱讀嗎？";
-
-"Sorting Options" = "排序選項";
-
-"Unread - Latest First" = "未讀 - 最新的第一";
-
-"Unread - Oldest First" = "未讀 - 最古老的首先";
-
-"All - Latest First" = "全部 - 最新首先";
-
-"All - Oldest First" = "全部 - 最古老的首先";
-
-"Error Marking Read" = "錯誤標記閱讀";
-
-"Error Marking Unread" = "錯誤標記未讀";
-
-"Error Bookmarking" = "錯誤書籤";
-
-"Error Unbookmarking" = "未知錯誤";
-
-"An unknown error occurred when performing this action." = "執行此操作時發生了未知錯誤。";
-
-"Mark Read" = "馬克閱讀";
-
-"Mark Unread" = "標記為未讀";
-
-"Bookmark" = "書籤";
-
-"Unbookmark" = "未預訂";
-
-"Mark Newer Read" = "標記較新讀取";
-
-"Mark Older Read" = "馬克舊讀取";
-
-"Articles by %@" = "文章%@";
-
-"Article Actions" = "文章訴訟";
-
-"Untitled" = "無標題";
-
-/* ArticleVC */
-"Previous search result" = "以前的搜索結果";
-
-"Next search result" = "下一個搜索結果";
-
-"Dismiss Search" = "解僱搜索";
-
-"Search Article Content" = "搜索文章內容";
-
-"Search for keywords in the article" = "搜索文章中的關鍵字";
-
-"Error loading the article" = "加載文章時出錯";
-
-"An Unexpected Error Occurred" = "一個意料之外的問題發生了";
-
-"Error Reloading" = "錯誤重裝";
-
-"No article received after reloading." = "重新加載後沒有收到的文章。";
-
-"Search in article" = "在文章中搜索";
-
-"Go to previous article" = "轉到上一篇文章";
-
-"Previous Article" = "上一篇文章";
-
-"Go to next article" = "轉到下一篇文章";
-
-"Next Article" = "下一篇文章";
-
-"Close article" = "關閉文章";
-
-/* Appearance VC */
-"Customization" = "定制";
-
-"Use System Sizing" = "使用系統尺寸";
-
-"Font Size" = "字體大小";
-
-"Paragraph Font" = "段字體";
-
-"Title Font" = "標題字體";
-
-"Line Spacing" = "行間距";
-
-"Custom Font" = "自定義字體";
-
-/* Feed Info */
-"Close Feed Info" = "關閉飼料信息";
-
-"Push Notifications" = "推送通知";
-
-"Local Notifications" = "本地通知";
-
-"This feed supports real-time notifications." = "此饋送支持實時通知。";
-
-"Notifications for this feed will be near real-time." = "此饋送通知將在實時近。";
-
-"Safari Reader Mode" = "Safari Reader模式";
-
-"Auto Full-Text" = "自動全文";
-
-"When enabled, the full-text for the article will be automatically fetched." = "啟用後，將自動獲取文章的全文。";
-
-"Opens in Browser" = "在瀏覽器中打開";
-
-"When enabled, the articles will be opened in the browser instead of the article reader." = "啟用後，將在瀏覽器中打開文章而不是文章讀取器。";
-
-"Folder" = "文件夾";
-
-"None" = "沒有任何";
-
-"Feed URL" = "Feed URL.";
-
-"Website URL" = "網址";
-
-"Copy URL" = "複製URL.";
-
-"URL Actions" = "URL行動";
-
-"Unsubscribe Failed" = "取消訂閱失敗";
-
-"An unknown error occurred when unsubscribing." = "取消訂閱時發生了未知錯誤。";
-
-"Subscribe Failed" = "訂閱失敗";
-
-"Select a Folder" = "選擇一個文件夾";
-
-/* Search */
-"Delete Feed?" = "刪除飼料？";
-
-"Are you sure you want to delete %@" = "你確定你要刪除 %@";
-
-"Error Loading Feeds" = "加載飼料時出錯";
-
-"The URL or query may be invalid. Please check the URL." = "URL或查詢可能無效。請檢查URL。";
-
-"Feed Exists" = "飼料存在";
-
-"This feed already exists in your account." = "此饋送已存在於您的帳戶中。";
-
-"An error occurred when parsing the feed's information. If this repeats, please contact support." = "解析Feed的信息時發生錯誤。如果這重複，請聯繫支持。";
-
-"Adding Feed" = "添加飼料";
-
-"Close New Folder" = "關閉新文件夾";
-
-/* STORE VC */
-"Monthly" = "每月";
-
-"Pay as you go" = "現收現付";
-
-"MonthlyDesc" = "飼料數量沒有限制。
-實時推送通知。
-在所有設備上集成同步。
-支持一個獨立的開發人員。";
-
-"Yearly" = "每年";
-
-"Long Term" = "長期";
-
-"YearlyDesc" = "每月計劃的所有好處。
-折扣定價。";
-
-"Failed to load Products" = "無法加載產品";
-
-"An unknown error occurred when loading products. Please contact support@elytra.app" = "加載產品時發生了未知錯誤。請聯繫support@elytra.app.";
-
-"Processing..." = "加工...";
-
-"Error Purchasing" = "購買時出錯";
-
-"Error Restoring" = "恢復錯誤";
-
-"Error Loading Subscription" = "加載訂閱時出錯";
-
-"Select a subscription plan" = "選擇訂閱計劃";
-
+/* (No Comment) */
 " Your subscription is managed externally." = "您的訂閱在外部管理。";
 
-"Your subscription expired on %@." = "您的訂閱已過期為 %@";
-
-"Your account has a Lifetime subscription." = "您的帳戶有一生訂閱。";
-
-"Your free trial is active up to %@." = "您的免費試用是最高的@ %@。";
-
-"Your subscription is active up to %@." = "您的訂閱最高可達 %@。";
-
-"Your subscription will renew on %@." = "您的訂閱將續訂 %@。";
-
-/* Settings */
-"Settings" = "設置";
-
+/* (No Comment) */
 "Account" = "帳戶";
 
-"Filters" = "過濾器";
-
-"Notifications" = "通知";
-
-"Re-Sync" = "重新同步";
-
-"Appearance" = "外貌";
-
-"Background Fetch" = "背景獲取";
-
-"Image Loading" = "圖像加載";
-
-"External Apps" = "外部應用程序";
-
-"OPML" = "opml.";
-
-"Miscellaneous" = "各種各樣的";
-
-"Rate on AppStore" = "對AppStore的費率";
-
-"Attributions" = "歸因";
-
-"Contact" = "接觸";
-
-"Re-Sync All" = "重新同步所有";
-
-"Re-Sync Feeds" = "重新同步飼料";
-
-/* Account Settings */
-"No Account Setup" = "沒有帳戶設置";
-
-"Deactivate Account" = "關閉戶口";
-
-"Deactivate" = "停用";
-
-"Your Subscription" = "您的訂閱";
-
+/* (No Comment) */
 "Account ID" = "帳戶ID";
 
-"Subscription" = "訂閱";
-
-"If you deactivate your account and wish to activate it again, please email me on support@elytra.app with the above UUID. You can use the context menu/right click to copy the ID." = "如果您停用您的帳戶並希望再次激活它，請通過上述UUID在Support@elytra.app上給我發電子郵件。您可以使用上下文菜單/右鍵單擊以復制ID。";
-
-"Connect your Apple ID to your Elytra account. This will enable you to sign in on other devices using the same account." = "將Apple ID連接到您的Elytra帳戶。這將使您也可以在其他平台上登錄。";
-
-"Copy Account ID" = "複製帳戶ID.";
-
-"If you have remaining days on your Pro Subscription, no refund can be issued for the same." = "如果您的職業訂閱有剩餘的日子，則不能為其頒發退款。";
-
-/* Image Loading Settings */
-"The above setting only works when the Article source provides these options. If no such option is provided in the article source, the original image is always loaded." = "上面的設置僅在文章源提供這些選項時工作。如果在文章源中沒有提供此類選項，則始終加載原始圖像。";
-
-"The above setting is also used for galleries and Youtube video previews." = "上面的設置也用於畫廊和YouTube視頻預覽。";
-
-"Enabling this shows cover images in the feeds list. This setting is also affected by your setting for Bandwidth." = "啟用此顯示饋送列表中的封面圖像。此設置也受帶寬設置的影響。";
-
-"Elytra can optionally use the weserv.nl Image Proxy for loading images optimized to be displayed on this device. Images loaded via the Image Proxy are smaller in size and therefore load faster and save bandwidth." = "Elytra可以選擇使用WeServ.nl圖像代理來加載優化的圖像，以顯示在此設備上。通過圖像代理加載的圖像的大小較小，因此加載更快，節省帶寬。";
-
-"Autoloading GIFs is not recommended for the health of your device's battery and bandwidth load. However, if you have an unlimited data plan or lots of money, this setting is for you." = "建議您的設備電池和帶寬負載的健康不建議自動加載GIF。但是，如果您有無限的數據計劃或大量資金，則此設置適合您。";
-
-"Image Bandwidth" = "圖像帶寬";
-
-"Never" = "絕不";
-
-"Wi-Fi Only" = "只有Wi-Fi";
-
-"Always" = "總是";
-
-"Cover Images" = "覆蓋圖像";
-
-"Use Image Proxy" = "使用圖像代理";
-
-"Auto-load GIFs" = "自動加載GIF";
-
-"Image Resolution" = "圖像分辨率";
-
-"Low Resolution" = "低解析度";
-
-"Medium Resolution" = "中等分辨率";
-
-"High Resolution" = "高分辨率";
-
-/* Filters */
-"Error Fetching Filters" = "獲取篩選錯誤";
-
+/* (No Comment) */
 "Active Filters" = "活動過濾器";
 
-"Failed to Delete Filter" = "無法刪除過濾器";
+/* (No Comment) */
+"Add" = "添加";
 
+/* (No Comment) */
+"Adding Feed" = "添加飼料";
+
+/* (No Comment) */
+"All" = "全部";
+
+/* (No Comment) */
+"All - Latest First" = "全部 - 最新首先";
+
+/* (No Comment) */
+"All - Oldest First" = "全部 - 最古老的首先";
+
+/* All account, feeds and articles data will be deleted and you will be prompted to sign-in again. */
+"All account, feeds and articles data will be deleted and you will be prompted to sign-in again." = "所有账户、订阅源和帖子数据将被删除，并提示您重新登录。";
+
+/* (No Comment) */
+"Always" = "總是";
+
+/* (No Comment) */
+"Always load images" = "始終加載圖像";
+
+/* (No Comment) */
+"An Error Occurred" = "發生錯誤";
+
+/* (No Comment) */
+"An error occurred removing the feed from its current folder - %@" = "從其當前文件夾中刪除Feed發生的錯誤 - %@";
+
+/* (No Comment) */
+"An error occurred when parsing the feed's information. If this repeats, please contact support." = "解析Feed的信息時發生錯誤。如果這重複，請聯繫支持。";
+
+/* (No Comment) */
+"An Unexpected Error Occurred" = "一個意料之外的問題發生了";
+
+/* An unknown error has occurred. */
+"An unknown error has occurred." = "出現未知錯誤。";
+
+/* contact support help message */
+"An unknown error occurred when loading products. Please contact support@elytra.app" = "加載產品時發生了未知錯誤。請聯繫support@elytra.app.";
+
+/* (No Comment) */
+"An unknown error occurred when performing this action." = "執行此操作時發生了未知錯誤。";
+
+/* (No Comment) */
+"An unknown error occurred when registering for Push Notifications." = "註冊推送通知時發生未知錯誤。";
+
+/* (No Comment) */
 "An unknown error occurred when trying to delete the keyword." = "嘗試刪除關鍵字時發生未知錯誤。";
 
-"Short Keyword" = "短關鍵詞";
-
-"The keyword should be atleast 3 letters" = "關鍵字應至少為3個字母";
-
-"Failed to add Filter" = "無法添加過濾器";
-
-"An unknown error occurred when trying to delete the keyword." = "嘗試刪除關鍵字時發生未知錯誤。";
+/* (No Comment) */
+"An unknown error occurred when unsubscribing." = "取消訂閱時發生了未知錯誤。";
 
 /* MiscVC */
 "App Icon" = "應用圖標";
 
-"Reader Bar Size" = "讀者欄尺寸";
+/* (No Comment) */
+"App Logs" = "App 記錄";
 
-"Small" = "小的";
+/* (No Comment) */
+"Appearance" = "外貌";
 
-"Regular" = "常規的";
+/* (No Comment) */
+"Apps" = "應用";
 
-"Large" = "大";
+/* (No Comment) */
+"Are you sure you want to delete %@" = "你確定你要刪除 %@";
 
-"Enable Reader Mode" = "啟用讀者模式";
+/* (No Comment) */
+"Are you sure you want to delete this feed?" = "您確定要刪除此素材嗎？";
 
+/* (No Comment) */
+"Are you sure you want to delete this folder?" = "您確定要刪除此文件夾嗎？";
+
+/* (No Comment) */
 "Are you sure you want to enable Reader Mode for all feeds?" = "您確定要為所有饋送啟用讀者模式嗎？";
 
-"App Icon" = "應用圖標";
+/* (No Comment) */
+"Are you sure you want to mark all unread articles as read?" = "您確定要將所有未讀文章標記為閱讀嗎？";
 
-"Unread Counters" = "未讀櫃檯";
+/* Are you sure you want to reset the app? */
+"Are you sure you want to reset the app?" = "你确定你要重置应用程序吗？";
 
-"Relax Mode" = "放鬆模式";
+/* Article Actions menu title */
+"Article Actions" = "文章訴訟";
 
-"Mark Read Prompt" = "標記讀提示";
+/* Articles by %@ (Author) format */
+"Articles by %@" = "文章%@";
 
-"Hide Bookmarks" = "隱藏書籤";
-
-"Open Unread" = "打開未讀";
-
-"Summary Lines" = "摘要線條";
-
-"Use Toolbar" = "使用工具欄";
-
-"Hide Bars" = "隱藏吧";
-
-"Reader Bar Size" = "讀者欄尺寸";
-
-"Portrait Lock" = "肖像鎖定";
-
-"Mirror Full UI" = "鏡子全UI";
-
-"Faded Selection Tint" = "褪色選擇色調";
-
-"Mark Read on Scroll" = "標記在滾動上閱讀";
-
-"Enable Reader Mode" = "啟用讀者模式";
-
-"Set whether you want to see the number of unread articles in each section." = "設置是否要查看每個部分中的未讀文章的數量。";
-
-"Optionally hide unread counters only from feeds and folders." = "可選地僅從Feeds和文件夾隱藏未讀計數器。";
-
-"Set whether the app should prompt you when marking articles as read." = "在將文章標記為讀取時，請設置應用是否應提示您。";
-
-"You can optionally hide the Bookmarks Tab from the Feeds Interface." = "您可以選擇從Feeds接口隱藏書籤選項卡。";
-
-"When enabled, the app will open the Unread List upon launch." = "啟用後，該應用程序將在啟動時打開未讀列表。";
-
-"Number of summary lines to show when viewing list of Articles." = "查看文章列表時要顯示的摘要行數。";
-
-"Show all actions in toolbar at the bottom of the interface instead of the navigation bar at the top. (Requires an App restart)" = "在界面底部顯示工具欄中的所有操作而不是頂部的導航欄。 (需要一個應用程序重啟)";
-
-"Hides the navigation bar and toolbar in the article reader when scrolling." = "滾動時隱藏文章閱讀器中的導航欄和工具欄。";
-
-"You may choose to restrict the app's UI only to the portrait orientation." = "您可以選擇僅將應用程序的UI限制為縱向。";
-
-"When disabled, only the article reader interface is casted over Airplay." = "禁用時，僅在Airplay上澆注文章讀取器界面。";
-
-"When enabled, the articles list selection background color will be a light gray instead of the tint color." = "啟用後，文章列表選擇背景顏色將是淺灰色而不是色彩顏色。";
-
+/* (No Comment) */
 "As you scroll, the app will automatically mark articles as read." = "當您滾動時，該應用程序將自動將文章標記為讀取。";
 
-"You may enable reader mode for all feeds with a single tap." = "您可以為所有饋線啟用讀取器模式，單點水龍頭。";
+/* (No Comment) */
+"Attributions" = "歸因";
+
+/* (No Comment) */
+"Auto Full-Text" = "自動全文";
+
+/* (No Comment) */
+"Auto-load GIFs" = "自動加載GIF";
+
+/* (No Comment) */
+"Autoload GIFs" = "自動加載GIF";
+
+/* (No Comment) */
+"Autoloading GIFs is not recommended for the health of your device's battery and bandwidth load. However, if you have an unlimited data plan or lots of money, this setting is for you." = "建議您的設備電池和帶寬負載的健康不建議自動加載GIF。但是，如果您有無限的數據計劃或大量資金，則此設置適合您。";
+
+/* (No Comment) */
+"Automatically Check for Updates" = "自動檢查更新";
+
+/* (No Comment) */
+"Background Fetch" = "背景獲取";
+
+/* (No Comment) */
+"Bandwidth" = "帶寬";
+
+/* (No Comment) */
+"Bookmark" = "書籤";
+
+/* (No Comment) */
+"Bookmarks" = "書籤";
+
+/* (No Comment) */
+"Browser" = "瀏覽器";
+
+/* (No Comment) */
+"Cancel" = "取消";
+
+/* (No Comment) */
+"Close" = "關閉";
+
+/* (No Comment) */
+"Close article" = "關閉文章";
+
+/* Feed Info */
+"Close Feed Info" = "關閉飼料信息";
+
+/* (No Comment) */
+"Close New Folder" = "關閉新文件夾";
+
+/* (No Comment) */
+"Connect your Apple ID to your Elytra account. This will enable you to sign in on other devices using the same account." = "將Apple ID連接到您的Elytra帳戶。這將使您也可以在其他平台上登錄。";
+
+/* (No Comment) */
+"Contact" = "接觸";
+
+/* (No Comment) */
+"Copy" = "複製";
+
+/* (No Comment) */
+"Copy Account ID" = "複製帳戶ID.";
+
+/* (No Comment) */
+"Copy Link" = "複製鏈接";
+
+/* (No Comment) */
+"Copy URL" = "複製URL.";
+
+/* (No Comment) */
+"Cover Images" = "覆蓋圖像";
+
+/* (No Comment) */
+"Custom Feed Names" = "自定義饋送名稱";
+
+/* (No Comment) */
+"Custom Font" = "自定義字體";
+
+/* Appearance VC */
+"Customization" = "定制";
+
+/* (No Comment) */
+"Customize" = "定制";
+
+/* (No Comment) */
+"Deactivate" = "停用";
+
+/* (No Comment) */
+"Deactivate Account" = "關閉戶口";
+
+/* (No Comment) */
+"Delete" = "刪除";
+
+/* (No Comment) */
+"Delete Feed" = "刪除Feed.";
+
+/* Search */
+"Delete Feed?" = "刪除飼料？";
+
+/* (No Comment) */
+"Delete Folder" = "刪除文件夾";
+
+/* (No Comment) */
+"Dismiss Search" = "解僱搜索";
+
+/* (No Comment) */
+"Dock Icon" = "碼頭圖標";
+
+/* (No Comment) */
+"Done" = "完畢";
+
+/* (No Comment) */
+"Elytra can optionally use the weserv.nl Image Proxy for loading images optimized to be displayed on this device. Images loaded from the Image Proxy are smaller in size and therefore load faster and save bandwidth." = "Elytra可以選擇使用WeServ.nl圖像代理來加載優化的圖像，以顯示在此設備上。從圖像代理加載的圖像的尺寸較小，因此加載更快並節省帶寬。";
+
+/* (No Comment) */
+"Elytra can optionally use the weserv.nl Image Proxy for loading images optimized to be displayed on this device. Images loaded via the Image Proxy are smaller in size and therefore load faster and save bandwidth." = "Elytra可以選擇使用WeServ.nl圖像代理來加載優化的圖像，以顯示在此設備上。通過圖像代理加載的圖像的大小較小，因此加載更快，節省帶寬。";
+
+/* (No Comment) */
+"Email Support" = "電郵支援";
+
+/* (No Comment) */
+"Empty Content" = "空內容";
+
+/* (No Comment) */
+"Enable" = "使能夠";
 
 /* Notifications */
 "Enable Push Notifications" = "啟用推送通知";
 
-"Error Registering" = "錯誤註冊";
+/* (No Comment) */
+"Enable Reader Mode" = "啟用讀者模式";
 
-"An unknown error occurred when registering for Push Notifications." = "註冊推送通知時發生未知錯誤。";
+/* (No Comment) */
+"Enabling this shows cover images in the feeds list. This setting is also affected by your setting for Bandwidth." = "啟用此顯示饋送列表中的封面圖像。此設置也受帶寬設置的影響。";
 
+/* (No Comment) */
+"Error Bookmarking" = "錯誤書籤";
+
+/* (No Comment) */
+"Error Deleting Feed" = "刪除源時出錯";
+
+/* Filters */
+"Error Fetching Filters" = "獲取篩選錯誤";
+
+/* (No Comment) */
+"Error Loading Feeds" = "加載飼料時出錯";
+
+/* (No Comment) */
+"Error Loading Subscription" = "加載訂閱時出錯";
+
+/* (No Comment) */
 "Error Loading Subscriptions" = "加載訂閱時出錯";
 
+/* (No Comment) */
+"Error loading the article" = "加載文章時出錯";
+
+/* (No Comment) */
+"Error Marking Read" = "錯誤標記閱讀";
+
+/* (No Comment) */
+"Error Marking Unread" = "錯誤標記未讀";
+
+/* (No Comment) */
+"Error Moving Folder" = "錯誤移動文件夾";
+
+/* (No Comment) */
+"Error Parsing" = "錯誤解析";
+
+/* (No Comment) */
+"Error Processing" = "錯誤處理";
+
+/* (No Comment) */
+"Error Purchasing" = "購買時出錯";
+
+/* (No Comment) */
+"Error Registering" = "錯誤註冊";
+
+/* (No Comment) */
+"Error Reloading" = "錯誤重裝";
+
+/* (No Comment) */
 "Error Removing Subscription" = "刪除訂閱時出錯";
 
-/* ResetVC */
-"Reset parts of your account or all data in your account. Please remember to export your feeds as an OPML file before resetting folders or feeds. Once the data is reset, it cannot be recovered." = "重置帳戶的部分或帳戶中的所有數據。請記得在重置文件夾或饋送之前將饋送導出為OPML文件。重置數據後，無法恢復。";
+/* (No Comment) */
+"Error Restoring" = "恢復錯誤";
 
-"Custom Feed Names" = "自定義饋送名稱";
+/* (No Comment) */
+"Error Unbookmarking" = "未知錯誤";
 
-"Full Account" = "完整賬戶";
-
-"Selective" = "可選擇的";
-
-"All" = "全部";
-
-/* General Prefs */
-"Refresh feeds" = "刷新源：";
-
-"Manually" = "手動";
-
+/* (No Comment) */
 "Every 30 minutes" = "每30分鐘一次";
 
+/* (No Comment) */
 "Every hour" = "每隔一小時";
 
-"Once your account is deactivated, all your account data is usually deleted within an hour. Please make sure you have taken an export of your feeds." = "一旦您的帳戶停用，您的所有帳戶數據通常會在一小時內刪除。請確保您的飼料導出。";
+/* (No Comment) */
+"Export" = "Export";
 
-"Open web pages in background in browser" = "在瀏覽器中打開Web頁面";
+/* (No Comment) */
+"Export Feed Settings" = "導出 Feed 設置";
 
-"Press the shift key to do the opposite" = "按Shift鍵進行對側";
+/* (No Comment) */
+"Export Logs" = "輸出記錄";
 
-"Dock Icon" = "碼頭圖標";
+/* (No Comment) */
+"External Apps" = "外部應用程序";
 
-"Show unread count" = "顯示未讀數";
+/* (No Comment) */
+"Faded Selection Tint" = "褪色選擇色調";
 
-/* Images Prefs */
-"Resolution" = "解決";
+/* (No Comment) */
+"Failed to add Filter" = "無法添加過濾器";
 
-"Bandwidth" = "帶寬";
+/* (No Comment) */
+"Failed to Create" = "無法創建";
 
-"Never load images" = "永遠不會加載圖像";
+/* (No Comment) */
+"Failed to Delete Filter" = "無法刪除過濾器";
 
-"Always load images" = "始終加載圖像";
+/* Failed to load Products */
+"Failed to load Products" = "無法加載產品";
 
-"Misc" = "雜項";
+/* (No Comment) */
+"Failed to Update" = "無法更新";
 
-"Show cover images" = "顯示封面圖像";
+/* (No Comment) */
+"Feed Exists" = "飼料存在";
 
-"Image Proxy" = "圖像代理";
+/* (No Comment) */
+"Feed Info" = "飼料信息";
 
-"Elytra can optionally use the weserv.nl Image Proxy for loading images optimized to be displayed on this device. Images loaded from the Image Proxy are smaller in size and therefore load faster and save bandwidth." = "Elytra可以選擇使用WeServ.nl圖像代理來加載優化的圖像，以顯示在此設備上。從圖像代理加載的圖像的尺寸較小，因此加載更快並節省帶寬。";
+/* (No Comment) */
+"Feed Menu" = "飼料菜單";
 
-"Autoload GIFs" = "自動加載GIF";
+/* (No Comment) */
+"Feed Name" = "飼料名稱";
 
-"The font to use for drawing the paragraph text in an article." = "用於在文章中繪製段落文本的字體。";
+/* (No Comment) */
+"Feed URL" = "Feed URL.";
 
-"Heading Font" = "標題字體";
+/* Sidebar VC */
+"Feeds" = "飼料";
 
-"The font to use for drawing the headers in an article." = "用於在文章中繪製標題的字體。";
+/* (No Comment) */
+"Filters" = "過濾器";
 
-"Line spacing" = "行間距";
+/* (No Comment) */
+"Folder" = "文件夾";
 
-"The space between two lines of text. A lower values renders a compact layout, a higher value renders comfortable layout." = "兩行文本之間的空間。較低的值呈現緊湊的佈局，較高的值呈現舒適的佈局。";
+/* (No Comment) */
+"Folder Menu" = "文件夾菜單";
 
+/* No comment provided by engineer. */
+"Folders" = "文件夹";
+
+/* (No Comment) */
 "Font size" = "字體大小";
 
-"The base font size. Pargraphs are rendered at this size. Other elements derive their sizes proportional to this." = "基本字體大小。Pargraphs以這種尺寸呈現。其他元素導出其尺寸與此成正比。";
+/* (No Comment) */
+"Font Size" = "字體大小";
 
-/* MISC */
-"Show unread counters" = "顯示未讀計數器";
+/* (No Comment) */
+"Frequently Asked Questions" = "Frequently Asked Questions";
 
-"You can optionally hide the Bookmarks Tab from the Sidebar." = "您可以選擇從側欄中隱藏書籤選項卡。";
-
-"Summary" = "概括";
-
-"Number of summary lines to show when viewing the list of Articles." = "查看文章列表時要顯示的摘要行數。";
-
-"Apps" = "應用";
-
-"Your preferred Twitter app. Clicking on a tweet will open this app." = "您喜歡的Twitter應用程序。點擊推文將打開此應用程序。";
-
-"Updates" = "更新";
-
-"Release Builds" = "發布構建";
-
-"Test Builds" = "測試版本";
-
-"Automatically Check for Updates" = "自動檢查更新";
-
-"You should select Release if you want only the most stable releases. Test Builds may be buggy, crash  and even cause data loss." = "如果您只想最穩定的版本，您應該選擇版本。測試構建可能是錯誤，崩潰甚至導致數據丟失。";
-
-/* Preferences Controller */
+/* (No Comment) */
+"Full Account" = "完整賬戶";
 
 /* Title for General Prefs Tab */
 "General" = "一般的";
 
+/* (No Comment) */
+"Go to Bookmarks" = "Go to Bookmarks";
+
+/* (No Comment) */
+"Go to next article" = "轉到下一篇文章";
+
+/* (No Comment) */
+"Go to previous article" = "轉到上一篇文章";
+
+/* (No Comment) */
+"Go to Today" = "Go to Today";
+
+/* (No Comment) */
+"Go to Unread" = "Go to Unread";
+
+/* No comment provided by engineer. */
+"Has Unicorn: %@" = "Has Unicorn: %@";
+
+/* (No Comment) */
+"Heading Font" = "標題字體";
+
+/* Logs */
+"Help" = "輔助說明";
+
+/* (No Comment) */
+"Hide Bars" = "隱藏吧";
+
+/* (No Comment) */
+"Hide Bookmarks" = "隱藏書籤";
+
+/* (No Comment) */
+"Hides the navigation bar and toolbar in the article reader when scrolling." = "滾動時隱藏文章閱讀器中的導航欄和工具欄。";
+
+/* (No Comment) */
+"High Resolution" = "高分辨率";
+
+/* (No Comment) */
+"If you deactivate your account and wish to activate it again, please email me on support@elytra.app with the above UUID. You can use the context menu/right click to copy the ID." = "如果您停用您的帳戶並希望再次激活它，請通過上述UUID在Support@elytra.app上給我發電子郵件。您可以使用上下文菜單/右鍵單擊以復制ID。";
+
+/* (No Comment) */
+"If you have remaining days on your Pro Subscription, no refund can be issued for the same." = "如果您的職業訂閱有剩餘的日子，則不能為其頒發退款。";
+
+/* (No Comment) */
+"Image Bandwidth" = "圖像帶寬";
+
+/* (No Comment) */
+"Image Loading" = "圖像加載";
+
+/* (No Comment) */
+"Image Proxy" = "圖像代理";
+
+/* (No Comment) */
+"Image Resolution" = "圖像分辨率";
+
 /* Title for Images Prefs Tab */
 "Images" = "圖片";
+
+/* (No Comment) */
+"Import" = "Import";
+
+/* (No Comment) */
+"Import Feed Settings" = "導入 Feed 設置";
+
+/* Import/Export */
+"Import/Export" = "導入/導出";
+
+/* Imported alert title */
+"Imported" = "进口的";
+
+/* Importing %d of %d */
+"Importing %d of %d" = "进口%d个中的%d个";
+
+/* (No Comment) */
+"Large" = "大";
+
+/* (No Comment) */
+"Last Sync: %@" = "最後一個同步：%@";
+
+/* Lifetime */
+"Lifetime" = "终身";
+
+/* Lifetime License */
+"Lifetime License" = "终身许可";
+
+/* (No Comment) */
+"Line spacing" = "行間距";
+
+/* (No Comment) */
+"Line Spacing" = "行間距";
+
+/* Class = "UILabel"; text = "Select an article from your feeds to begin reading it."; ObjectID = "llj-MV-kuV"; */
+"llj-MV-kuV.text" = "從飼料中選擇一篇文章開始閱讀它。";
+
+/* (No Comment) */
+"Local Notifications" = "本地通知";
+
+/* (No Comment) */
+"Long Term" = "長期";
+
+/* (No Comment) */
+"Low Resolution" = "低解析度";
+
+/* (No Comment) */
+"Manually" = "手動";
+
+/* (No Comment) */
+"Mark All Read" = "標記所有閱讀";
+
+/* (No Comment) */
+"Mark All Read?" = "標記所有閱讀?";
+
+/* (No Comment) */
+"Mark Newer Read" = "標記較新讀取";
+
+/* (No Comment) */
+"Mark Older Read" = "馬克舊讀取";
+
+/* (No Comment) */
+"Mark Read" = "馬克閱讀";
+
+/* (No Comment) */
+"Mark Read on Scroll" = "標記在滾動上閱讀";
+
+/* (No Comment) */
+"Mark Read Prompt" = "標記讀提示";
+
+/* (No Comment) */
+"Mark Unread" = "標記為未讀";
+
+/* (No Comment) */
+"Medium Resolution" = "中等分辨率";
+
+/* (No Comment) */
+"Mirror Full UI" = "鏡子全UI";
+
+/* (No Comment) */
+"Misc" = "雜項";
+
+/* (No Comment) */
+"Miscellaneous" = "各種各樣的";
+
+/* STORE VC */
+"Monthly" = "每月";
+
+/* (No Comment) */
+"MonthlyDesc" = "飼料數量沒有限制。\n實時推送通知。\n在所有設備上集成同步。\n支持一個獨立的開發人員。";
+
+/* (No Comment) */
+"Move" = "移動";
+
+/* (No Comment) */
+"Never" = "絕不";
+
+/* (No Comment) */
+"Never load images" = "永遠不會加載圖像";
+
+/* Common Actions */
+"New" = "新的";
+
+/* New Feed/Folder */
+"New Feed" = "新飼料";
+
+/* (No Comment) */
+"New Folder" = "新建文件夾";
+
+/* Menu */
+"New Window" = "新增視窗";
+
+/* (No Comment) */
+"Next Article" = "下一篇文章";
+
+/* (No Comment) */
+"Next Result" = "下一個結果";
+
+/* (No Comment) */
+"Next search result" = "下一個搜索結果";
+
+/* Account Settings */
+"No Account Setup" = "沒有帳戶設置";
+
+/* (No Comment) */
+"No article received after reloading." = "重新加載後沒有收到的文章。";
+
+/* (No Comment) */
+"no file selected" = "沒有選擇文件";
+
+/* (No Comment) */
+"No recent articles" = "沒有最近的文章";
+
+/* Common Errors */
+"No Subscription" = "沒有訂閱";
+
+/* (No Comment) */
+"No Summary" = "沒有摘要";
+
+/* Feed VC */
+"No unread articles" = "沒有未讀的文章";
+
+/* (No Comment) */
+"None" = "沒有任何";
+
+/* (No Comment) */
+"Notifications" = "通知";
+
+/* (No Comment) */
+"Notifications for this feed will be near real-time." = "此饋送通知將在實時近。";
+
+/* (No Comment) */
+"Number of summary lines to show when viewing list of Articles." = "查看文章列表時要顯示的摘要行數。";
+
+/* (No Comment) */
+"Number of summary lines to show when viewing the list of Articles." = "查看文章列表時要顯示的摘要行數。";
+
+/* (No Comment) */
+"Ok" = "好的";
+
+/* (No Comment) */
+"Okay" = "好的";
+
+/* (No Comment) */
+"Once your account is deactivated, all your account data is usually deleted within an hour. Please make sure you have taken an export of your feeds." = "一旦您的帳戶停用，您的所有帳戶數據通常會在一小時內刪除。請確保您的飼料導出。";
+
+/* LifetimeDesc */
+"One time purchase, includes all benefits of the pro subscriptions." = "一次性购买，包括专业订阅的所有好处。";
+
+/* One-time purchase */
+"One-time purchase" = "一次性购买";
+
+/* (No Comment) */
+"Open in Browser" = "在瀏覽器中打開";
+
+/* Open in New Window title */
+"Open in New Window" = "以新視窗打開";
+
+/* (No Comment) */
+"Open Unread" = "打開未讀";
+
+/* (No Comment) */
+"Open web pages in background in browser" = "在瀏覽器中打開Web頁面";
+
+/* (No Comment) */
+"Opens in Browser" = "在瀏覽器中打開";
+
+/* (No Comment) */
+"OPML" = "opml.";
+
+/* (No Comment) */
+"Optionally hide unread counters only from feeds and folders." = "可選地僅從Feeds和文件夾隱藏未讀計數器。";
+
+/* Article View Prefs */
+"Paragraph Font" = "段字體";
+
+/* (No Comment) */
+"Pay as you go" = "現收現付";
+
+/* (No Comment) */
+"Portrait Lock" = "肖像鎖定";
+
+/* (No Comment) */
+"Preferences" = "偏好設定";
+
+/* (No Comment) */
+"Press the shift key to do the opposite" = "按Shift鍵進行對側";
+
+/* (No Comment) */
+"Previous Article" = "上一篇文章";
+
+/* (No Comment) */
+"Previous Result" = "上一個結果";
+
+/* ArticleVC */
+"Previous search result" = "以前的搜索結果";
+
+/* (No Comment) */
+"Processing..." = "加工...";
+
+/* (No Comment) */
+"Push Notifications" = "推送通知";
+
+/* (No Comment) */
+"Rate on AppStore" = "對AppStore的費率";
+
+/* (No Comment) */
+"Re-Sync" = "重新同步";
+
+/* (No Comment) */
+"Re-Sync All" = "重新同步所有";
+
+/* (No Comment) */
+"Re-Sync Feeds" = "重新同步飼料";
+
+/* (No Comment) */
+"Read" = "讀";
 
 /* Title for Reader Prefs Tab */
 "Reader" = "讀者";
 
+/* (No Comment) */
+"Reader Bar Size" = "讀者欄尺寸";
+
+/* (No Comment) */
+"Refresh" = "重新整理";
+
+/* General Prefs */
+"Refresh feeds" = "刷新源：";
+
+/* (No Comment) */
+"Refresh Feeds" = "Refresh Feeds";
+
+/* (No Comment) */
+"Regular" = "常規的";
+
+/* (No Comment) */
+"Relax Mode" = "放鬆模式";
+
+/* (No Comment) */
+"Release Builds" = "發布構建";
+
+/* (No Comment) */
+"Rename" = "改名";
+
+/* (No Comment) */
+"Rename Feed" = "重命名飼料";
+
+/* ResetVC */
+"Reset parts of your account or all data in your account. Please remember to export your feeds as an OPML file before resetting folders or feeds. Once the data is reset, it cannot be recovered." = "重置帳戶的部分或帳戶中的所有數據。請記得在重置文件夾或饋送之前將饋送導出為OPML文件。重置數據後，無法恢復。";
+
+/* Images Prefs */
+"Resolution" = "解決";
+
+/* (No Comment) */
+"Safari Reader Mode" = "Safari Reader模式";
+
+/* (No Comment) */
+"Search" = "搜索";
+
+/* (No Comment) */
+"Search Article Content" = "搜索文章內容";
+
+/* (No Comment) */
+"Search for keywords in the article" = "搜索文章中的關鍵字";
+
+/* (No Comment) */
+"Search in article" = "在文章中搜索";
+
+/* (No Comment) */
+"Select a file" = "選擇一個文件";
+
+/* (No Comment) */
+"Select a Folder" = "選擇一個文件夾";
+
+/* (No Comment) */
+"Select a subscription plan" = "選擇訂閱計劃";
+
+/* (No Comment) */
+"Selective" = "可選擇的";
+
+/* (No Comment) */
 "Set up your account" = "設置您的帳戶";
 
-/* Logs */
-"Help" = "輔助說明";
-"Frequently Asked Questions" = "Frequently Asked Questions";
-"App Logs" = "App 記錄";
-"Export Logs" = "輸出記錄";
+/* (No Comment) */
+"Set whether the app should prompt you when marking articles as read." = "在將文章標記為讀取時，請設置應用是否應提示您。";
+
+/* (No Comment) */
+"Set whether you want to see the number of unread articles in each section." = "設置是否要查看每個部分中的未讀文章的數量。";
+
+/* Settings */
+"Settings" = "設置";
+
+/* (No Comment) */
+"Share" = "分享";
+
+/* (No Comment) */
+"Share Article" = "分享文章";
+
+/* (No Comment) */
+"Share Feed URL" = "分享Feed URL.";
+
+/* (No Comment) */
+"Share URL" = "分享URL.";
+
+/* (No Comment) */
+"Share Website URL" = "分享網站URL.";
+
+/* (No Comment) */
+"Short Keyword" = "短關鍵詞";
+
+/* (No Comment) */
+"Show all actions in toolbar at the bottom of the interface instead of the navigation bar at the top. (Requires an App restart)" = "在界面底部顯示工具欄中的所有操作而不是頂部的導航欄。 (需要一個應用程序重啟)";
+
+/* (No Comment) */
+"Show cover images" = "顯示封面圖像";
+
+/* (No Comment) */
 "Show Logs" = "顯示記錄";
 
-/* Import/Export */
-"Import/Export" = "導入/導出";
-"Import" = "Import";
-"Export" = "Export";
-"Empty Content" = "空內容";
-"no file selected" = "沒有選擇文件";
-"Select a file" = "選擇一個文件";
-"Import Feed Settings" = "導入 Feed 設置";
-"Export Feed Settings" = "導出 Feed 設置";
+/* (No Comment) */
+"Show unread count" = "顯示未讀數";
+
+/* MISC */
+"Show unread counters" = "顯示未讀計數器";
+
+/* (No Comment) */
+"Small" = "小的";
+
+/* (No Comment) */
+"Sorting Options" = "排序選項";
+
+/* (No Comment) */
+"Subscribe Failed" = "訂閱失敗";
+
+/* (No Comment) */
+"Subscription" = "訂閱";
+
+/* (No Comment) */
+"Summary" = "概括";
+
+/* (No Comment) */
+"Summary Lines" = "摘要線條";
+
+/* (No Comment) */
+"Synced %.f%%" = "同步 %.f%%";
+
+/* (No Comment) */
+"Syncing Complete" = "同步完成";
+
+/* (No Comment) */
+"Syncing..." = "同步......";
+
+/* (No Comment) */
+"Test Builds" = "測試版本";
+
+/* (No Comment) */
+"The above setting is also used for galleries and Youtube video previews." = "上面的設置也用於畫廊和YouTube視頻預覽。";
+
+/* Image Loading Settings */
+"The above setting only works when the Article source provides these options. If no such option is provided in the article source, the original image is always loaded." = "上面的設置僅在文章源提供這些選項時工作。如果在文章源中沒有提供此類選項，則始終加載原始圖像。";
+
+/* (No Comment) */
+"The base font size. Pargraphs are rendered at this size. Other elements derive their sizes proportional to this." = "基本字體大小。Pargraphs以這種尺寸呈現。其他元素導出其尺寸與此成正比。";
+
+/* (No Comment) */
+"The font to use for drawing the headers in an article." = "用於在文章中繪製標題的字體。";
+
+/* (No Comment) */
+"The font to use for drawing the paragraph text in an article." = "用於在文章中繪製段落文本的字體。";
+
+/* (No Comment) */
+"The keyword should be atleast 3 letters" = "關鍵字應至少為3個字母";
+
+/* (No Comment) */
+"The space between two lines of text. A lower values renders a compact layout, a higher value renders comfortable layout." = "兩行文本之間的空間。較低的值呈現緊湊的佈局，較高的值呈現舒適的佈局。";
+
+/* (No Comment) */
+"The URL or query may be invalid. Please check the URL." = "URL或查詢可能無效。請檢查URL。";
+
+/* (No Comment) */
+"This feed already exists in your account." = "此饋送已存在於您的帳戶中。";
+
+/* (No Comment) */
+"This feed supports real-time notifications." = "此饋送支持實時通知。";
+
+/* (No Comment) */
+"Title Font" = "標題字體";
+
+/* (No Comment) */
+"Today" = "今天";
+
+/* (No Comment) */
+"Unbookmark" = "未預訂";
+
+/* (No Comment) */
+"Unread" = "違背";
+
+/* (No Comment) */
+"Unread - Latest First" = "未讀 - 最新的第一";
+
+/* (No Comment) */
+"Unread - Oldest First" = "未讀 - 最古老的首先";
+
+/* (No Comment) */
+"Unread Counters" = "未讀櫃檯";
+
+/* (No Comment) */
+"Unsubscribe Failed" = "取消訂閱失敗";
+
+/* (No Comment) */
+"Untitled" = "無標題";
+
+/* (No Comment) */
+"Update" = "更新";
+
+/* (No Comment) */
+"Updates" = "更新";
+
+/* (No Comment) */
+"URL Actions" = "URL行動";
+
+/* (No Comment) */
+"Use Image Proxy" = "使用圖像代理";
+
+/* (No Comment) */
+"Use System Sizing" = "使用系統尺寸";
+
+/* (No Comment) */
+"Use Toolbar" = "使用工具欄";
 
 /* Menu */
 "View Subscription" = "檢視訂閲項目";
-"Preferences" = "偏好設定";
-"Refresh" = "重新整理";
-"Next Result" = "下一個結果";
-"Previous Result" = "上一個結果";
-"Email Support" = "電郵支援";
-"Frequently Asked Questions" = "Frequently Asked Questions";
 
-/* Empty VC */
-/* Class = "UILabel"; text = "Select an article from your feeds to begin reading it. "; ObjectID = "llj-MV-kuV"; */
-"llj-MV-kuV.text" = "從飼料中選擇一篇文章開始閱讀它。";
+/* (No Comment) */
+"Website URL" = "網址";
 
-"No Summary" = "沒有摘要";
+/* (No Comment) */
+"When disabled, only the article reader interface is casted over Airplay." = "禁用時，僅在Airplay上澆注文章讀取器界面。";
 
-/* Menu */
-"New Window" = "新增視窗";
-"Refresh Feeds" = "Refresh Feeds";
-"Go to Unread" = "Go to Unread";
-"Go to Today" = "Go to Today";
-"Go to Bookmarks" = "Go to Bookmarks";
-"Open in New Window" = "以新視窗打開";
+/* (No Comment) */
+"When enabled, the app will open the Unread List upon launch." = "啟用後，該應用程序將在啟動時打開未讀列表。";
+
+/* (No Comment) */
+"When enabled, the articles list selection background color will be a light gray instead of the tint color." = "啟用後，文章列表選擇背景顏色將是淺灰色而不是色彩顏色。";
+
+/* (No Comment) */
+"When enabled, the articles will be opened in the browser instead of the article reader." = "啟用後，將在瀏覽器中打開文章而不是文章讀取器。";
+
+/* (No Comment) */
+"When enabled, the full-text for the article will be automatically fetched." = "啟用後，將自動獲取文章的全文。";
+
+/* (No Comment) */
+"Wi-Fi Only" = "只有Wi-Fi";
+
+/* (No Comment) */
+"Yearly" = "每年";
+
+/* (No Comment) */
+"YearlyDesc" = "每月計劃的所有好處。\n折扣定價。";
+
+/* (No Comment) */
+"Yes" = "是的";
+
+/* (No Comment) */
+"You can optionally hide the Bookmarks Tab from the Feeds Interface." = "您可以選擇從Feeds接口隱藏書籤選項卡。";
+
+/* (No Comment) */
+"You can optionally hide the Bookmarks Tab from the Sidebar." = "您可以選擇從側欄中隱藏書籤選項卡。";
+
+/* (No Comment) */
+"You may choose to restrict the app's UI only to the portrait orientation." = "您可以選擇僅將應用程序的UI限制為縱向。";
+
+/* (No Comment) */
+"You may enable reader mode for all feeds with a single tap." = "您可以為所有饋線啟用讀取器模式，單點水龍頭。";
+
+/* (No Comment) */
+"You should select Release if you want only the most stable releases. Test Builds may be buggy, crash  and even cause data loss." = "如果您只想最穩定的版本，您應該選擇版本。測試構建可能是錯誤，崩潰甚至導致數據丟失。";
+
+/* (No Comment) */
+"Your account has a Lifetime subscription." = "您的帳戶有一生訂閱。";
+
+/* Imported alert message */
+"Your feed settings have been successfully imported" = "您的饲料设置已成功导入";
+
+/* (No Comment) */
+"Your free trial is active up to %@." = "您的免費試用是最高的@ %@。";
+
+/* (No Comment) */
+"Your preferred Twitter app. Clicking on a tweet will open this app." = "您喜歡的Twitter應用程序。點擊推文將打開此應用程序。";
+
+/* (No Comment) */
+"Your Subscription" = "您的訂閱";
+
+/* (No Comment) */
+"Your subscription expired on %@." = "您的訂閱已過期為 %@";
+
+/* (No Comment) */
+"Your subscription is active up to %@." = "您的訂閱最高可達 %@。";
+
+/* (No Comment) */
+"Your subscription will renew on %@." = "您的訂閱將續訂 %@。";
+

@@ -2,30 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>unreadsCountFormat</key>
-	<dict>
-		<key>NSStringLocalizedFormatKey</key>
-		<string>%#@unreadsCount@</string>
-		<key>unreadsCount</key>
-		<dict>
-			<key>NSStringFormatSpecTypeKey</key>
-			<string>NSStringPluralRuleType</string>
-			<key>NSStringFormatValueTypeKey</key>
-			<string>u</string>
-			<key>zero</key>
-			<string></string>
-			<key>one</key>
-			<string>%u non lu</string>
-			<key>two</key>
-			<string>%u non lus</string>
-			<key>few</key>
-			<string>%u non lus</string>
-			<key>many</key>
-			<string>%u non lus</string>
-			<key>other</key>
-			<string>%u non lus</string>
-		</dict>
-	</dict>
 	<key>summaryLinesFormat</key>
 	<dict>
 		<key>NSStringLocalizedFormatKey</key>
@@ -36,18 +12,30 @@
 			<string>NSStringPluralRuleType</string>
 			<key>NSStringFormatValueTypeKey</key>
 			<string>u</string>
-			<key>zero</key>
-			<string></string>
 			<key>one</key>
 			<string>%u ligne</string>
-			<key>two</key>
-			<string>%u lignes</string>
-			<key>few</key>
-			<string>%u lignes</string>
-			<key>many</key>
-			<string>%u lignes</string>
 			<key>other</key>
 			<string>%u lignes</string>
+			<key>zero</key>
+			<string></string>
+		</dict>
+	</dict>
+	<key>unreadsCountFormat</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@unreadsCount@</string>
+		<key>unreadsCount</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>u</string>
+			<key>one</key>
+			<string>%u non lu</string>
+			<key>other</key>
+			<string>%u non lus</string>
+			<key>zero</key>
+			<string></string>
 		</dict>
 	</dict>
 </dict>

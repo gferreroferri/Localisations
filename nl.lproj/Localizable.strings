@@ -1,638 +1,951 @@
-/* Common Actions */
-"New" = "Nieuw";
-
-"Delete" = "Delete";
-
-"Move" = "Verplaatsen";
-
-"Share" = "Deel";
-
-"Rename" = "Hernoemen";
-
-"Cancel" = "Annuleren";
-
-"Done" = "Gedaan";
-
-"Read" = "Lezen";
-
-"Bookmark" = "Bladwijzer";
-
-"Unbookmark" = "Bladwijzer wissen";
-
-"Browser" = "Browser";
-
-"Open in Browser" = "Open in de browser";
-
-"Share Article" = "Artikel delen";
-
-"Yes" = "Ja";
-
-"Okay" = "Okay";
-
-"Copy Link" = "Kopieer Link";
-
-"Search" = "Zoeken";
-
-"Customize" = "Personaliseren";
-
-"Close" = "Sluiten";
-
-"Copy" = "Kopiëren";
-
-"Share URL" = "URL delen";
-
-"Ok" = "Ok";
-
-"Add" = "Toevoegen";
-
-"Update" = "Updaten";
-
-"Enable" = "Activeer";
-
-/* Common Errors */
-"No Subscription" = "Geen abonnement";
-
-"An Error Occurred" = "Er is een fout opgetreden";
-
-"An unknown error has occurred." = "Er is een onbekende fout opgetreden.";
-
-"Error Parsing" = "Fout met parsen";
-
-"Error Processing" = "Fout bij het verwerken";
-
-"Failed to Update" = "Kan niet worden bijgewerkt";
-
-"Failed to Create" = "Kan niet worden aangemaakt";
-
-/* Sidebar VC */
-"Feeds" = "Feeds";
-
-"Unread" = "Ongelezen";
-
-"Today" = "Vandaag";
-
-"Bookmarks" = "Bladwijzers";
-
-"New Feed" = "Nieuwe feed";
-
-"New Folder" = "Nieuwe map";
-
-"Last Sync: %@" = "Laatste synchronisatie: %@";
-
-"Delete Feed" = "Feed verwijderen";
-
-"Are you sure you want to delete this feed?" = "Weet je zeker dat je deze feed wilt verwijderen?";
-
-"Delete Folder" = "Map verwijderen";
-
-"Are you sure you want to delete this folder?" = "Weet je zeker dat je deze map wilt verwijderen?";
-
-"Error Deleting Feed" = "Fout bij verwijderen feed";
-
-"Syncing..." = "Synchroniseren...";
-
-"Syncing Complete" = "Synchronisatie voltooid";
-
-"Synced %.f%%" = "Gesynchroniseerd %.f%%";
-
-"Share Feed URL" = "URL van de feed delen";
-
-"Share Website URL" = "Website URL delen";
-
-"Feed Info" = "Feed informatie";
-
-"Feed Menu" = "Feed menu";
-
-"Folder Menu" = "Map menu";
-
-"Rename Feed" = "Hernoem feed";
-
-"Feed Name" = "Feed Naam";
-
-"Error Moving Folder" = "Fout bij verplaatsen map";
-
-"An error occurred removing the feed from its current folder - %@" = "Er is een fout opgetreden bij het verwijderen van de feed uit de huidige map - %@";
-
-/* Feed VC */
-"No unread articles" = "Geen ongelezen artikelen";
-
-"No recent articles" = "Geen recente artikelen";
-
-"Mark All Read?" = "Alles als Gelezen Markeren?";
-
-"Mark All Read" = "Alles als Gelezen Markeren";
-
-"Are you sure you want to mark all unread articles as read?" = "Weet je zeker dat je alle ongelezen artikelen als gelezen wilt markeren?";
-
-"Sorting Options" = "Sorteermogelijkheden";
-
-"Unread - Latest First" = "Ongelezen - Nieuwste eerst";
-
-"Unread - Oldest First" = "Ongelezen - Oudste eerst";
-
-"All - Latest First" = "Alles - Nieuwste eerst";
-
-"All - Oldest First" = "Alles - Oudste eerst";
-
-"Error Marking Read" = "Fout bij markeren als gelezen";
-
-"Error Marking Unread" = "Fout bij markeren als ongelezen";
-
-"Error Bookmarking" = "Fout bij aanmaken bladwijzer";
-
-"Error Unbookmarking" = "Fout bij het ongedaan maken van bladwijzer";
-
-"An unknown error occurred when performing this action." = "Er is een onbekende fout opgetreden bij het uitvoeren van deze actie.";
-
-"Mark Read" = "Markeer als gelezen";
-
-"Mark Unread" = "Markeer als ongelezen";
-
-"Bookmark" = "Bladwijzer";
-
-"Unbookmark" = "Bladwijzer wissen";
-
-"Mark Newer Read" = "Markeer Nieuwer als gelezen";
-
-"Mark Older Read" = "Markeer Ouder als gelezen";
-
-"Articles by %@" = "Artikelen door %@";
-
-"Article Actions" = "Artikel Acties";
-
-"Untitled" = "Naamloos";
-
-/* ArticleVC */
-"Previous search result" = "Vorig zoekresultaat";
-
-"Next search result" = "Volgend zoekresultaat";
-
-"Dismiss Search" = "Zoekopdracht afbreken";
-
-"Search Article Content" = "Zoeken in artikelinhoud";
-
-"Search for keywords in the article" = "Zoek naar trefwoorden in het artikel";
-
-"Error loading the article" = "Fout bij het laden van het artikel";
-
-"An Unexpected Error Occurred" = "Er is een onverwachte fout opgetreden";
-
-"Error Reloading" = "Fout bij opnieuw laden";
-
-"No article received after reloading." = "Geen artikel ontvangen na herladen.";
-
-"Search in article" = "Zoeken in artikel";
-
-"Go to previous article" = "Ga naar vorig artikel";
-
-"Previous Article" = "Vorig artikel";
-
-"Go to next article" = "Ga naar het volgende artikel";
-
-"Next Article" = "Volgende artikel";
-
-"Close article" = "Artikel sluiten";
-
-/* Appearance VC */
-"Customization" = "Personaliseren";
-
-"Use System Sizing" = "Systeemgrootte gebruiken";
-
-"Font Size" = "Lettergrootte";
-
-"Paragraph Font" = "Paragraaf lettertype";
-
-"Title Font" = "Titel lettertype";
-
-"Line Spacing" = "Regelafstand";
-
-"Custom Font" = "Aangepast lettertype";
-
-/* Feed Info */
-"Close Feed Info" = "Feed info sluiten";
-
-"Push Notifications" = "Push-berichten";
-
-"Local Notifications" = "Lokale meldingen";
-
-"This feed supports real-time notifications." = "Deze feed ondersteunt real-time meldingen.";
-
-"Notifications for this feed will be near real-time." = "Meldingen voor deze feed zullen bijna real-time zijn.";
-
-"Safari Reader Mode" = "Safari Reader";
-
-"Auto Full-Text" = "Automatisch volledige tekst tonen";
-
-"When enabled, the full-text for the article will be automatically fetched." = "Wanneer deze functie is ingeschakeld, wordt de volledige tekst van het artikel automatisch opgehaald.";
-
-"Opens in Browser" = "Opent in browser";
-
-"When enabled, the articles will be opened in the browser instead of the article reader." = "Wanneer deze optie is ingeschakeld, worden de artikelen geopend in de browser in plaats van in de ingebouwde reader.";
-
-"Folder" = "Map";
-
-"None" = "Geen";
-
-"Feed URL" = "Feed URL";
-
-"Website URL" = "Website URL";
-
-"Copy URL" = "URL kopiëren";
-
-"URL Actions" = "URL Acties";
-
-"Unsubscribe Failed" = "Uitschrijven mislukt";
-
-"An unknown error occurred when unsubscribing." = "Er is een onbekende fout opgetreden bij het afmelden.";
-
-"Subscribe Failed" = "Abonneren mislukt";
-
-"Select a Folder" = "Selecteer een map";
-
-/* Search */
-"Delete Feed?" = "Feed verwijderen?";
-
-"Are you sure you want to delete %@" = "Weet je zeker dat je %@ wilt verwijderen?";
-
-"Error Loading Feeds" = "Fout bij het laden van de feeds";
-
-"The URL or query may be invalid. Please check the URL." = "De URL of query kan ongeldig zijn. Controleer de URL.";
-
-"Feed Exists" = "Feed bestaat al";
-
-"This feed already exists in your account." = "Je account is al geabonneerd op deze feed.";
-
-"An error occurred when parsing the feed's information. If this repeats, please contact support." = "Er is een fout opgetreden bij het parsen van de feedinformatie. Als deze fout zich herhaalt, neem dan contact op met de klantenservice.";
-
-"Adding Feed" = "Feed toevoegen";
-
-"Close New Folder" = "Nieuwe map sluiten";
-
-/* STORE VC */
-"Monthly" = "Maandelijks";
-
-"Pay as you go" = "Betaal per maand";
-
-"MonthlyDesc" = "Geen limiet op het aantal feeds.
-Real-time push-meldingen.
-Synchroniseer met al je apparaten.
-Ondersteun een Indie-ontwikkelaar.";
-
-"Yearly" = "Jaarlijks";
-
-"Long Term" = "Lange termijn";
-
-"YearlyDesc" = "Alle voordelen van het maandelijkse pakket.
-
-Korting ten opzichte van het maandelijkse abonnement.";
-
-"Failed to load Products" = "Fout bij het laden van producten";
-
-"An unknown error occurred when loading products. Please contact support@elytra.app" = "Er is een onbekende fout opgetreden bij het laden van producten. Neem contact op met support@elytra.app";
-
-"Processing..." = "Verwerken...";
-
-"Error Purchasing" = "Fout bij aankoop";
-
-"Error Restoring" = "Fout bij herstellen";
-
-"Error Loading Subscription" = "Fout bij laden abonnement";
-
-"Select a subscription plan" = "Selecteer een pakket";
-
+/* (No Comment) */
 " Your subscription is managed externally." = " Je abonnement wordt extern beheerd.";
 
-"Your subscription expired on %@." = "Je abonnement is verlopen op %@.";
-
-"Your account has a Lifetime subscription." = "Je account heeft een Lifetime abonnement.";
-
-"Your free trial is active up to %@." = "Je gratis proefabonnement is actief tot %@..";
-
-"Your subscription is active up to %@." = "Je abonnement is actief tot %@.";
-
-"Your subscription will renew on %@." = "Je abonnement wordt verlengd op %@.";
-
-/* Settings */
-"Settings" = "Instellingen";
-
+/* (No Comment) */
 "Account" = "Account";
 
-"Filters" = "Filters";
-
-"Notifications" = "Meldingen";
-
-"Re-Sync" = "Opnieuw synchroniseren";
-
-"Appearance" = "Uiterlijk";
-
-"Background Fetch" = "Ophalen op de achtergrond";
-
-"Image Loading" = "Afbeeldingen laden";
-
-"External Apps" = "Externe Apps";
-
-"OPML" = "OPML";
-
-"Miscellaneous" = "Overige";
-
-"Rate on AppStore" = "Beoordeel op de AppStore";
-
-"Attributions" = "Attributies";
-
-"Contact" = "Contact";
-
-"Re-Sync All" = "Alles hersynchroniseren";
-
-"Re-Sync Feeds" = "Feeds hersynchroniseren";
-
-/* Account Settings */
-"No Account Setup" = "Geen account ingesteld";
-
-"Deactivate Account" = "Account deactiveren";
-
-"Deactivate" = "Deactiveer";
-
-"Your Subscription" = "Je abonnement";
-
+/* (No Comment) */
 "Account ID" = "Account ID";
 
-"Subscription" = "Abonnement";
-
-"If you deactivate your account and wish to activate it again, please email me on support@elytra.app with the above UUID. You can use the context menu/right click to copy the ID." = "Indien je je account deactiveert en opnieuw wenst te activeren, stuur mij dan een e-mail op support@elytra.app met de bovenstaande UUID. U kunt het contextmenu/rechtsklik gebruiken om het ID te kopiëren.";
-
-"Connect your Apple ID to your Elytra account. This will enable you to sign in on other devices using the same account." = "Verbind je Apple ID met je Elytra account. Zo kun je Elytra op meerdere apparaten gebruiken. ";
-
-"Copy Account ID" = "Account-ID kopiëren";
-
-"If you have remaining days on your Pro Subscription, no refund can be issued for the same." = "Als je nog dagen over hebt op jouw Pro-abonnement, kan er geen restitutie worden verleend voor hetzelfde.";
-
-/* Image Loading Settings */
-"The above setting only works when the Article source provides these options. If no such option is provided in the article source, the original image is always loaded." = "De bovenstaande instelling werkt alleen als de bron deze opties biedt. Als de bron van het artikel deze optie niet biedt, wordt altijd de originele afbeelding geladen.";
-
-"The above setting is also used for galleries and Youtube video previews." = "De bovenstaande instelling wordt ook gebruikt voor galerijen en Youtube video previews.";
-
-"Enabling this shows cover images in the feeds list. This setting is also affected by your setting for Bandwidth." = "Door dit in te schakelen worden cover-afbeeldingen getoond in de feeds lijst. Deze instelling wordt ook beïnvloed door je instelling voor Bandbreedte.";
-
-"Elytra can optionally use the weserv.nl Image Proxy for loading images optimized to be displayed on this device. Images loaded via the Image Proxy are smaller in size and therefore load faster and save bandwidth." = "Elytra kan optioneel gebruik maken van de weserv.nl Image Proxy voor het laden van afbeeldingen die geoptimaliseerd zijn om op dit apparaat getoond te worden. Afbeeldingen die via de Image Proxy worden geladen zijn kleiner van formaat en laden daardoor sneller en besparen bandbreedte.";
-
-"Autoloading GIFs is not recommended for the health of your device's battery and bandwidth load. However, if you have an unlimited data plan or lots of money, this setting is for you." = "Het automatisch laden van GIF's wordt afgeraden voor de belasting van de batterij van je toestel en het gebruik van de bandbreedte. Als je echter een onbeperkt data-abonnement of veel geld hebt, is deze instelling iets voor jou.";
-
-"Image Bandwidth" = "Afbeelding bandbreedte";
-
-"Never" = "Nooit";
-
-"Wi-Fi Only" = "Alleen Wi-Fi";
-
-"Always" = "Altijd";
-
-"Cover Images" = "Omslag Afbeeldingen";
-
-"Use Image Proxy" = "Image Proxy gebruiken";
-
-"Auto-load GIFs" = "Automatisch GIFs laden";
-
-"Image Resolution" = "Afbeelding resolutie";
-
-"Low Resolution" = "Lage resolutie";
-
-"Medium Resolution" = "Gemiddelde resolutie";
-
-"High Resolution" = "Hoge resolutie";
-
-/* Filters */
-"Error Fetching Filters" = "Fout bij het ophalen van Filters";
-
+/* (No Comment) */
 "Active Filters" = "Actieve filters";
 
-"Failed to Delete Filter" = "Fout bij verwijderen filter";
+/* (No Comment) */
+"Add" = "Toevoegen";
 
-"An unknown error occurred when trying to delete the keyword." = "Er is een onbekende fout opgetreden bij het verwijderen van het trefwoord.";
+/* (No Comment) */
+"Adding Feed" = "Feed toevoegen";
 
-"Short Keyword" = "Kort trefwoord";
+/* (No Comment) */
+"All" = "Alle";
 
-"The keyword should be atleast 3 letters" = "Het trefwoord moet minstens 3 letters bevatten";
+/* (No Comment) */
+"All - Latest First" = "Alles - Nieuwste eerst";
 
-"Failed to add Filter" = "Kan geen filter toevoegen";
+/* (No Comment) */
+"All - Oldest First" = "Alles - Oudste eerst";
 
+/* All account, feeds and articles data will be deleted and you will be prompted to sign-in again. */
+"All account, feeds and articles data will be deleted and you will be prompted to sign-in again." = "Alle account-, feeds- en artikelgegevens worden verwijderd en u wordt gevraagd om opnieuw in te loggen.";
+
+/* (No Comment) */
+"Always" = "Altijd";
+
+/* (No Comment) */
+"Always load images" = "Afbeeldingen altijd laden";
+
+/* (No Comment) */
+"An Error Occurred" = "Er is een fout opgetreden";
+
+/* (No Comment) */
+"An error occurred removing the feed from its current folder - %@" = "Er is een fout opgetreden bij het verwijderen van de feed uit de huidige map - %@";
+
+/* (No Comment) */
+"An error occurred when parsing the feed's information. If this repeats, please contact support." = "Er is een fout opgetreden bij het parsen van de feedinformatie. Als deze fout zich herhaalt, neem dan contact op met de klantenservice.";
+
+/* (No Comment) */
+"An Unexpected Error Occurred" = "Er is een onverwachte fout opgetreden";
+
+/* An unknown error has occurred. */
+"An unknown error has occurred." = "Er is een onbekende fout opgetreden.";
+
+/* contact support help message */
+"An unknown error occurred when loading products. Please contact support@elytra.app" = "Er is een onbekende fout opgetreden bij het laden van producten. Neem contact op met support@elytra.app";
+
+/* (No Comment) */
+"An unknown error occurred when performing this action." = "Er is een onbekende fout opgetreden bij het uitvoeren van deze actie.";
+
+/* (No Comment) */
+"An unknown error occurred when registering for Push Notifications." = "Er is een onbekende fout opgetreden bij het registreren van pushmeldingen.";
+
+/* (No Comment) */
 "An unknown error occurred when trying to delete the keyword." = "Er is een onbekende fout opgetreden tijdens het verwijderen van het trefwoord.";
+
+/* (No Comment) */
+"An unknown error occurred when unsubscribing." = "Er is een onbekende fout opgetreden bij het afmelden.";
 
 /* MiscVC */
 "App Icon" = "App Icoon";
 
-"Reader Bar Size" = "Grootte Reader balk";
+/* (No Comment) */
+"App Logs" = "App Logbestanden";
 
-"Small" = "Klein";
+/* (No Comment) */
+"Appearance" = "Uiterlijk";
 
-"Regular" = "Normaal";
+/* (No Comment) */
+"Apps" = "Apps";
 
-"Large" = "Groot";
+/* (No Comment) */
+"Are you sure you want to delete %@" = "Weet je zeker dat je %@ wilt verwijderen?";
 
-"Enable Reader Mode" = "Reader inschakelen";
+/* (No Comment) */
+"Are you sure you want to delete this feed?" = "Weet je zeker dat je deze feed wilt verwijderen?";
 
+/* (No Comment) */
+"Are you sure you want to delete this folder?" = "Weet je zeker dat je deze map wilt verwijderen?";
+
+/* (No Comment) */
 "Are you sure you want to enable Reader Mode for all feeds?" = "Weet je zeker dat je de Reader modus wilt inschakelen voor alle feeds?";
 
-"App Icon" = "App Icoon";
+/* (No Comment) */
+"Are you sure you want to mark all unread articles as read?" = "Weet je zeker dat je alle ongelezen artikelen als gelezen wilt markeren?";
 
-"Unread Counters" = "Ongelezen tellers";
+/* Are you sure you want to reset the app? */
+"Are you sure you want to reset the app?" = "Weet je zeker dat je de app wilt resetten?";
 
-"Relax Mode" = "Ontspan modus";
+/* Article Actions menu title */
+"Article Actions" = "Artikel Acties";
 
-"Mark Read Prompt" = "Markeer als gelezen Prompt";
+/* Articles by %@ (Author) format */
+"Articles by %@" = "Artikelen door %@";
 
-"Hide Bookmarks" = "Bladwijzers verbergen";
-
-"Open Unread" = "Ongelezen openen";
-
-"Summary Lines" = "Overzicht regels";
-
-"Use Toolbar" = "Gebruik werkbalk";
-
-"Hide Bars" = "Balken verbergen";
-
-"Reader Bar Size" = "Reader Balkgrootte";
-
-"Portrait Lock" = "Rotatievergrendeling portret";
-
-"Mirror Full UI" = "Volledige UI spiegelen";
-
-"Faded Selection Tint" = "Vervaagde Selectie Tint";
-
-"Mark Read on Scroll" = "Markeer als gelezen bij Scrollen";
-
-"Enable Reader Mode" = "Reader modus inschakelen";
-
-"Set whether you want to see the number of unread articles in each section." = "Stel in of je het aantal ongelezen artikelen in elke sectie wilt zien.";
-
-"Optionally hide unread counters only from feeds and folders." = "Verberg optioneel alleen het aantal ongelezen artikelen in feeds en mappen.";
-
-"Set whether the app should prompt you when marking articles as read." = "Stel in of de app je moet vragen om artikelen als gelezen te markeren.";
-
-"You can optionally hide the Bookmarks Tab from the Feeds Interface." = "Je kunt het tabblad Bladwijzers optioneel verbergen in de interface voor feeds.";
-
-"When enabled, the app will open the Unread List upon launch." = "Indien ingeschakeld, zal de app de Ongelezen lijst openen bij het opstarten.";
-
-"Number of summary lines to show when viewing list of Articles." = "Aantal samenvattingsregels om te tonen bij het bekijken van de lijst met artikelen.";
-
-"Show all actions in toolbar at the bottom of the interface instead of the navigation bar at the top. (Requires an App restart)" = "Toon alle acties in de werkbalk onderaan de interface in plaats van de navigatiebalk bovenaan. (Vereist een herstart van de app)";
-
-"Hides the navigation bar and toolbar in the article reader when scrolling." = "Verbergt de navigatiebalk en de werkbalk in de artikellezer tijdens het scrollen.";
-
-"You may choose to restrict the app's UI only to the portrait orientation." = "U kunt ervoor kiezen de gebruikersinterface van de app te beperken tot de staande oriëntatie.";
-
-"When disabled, only the article reader interface is casted over Airplay." = "Wanneer deze optie is uitgeschakeld, wordt alleen de interface van de artikellezer via Airplay uitgezonden.";
-
-"When enabled, the articles list selection background color will be a light gray instead of the tint color." = "Wanneer deze optie is ingeschakeld, zal de achtergrondkleur van de lijst met artikelen een lichtgrijze kleur zijn in plaats van de tintkleur.";
-
+/* (No Comment) */
 "As you scroll, the app will automatically mark articles as read." = "Terwijl u scrollt, markeert de app artikelen automatisch als gelezen.";
 
-"You may enable reader mode for all feeds with a single tap." = "U kunt de Reader modus voor alle feeds inschakelen met een enkele tik.";
+/* (No Comment) */
+"Attributions" = "Attributies";
+
+/* (No Comment) */
+"Auto Full-Text" = "Automatisch volledige tekst tonen";
+
+/* (No Comment) */
+"Auto-load GIFs" = "Automatisch GIFs laden";
+
+/* (No Comment) */
+"Autoload GIFs" = "GIFs automatisch laden ";
+
+/* (No Comment) */
+"Autoloading GIFs is not recommended for the health of your device's battery and bandwidth load. However, if you have an unlimited data plan or lots of money, this setting is for you." = "Het automatisch laden van GIF's wordt afgeraden voor de belasting van de batterij van je toestel en het gebruik van de bandbreedte. Als je echter een onbeperkt data-abonnement of veel geld hebt, is deze instelling iets voor jou.";
+
+/* (No Comment) */
+"Automatically Check for Updates" = "Automatisch controleren op updates";
+
+/* (No Comment) */
+"Background Fetch" = "Ophalen op de achtergrond";
+
+/* (No Comment) */
+"Bandwidth" = "Bandbreedte";
+
+/* (No Comment) */
+"Bookmark" = "Bladwijzer";
+
+/* (No Comment) */
+"Bookmarks" = "Bladwijzers";
+
+/* (No Comment) */
+"Browser" = "Browser";
+
+/* (No Comment) */
+"Cancel" = "Annuleren";
+
+/* (No Comment) */
+"Close" = "Sluiten";
+
+/* (No Comment) */
+"Close article" = "Artikel sluiten";
+
+/* Feed Info */
+"Close Feed Info" = "Feed info sluiten";
+
+/* (No Comment) */
+"Close New Folder" = "Nieuwe map sluiten";
+
+/* (No Comment) */
+"Connect your Apple ID to your Elytra account. This will enable you to sign in on other devices using the same account." = "Verbind je Apple ID met je Elytra account. Zo kun je Elytra op meerdere apparaten gebruiken. ";
+
+/* (No Comment) */
+"Contact" = "Contact";
+
+/* (No Comment) */
+"Copy" = "Kopiëren";
+
+/* (No Comment) */
+"Copy Account ID" = "Account-ID kopiëren";
+
+/* (No Comment) */
+"Copy Link" = "Kopieer Link";
+
+/* (No Comment) */
+"Copy URL" = "URL kopiëren";
+
+/* (No Comment) */
+"Cover Images" = "Omslag Afbeeldingen";
+
+/* (No Comment) */
+"Custom Feed Names" = "Aangepaste feed-namen";
+
+/* (No Comment) */
+"Custom Font" = "Aangepast lettertype";
+
+/* Appearance VC */
+"Customization" = "Personaliseren";
+
+/* (No Comment) */
+"Customize" = "Personaliseren";
+
+/* (No Comment) */
+"Deactivate" = "Deactiveer";
+
+/* (No Comment) */
+"Deactivate Account" = "Account deactiveren";
+
+/* (No Comment) */
+"Delete" = "Delete";
+
+/* (No Comment) */
+"Delete Feed" = "Feed verwijderen";
+
+/* Search */
+"Delete Feed?" = "Feed verwijderen?";
+
+/* (No Comment) */
+"Delete Folder" = "Map verwijderen";
+
+/* (No Comment) */
+"Dismiss Search" = "Zoekopdracht afbreken";
+
+/* (No Comment) */
+"Dock Icon" = "Dock Icoon";
+
+/* (No Comment) */
+"Done" = "Gedaan";
+
+/* (No Comment) */
+"Elytra can optionally use the weserv.nl Image Proxy for loading images optimized to be displayed on this device. Images loaded from the Image Proxy are smaller in size and therefore load faster and save bandwidth." = "Elytra kan optioneel gebruik maken van de weserv.nl Image Proxy voor het laden van afbeeldingen die geoptimaliseerd zijn om op dit apparaat te worden weergegeven. Afbeeldingen geladen van de Image Proxy zijn kleiner in omvang, laden daardoor sneller en besparen bandbreedte.";
+
+/* (No Comment) */
+"Elytra can optionally use the weserv.nl Image Proxy for loading images optimized to be displayed on this device. Images loaded via the Image Proxy are smaller in size and therefore load faster and save bandwidth." = "Elytra kan optioneel gebruik maken van de weserv.nl Image Proxy voor het laden van afbeeldingen die geoptimaliseerd zijn om op dit apparaat getoond te worden. Afbeeldingen die via de Image Proxy worden geladen zijn kleiner van formaat en laden daardoor sneller en besparen bandbreedte.";
+
+/* (No Comment) */
+"Email Support" = "E-mailondersteuning";
+
+/* (No Comment) */
+"Empty Content" = "Lege inhoud";
+
+/* (No Comment) */
+"Enable" = "Activeer";
 
 /* Notifications */
 "Enable Push Notifications" = "Push-meldingen inschakelen";
 
-"Error Registering" = "Fout bij registreren";
+/* (No Comment) */
+"Enable Reader Mode" = "Reader modus inschakelen";
 
-"An unknown error occurred when registering for Push Notifications." = "Er is een onbekende fout opgetreden bij het registreren van pushmeldingen.";
+/* (No Comment) */
+"Enabling this shows cover images in the feeds list. This setting is also affected by your setting for Bandwidth." = "Door dit in te schakelen worden cover-afbeeldingen getoond in de feeds lijst. Deze instelling wordt ook beïnvloed door je instelling voor Bandbreedte.";
 
+/* (No Comment) */
+"Error Bookmarking" = "Fout bij aanmaken bladwijzer";
+
+/* (No Comment) */
+"Error Deleting Feed" = "Fout bij verwijderen feed";
+
+/* Filters */
+"Error Fetching Filters" = "Fout bij het ophalen van Filters";
+
+/* (No Comment) */
+"Error Loading Feeds" = "Fout bij het laden van de feeds";
+
+/* (No Comment) */
+"Error Loading Subscription" = "Fout bij laden abonnement";
+
+/* (No Comment) */
 "Error Loading Subscriptions" = "Fout bij laden abonnementen";
 
+/* (No Comment) */
+"Error loading the article" = "Fout bij het laden van het artikel";
+
+/* (No Comment) */
+"Error Marking Read" = "Fout bij markeren als gelezen";
+
+/* (No Comment) */
+"Error Marking Unread" = "Fout bij markeren als ongelezen";
+
+/* (No Comment) */
+"Error Moving Folder" = "Fout bij verplaatsen map";
+
+/* (No Comment) */
+"Error Parsing" = "Fout met parsen";
+
+/* (No Comment) */
+"Error Processing" = "Fout bij het verwerken";
+
+/* (No Comment) */
+"Error Purchasing" = "Fout bij aankoop";
+
+/* (No Comment) */
+"Error Registering" = "Fout bij registreren";
+
+/* (No Comment) */
+"Error Reloading" = "Fout bij opnieuw laden";
+
+/* (No Comment) */
 "Error Removing Subscription" = "Fout bij verwijderen abonnement";
 
-/* ResetVC */
-"Reset parts of your account or all data in your account. Please remember to export your feeds as an OPML file before resetting folders or feeds. Once the data is reset, it cannot be recovered." = "Reset een deel of alle gegevens in je account. Vergeet niet om je feeds te exporteren als een OPML-bestand voordat je mappen of feeds opnieuw instelt. Als de gegevens eenmaal zijn gereset, kunnen ze niet meer worden hersteld.";
+/* (No Comment) */
+"Error Restoring" = "Fout bij herstellen";
 
-"Custom Feed Names" = "Aangepaste feed-namen";
+/* (No Comment) */
+"Error Unbookmarking" = "Fout bij het ongedaan maken van bladwijzer";
 
-"Full Account" = "Volledige account";
-
-"Selective" = "Selectief";
-
-"All" = "Alle";
-
-/* General Prefs */
-"Refresh feeds" = "Feeds verversen";
-
-"Manually" = "Handmatig";
-
+/* (No Comment) */
 "Every 30 minutes" = "Elke 30 minuten";
 
+/* (No Comment) */
 "Every hour" = "Elk uur";
 
-"Once your account is deactivated, all your account data is usually deleted within an hour. Please make sure you have taken an export of your feeds." = "Zodra je account is gedeactiveerd, worden al je accountgegevens meestal binnen een uur verwijderd. Zorg ervoor dat je een export van je feeds hebt gemaakt.";
+/* (No Comment) */
+"Export" = "Exporteer";
 
-"Open web pages in background in browser" = "Open webpagina's op achtergrond in de browser";
+/* (No Comment) */
+"Export Feed Settings" = "Feed Instellingen Exporteren";
 
-"Press the shift key to do the opposite" = "Druk op de shift-toets om het tegenovergestelde te doen";
+/* (No Comment) */
+"Export Logs" = "Exporteer logbestanden";
 
-"Dock Icon" = "Dock Icoon";
+/* (No Comment) */
+"External Apps" = "Externe Apps";
 
-"Show unread count" = "Toon aantal ongelezen";
+/* (No Comment) */
+"Faded Selection Tint" = "Vervaagde Selectie Tint";
 
-/* Images Prefs */
-"Resolution" = "Resolutie";
+/* (No Comment) */
+"Failed to add Filter" = "Kan geen filter toevoegen";
 
-"Bandwidth" = "Bandbreedte";
+/* (No Comment) */
+"Failed to Create" = "Kan niet worden aangemaakt";
 
-"Never load images" = "Afbeeldingen nooit laden";
+/* (No Comment) */
+"Failed to Delete Filter" = "Fout bij verwijderen filter";
 
-"Always load images" = "Afbeeldingen altijd laden";
+/* Failed to load Products */
+"Failed to load Products" = "Fout bij het laden van producten";
 
-"Misc" = "Misc";
+/* (No Comment) */
+"Failed to Update" = "Kan niet worden bijgewerkt";
 
-"Show cover images" = "Toon omslag afbeeldingen";
+/* (No Comment) */
+"Feed Exists" = "Feed bestaat al";
 
-"Image Proxy" = "Afbeeldingen proxy";
+/* (No Comment) */
+"Feed Info" = "Feed informatie";
 
-"Elytra can optionally use the weserv.nl Image Proxy for loading images optimized to be displayed on this device. Images loaded from the Image Proxy are smaller in size and therefore load faster and save bandwidth." = "Elytra kan optioneel gebruik maken van de weserv.nl Image Proxy voor het laden van afbeeldingen die geoptimaliseerd zijn om op dit apparaat te worden weergegeven. Afbeeldingen geladen van de Image Proxy zijn kleiner in omvang, laden daardoor sneller en besparen bandbreedte.";
+/* (No Comment) */
+"Feed Menu" = "Feed menu";
 
-"Autoload GIFs" = "GIFs automatisch laden ";
+/* (No Comment) */
+"Feed Name" = "Feed Naam";
 
-"The font to use for drawing the paragraph text in an article." = "Het te gebruiken lettertype voor de paragraaftekst in een artikel.";
+/* (No Comment) */
+"Feed URL" = "Feed URL";
 
-"Heading Font" = "Kopteksten lettertype";
+/* Sidebar VC */
+"Feeds" = "Feeds";
 
-"The font to use for drawing the headers in an article." = "Het te gebruiken lettertype voor de kopteksten in een artikel.";
+/* (No Comment) */
+"Filters" = "Filters";
 
-"Line spacing" = "Regelafstand";
+/* (No Comment) */
+"Folder" = "Map";
 
-"The space between two lines of text. A lower values renders a compact layout, a higher value renders comfortable layout." = "De ruimte tussen twee tekstregels. Een lagere waarde geeft een compacte opmaak, een hogere waarde geeft een comfortabele opmaak.";
+/* (No Comment) */
+"Folder Menu" = "Map menu";
 
+/* No comment provided by engineer. */
+"Folders" = "Mappen";
+
+/* (No Comment) */
 "Font size" = "Lettergrootte";
 
-"The base font size. Pargraphs are rendered at this size. Other elements derive their sizes proportional to this." = "De basis lettergrootte. Paragrafen worden op deze grootte weergegeven. Andere elementen ontlenen hun grootte evenredig hieraan.";
+/* (No Comment) */
+"Font Size" = "Lettergrootte";
 
-/* MISC */
-"Show unread counters" = "Toon ongelezen aantallen";
+/* (No Comment) */
+"Frequently Asked Questions" = "Frequently Asked Questions";
 
-"You can optionally hide the Bookmarks Tab from the Sidebar." = "U kunt het tabblad Bladwijzers optioneel verbergen in de zijbalk.";
-
-"Summary" = "Samenvatting";
-
-"Number of summary lines to show when viewing the list of Articles." = "Aantal samenvattingsregels dat wordt getoond bij het bekijken van de lijst met artikelen.";
-
-"Apps" = "Apps";
-
-"Your preferred Twitter app. Clicking on a tweet will open this app." = "De Twitter-app die je wilt gebruiken als je op een tweet klikt.";
-
-"Updates" = "Updates";
-
-"Release Builds" = "Productie builds";
-
-"Test Builds" = "Test builds";
-
-"Automatically Check for Updates" = "Automatisch controleren op updates";
-
-"You should select Release if you want only the most stable releases. Test Builds may be buggy, crash  and even cause data loss." = "Je moet Productie selecteren als je de meest stabiele versie wilt. Test Builds kunnen instabiel zijn, crashen en zelfs dataverlies veroorzaken.";
-
-/* Preferences Controller */
+/* (No Comment) */
+"Full Account" = "Volledige account";
 
 /* Title for General Prefs Tab */
 "General" = "Algemeen";
 
+/* (No Comment) */
+"Go to Bookmarks" = "Go to Bookmarks";
+
+/* (No Comment) */
+"Go to next article" = "Ga naar het volgende artikel";
+
+/* (No Comment) */
+"Go to previous article" = "Ga naar vorig artikel";
+
+/* (No Comment) */
+"Go to Today" = "Go to Today";
+
+/* (No Comment) */
+"Go to Unread" = "Go to Unread";
+
+/* No comment provided by engineer. */
+"Has Unicorn: %@" = "Has Unicorn: %@";
+
+/* (No Comment) */
+"Heading Font" = "Kopteksten lettertype";
+
+/* Logs */
+"Help" = "Help";
+
+/* (No Comment) */
+"Hide Bars" = "Balken verbergen";
+
+/* (No Comment) */
+"Hide Bookmarks" = "Bladwijzers verbergen";
+
+/* (No Comment) */
+"Hides the navigation bar and toolbar in the article reader when scrolling." = "Verbergt de navigatiebalk en de werkbalk in de artikellezer tijdens het scrollen.";
+
+/* (No Comment) */
+"High Resolution" = "Hoge resolutie";
+
+/* (No Comment) */
+"If you deactivate your account and wish to activate it again, please email me on support@elytra.app with the above UUID. You can use the context menu/right click to copy the ID." = "Indien je je account deactiveert en opnieuw wenst te activeren, stuur mij dan een e-mail op support@elytra.app met de bovenstaande UUID. U kunt het contextmenu/rechtsklik gebruiken om het ID te kopiëren.";
+
+/* (No Comment) */
+"If you have remaining days on your Pro Subscription, no refund can be issued for the same." = "Als je nog dagen over hebt op jouw Pro-abonnement, kan er geen restitutie worden verleend voor hetzelfde.";
+
+/* (No Comment) */
+"Image Bandwidth" = "Afbeelding bandbreedte";
+
+/* (No Comment) */
+"Image Loading" = "Afbeeldingen laden";
+
+/* (No Comment) */
+"Image Proxy" = "Afbeeldingen proxy";
+
+/* (No Comment) */
+"Image Resolution" = "Afbeelding resolutie";
+
 /* Title for Images Prefs Tab */
 "Images" = "Afbeeldingen";
+
+/* (No Comment) */
+"Import" = "Importeer";
+
+/* (No Comment) */
+"Import Feed Settings" = "Feed Instellingen Importeren";
+
+/* Import/Export */
+"Import/Export" = "Importeer/Exporteer";
+
+/* Imported alert title */
+"Imported" = "Geïmporteerd";
+
+/* Importing %d of %d */
+"Importing %d of %d" = "Invoer %d van %d";
+
+/* (No Comment) */
+"Large" = "Groot";
+
+/* (No Comment) */
+"Last Sync: %@" = "Laatste synchronisatie: %@";
+
+/* Lifetime */
+"Lifetime" = "Levenslang";
+
+/* Lifetime License */
+"Lifetime License" = "Levenslange Licentie";
+
+/* (No Comment) */
+"Line spacing" = "Regelafstand";
+
+/* (No Comment) */
+"Line Spacing" = "Regelafstand";
+
+/* Class = "UILabel"; text = "Select an article from your feeds to begin reading it."; ObjectID = "llj-MV-kuV"; */
+"llj-MV-kuV.text" = "Selecteer een artikel uit uw feeds om het te laten lezen.";
+
+/* (No Comment) */
+"Local Notifications" = "Lokale meldingen";
+
+/* (No Comment) */
+"Long Term" = "Lange termijn";
+
+/* (No Comment) */
+"Low Resolution" = "Lage resolutie";
+
+/* (No Comment) */
+"Manually" = "Handmatig";
+
+/* (No Comment) */
+"Mark All Read" = "Alles als Gelezen Markeren";
+
+/* (No Comment) */
+"Mark All Read?" = "Alles als Gelezen Markeren?";
+
+/* (No Comment) */
+"Mark Newer Read" = "Markeer Nieuwer als gelezen";
+
+/* (No Comment) */
+"Mark Older Read" = "Markeer Ouder als gelezen";
+
+/* (No Comment) */
+"Mark Read" = "Markeer als gelezen";
+
+/* (No Comment) */
+"Mark Read on Scroll" = "Markeer als gelezen bij Scrollen";
+
+/* (No Comment) */
+"Mark Read Prompt" = "Markeer als gelezen Prompt";
+
+/* (No Comment) */
+"Mark Unread" = "Markeer als ongelezen";
+
+/* (No Comment) */
+"Medium Resolution" = "Gemiddelde resolutie";
+
+/* (No Comment) */
+"Mirror Full UI" = "Volledige UI spiegelen";
+
+/* (No Comment) */
+"Misc" = "Misc";
+
+/* (No Comment) */
+"Miscellaneous" = "Overige";
+
+/* STORE VC */
+"Monthly" = "Maandelijks";
+
+/* (No Comment) */
+"MonthlyDesc" = "Geen limiet op het aantal feeds.\nReal-time push-meldingen.\nSynchroniseer met al je apparaten.\nOndersteun een Indie-ontwikkelaar.";
+
+/* (No Comment) */
+"Move" = "Verplaatsen";
+
+/* (No Comment) */
+"Never" = "Nooit";
+
+/* (No Comment) */
+"Never load images" = "Afbeeldingen nooit laden";
+
+/* Common Actions */
+"New" = "Nieuw";
+
+/* New Feed/Folder */
+"New Feed" = "Nieuwe feed";
+
+/* (No Comment) */
+"New Folder" = "Nieuwe map";
+
+/* Menu */
+"New Window" = "Nieuw venster";
+
+/* (No Comment) */
+"Next Article" = "Volgende artikel";
+
+/* (No Comment) */
+"Next Result" = "Volgende Resultaat";
+
+/* (No Comment) */
+"Next search result" = "Volgend zoekresultaat";
+
+/* Account Settings */
+"No Account Setup" = "Geen account ingesteld";
+
+/* (No Comment) */
+"No article received after reloading." = "Geen artikel ontvangen na herladen.";
+
+/* (No Comment) */
+"no file selected" = "geen bestand geselecteerd";
+
+/* (No Comment) */
+"No recent articles" = "Geen recente artikelen";
+
+/* Common Errors */
+"No Subscription" = "Geen abonnement";
+
+/* (No Comment) */
+"No Summary" = "Geen overzicht";
+
+/* Feed VC */
+"No unread articles" = "Geen ongelezen artikelen";
+
+/* (No Comment) */
+"None" = "Geen";
+
+/* (No Comment) */
+"Notifications" = "Meldingen";
+
+/* (No Comment) */
+"Notifications for this feed will be near real-time." = "Meldingen voor deze feed zullen bijna real-time zijn.";
+
+/* (No Comment) */
+"Number of summary lines to show when viewing list of Articles." = "Aantal samenvattingsregels om te tonen bij het bekijken van de lijst met artikelen.";
+
+/* (No Comment) */
+"Number of summary lines to show when viewing the list of Articles." = "Aantal samenvattingsregels dat wordt getoond bij het bekijken van de lijst met artikelen.";
+
+/* (No Comment) */
+"Ok" = "Ok";
+
+/* (No Comment) */
+"Okay" = "Okay";
+
+/* (No Comment) */
+"Once your account is deactivated, all your account data is usually deleted within an hour. Please make sure you have taken an export of your feeds." = "Zodra je account is gedeactiveerd, worden al je accountgegevens meestal binnen een uur verwijderd. Zorg ervoor dat je een export van je feeds hebt gemaakt.";
+
+/* LifetimeDesc */
+"One time purchase, includes all benefits of the pro subscriptions." = "Eenmalige aankoop, inclusief alle voordelen van de pro abonnementen.";
+
+/* One-time purchase */
+"One-time purchase" = "Eenmalige aankoop";
+
+/* (No Comment) */
+"Open in Browser" = "Open in de browser";
+
+/* Open in New Window title */
+"Open in New Window" = "Open in nieuw venster";
+
+/* (No Comment) */
+"Open Unread" = "Ongelezen openen";
+
+/* (No Comment) */
+"Open web pages in background in browser" = "Open webpagina's op achtergrond in de browser";
+
+/* (No Comment) */
+"Opens in Browser" = "Opent in browser";
+
+/* (No Comment) */
+"OPML" = "OPML";
+
+/* (No Comment) */
+"Optionally hide unread counters only from feeds and folders." = "Verberg optioneel alleen het aantal ongelezen artikelen in feeds en mappen.";
+
+/* Article View Prefs */
+"Paragraph Font" = "Paragraaf lettertype";
+
+/* (No Comment) */
+"Pay as you go" = "Betaal per maand";
+
+/* (No Comment) */
+"Portrait Lock" = "Rotatievergrendeling portret";
+
+/* (No Comment) */
+"Preferences" = "Voorkeuren";
+
+/* (No Comment) */
+"Press the shift key to do the opposite" = "Druk op de shift-toets om het tegenovergestelde te doen";
+
+/* (No Comment) */
+"Previous Article" = "Vorig artikel";
+
+/* (No Comment) */
+"Previous Result" = "Vorige resultaat";
+
+/* ArticleVC */
+"Previous search result" = "Vorig zoekresultaat";
+
+/* (No Comment) */
+"Processing..." = "Verwerken...";
+
+/* (No Comment) */
+"Push Notifications" = "Push-berichten";
+
+/* (No Comment) */
+"Rate on AppStore" = "Beoordeel op de AppStore";
+
+/* (No Comment) */
+"Re-Sync" = "Opnieuw synchroniseren";
+
+/* (No Comment) */
+"Re-Sync All" = "Alles hersynchroniseren";
+
+/* (No Comment) */
+"Re-Sync Feeds" = "Feeds hersynchroniseren";
+
+/* (No Comment) */
+"Read" = "Lezen";
 
 /* Title for Reader Prefs Tab */
 "Reader" = "Lezer";
 
+/* (No Comment) */
+"Reader Bar Size" = "Reader Balkgrootte";
+
+/* (No Comment) */
+"Refresh" = "Vernieuw";
+
+/* General Prefs */
+"Refresh feeds" = "Feeds verversen";
+
+/* (No Comment) */
+"Refresh Feeds" = "Refresh Feeds";
+
+/* (No Comment) */
+"Regular" = "Normaal";
+
+/* (No Comment) */
+"Relax Mode" = "Ontspan modus";
+
+/* (No Comment) */
+"Release Builds" = "Productie builds";
+
+/* (No Comment) */
+"Rename" = "Hernoemen";
+
+/* (No Comment) */
+"Rename Feed" = "Hernoem feed";
+
+/* ResetVC */
+"Reset parts of your account or all data in your account. Please remember to export your feeds as an OPML file before resetting folders or feeds. Once the data is reset, it cannot be recovered." = "Reset een deel of alle gegevens in je account. Vergeet niet om je feeds te exporteren als een OPML-bestand voordat je mappen of feeds opnieuw instelt. Als de gegevens eenmaal zijn gereset, kunnen ze niet meer worden hersteld.";
+
+/* Images Prefs */
+"Resolution" = "Resolutie";
+
+/* (No Comment) */
+"Safari Reader Mode" = "Safari Reader";
+
+/* (No Comment) */
+"Search" = "Zoeken";
+
+/* (No Comment) */
+"Search Article Content" = "Zoeken in artikelinhoud";
+
+/* (No Comment) */
+"Search for keywords in the article" = "Zoek naar trefwoorden in het artikel";
+
+/* (No Comment) */
+"Search in article" = "Zoeken in artikel";
+
+/* (No Comment) */
+"Select a file" = "Selecteer een bestand";
+
+/* (No Comment) */
+"Select a Folder" = "Selecteer een map";
+
+/* (No Comment) */
+"Select a subscription plan" = "Selecteer een pakket";
+
+/* (No Comment) */
+"Selective" = "Selectief";
+
+/* (No Comment) */
 "Set up your account" = "Maak je account aan";
 
-/* Logs */
-"Help" = "Help";
-"Frequently Asked Questions" = "Frequently Asked Questions";
-"App Logs" = "App Logbestanden";
-"Export Logs" = "Exporteer logbestanden";
+/* (No Comment) */
+"Set whether the app should prompt you when marking articles as read." = "Stel in of de app je moet vragen om artikelen als gelezen te markeren.";
+
+/* (No Comment) */
+"Set whether you want to see the number of unread articles in each section." = "Stel in of je het aantal ongelezen artikelen in elke sectie wilt zien.";
+
+/* Settings */
+"Settings" = "Instellingen";
+
+/* (No Comment) */
+"Share" = "Deel";
+
+/* (No Comment) */
+"Share Article" = "Artikel delen";
+
+/* (No Comment) */
+"Share Feed URL" = "URL van de feed delen";
+
+/* (No Comment) */
+"Share URL" = "URL delen";
+
+/* (No Comment) */
+"Share Website URL" = "Website URL delen";
+
+/* (No Comment) */
+"Short Keyword" = "Kort trefwoord";
+
+/* (No Comment) */
+"Show all actions in toolbar at the bottom of the interface instead of the navigation bar at the top. (Requires an App restart)" = "Toon alle acties in de werkbalk onderaan de interface in plaats van de navigatiebalk bovenaan. (Vereist een herstart van de app)";
+
+/* (No Comment) */
+"Show cover images" = "Toon omslag afbeeldingen";
+
+/* (No Comment) */
 "Show Logs" = "Toon logbestanden";
 
-/* Import/Export */
-"Import/Export" = "Importeer/Exporteer";
-"Import" = "Importeer";
-"Export" = "Exporteer";
-"Empty Content" = "Lege inhoud";
-"no file selected" = "geen bestand geselecteerd";
-"Select a file" = "Selecteer een bestand";
-"Import Feed Settings" = "Feed Instellingen Importeren";
-"Export Feed Settings" = "Feed Instellingen Exporteren";
+/* (No Comment) */
+"Show unread count" = "Toon aantal ongelezen";
+
+/* MISC */
+"Show unread counters" = "Toon ongelezen aantallen";
+
+/* (No Comment) */
+"Small" = "Klein";
+
+/* (No Comment) */
+"Sorting Options" = "Sorteermogelijkheden";
+
+/* (No Comment) */
+"Subscribe Failed" = "Abonneren mislukt";
+
+/* (No Comment) */
+"Subscription" = "Abonnement";
+
+/* (No Comment) */
+"Summary" = "Samenvatting";
+
+/* (No Comment) */
+"Summary Lines" = "Overzicht regels";
+
+/* (No Comment) */
+"Synced %.f%%" = "Gesynchroniseerd %.f%%";
+
+/* (No Comment) */
+"Syncing Complete" = "Synchronisatie voltooid";
+
+/* (No Comment) */
+"Syncing..." = "Synchroniseren...";
+
+/* (No Comment) */
+"Test Builds" = "Test builds";
+
+/* (No Comment) */
+"The above setting is also used for galleries and Youtube video previews." = "De bovenstaande instelling wordt ook gebruikt voor galerijen en Youtube video previews.";
+
+/* Image Loading Settings */
+"The above setting only works when the Article source provides these options. If no such option is provided in the article source, the original image is always loaded." = "De bovenstaande instelling werkt alleen als de bron deze opties biedt. Als de bron van het artikel deze optie niet biedt, wordt altijd de originele afbeelding geladen.";
+
+/* (No Comment) */
+"The base font size. Pargraphs are rendered at this size. Other elements derive their sizes proportional to this." = "De basis lettergrootte. Paragrafen worden op deze grootte weergegeven. Andere elementen ontlenen hun grootte evenredig hieraan.";
+
+/* (No Comment) */
+"The font to use for drawing the headers in an article." = "Het te gebruiken lettertype voor de kopteksten in een artikel.";
+
+/* (No Comment) */
+"The font to use for drawing the paragraph text in an article." = "Het te gebruiken lettertype voor de paragraaftekst in een artikel.";
+
+/* (No Comment) */
+"The keyword should be atleast 3 letters" = "Het trefwoord moet minstens 3 letters bevatten";
+
+/* (No Comment) */
+"The space between two lines of text. A lower values renders a compact layout, a higher value renders comfortable layout." = "De ruimte tussen twee tekstregels. Een lagere waarde geeft een compacte opmaak, een hogere waarde geeft een comfortabele opmaak.";
+
+/* (No Comment) */
+"The URL or query may be invalid. Please check the URL." = "De URL of query kan ongeldig zijn. Controleer de URL.";
+
+/* (No Comment) */
+"This feed already exists in your account." = "Je account is al geabonneerd op deze feed.";
+
+/* (No Comment) */
+"This feed supports real-time notifications." = "Deze feed ondersteunt real-time meldingen.";
+
+/* (No Comment) */
+"Title Font" = "Titel lettertype";
+
+/* (No Comment) */
+"Today" = "Vandaag";
+
+/* (No Comment) */
+"Unbookmark" = "Bladwijzer wissen";
+
+/* (No Comment) */
+"Unread" = "Ongelezen";
+
+/* (No Comment) */
+"Unread - Latest First" = "Ongelezen - Nieuwste eerst";
+
+/* (No Comment) */
+"Unread - Oldest First" = "Ongelezen - Oudste eerst";
+
+/* (No Comment) */
+"Unread Counters" = "Ongelezen tellers";
+
+/* (No Comment) */
+"Unsubscribe Failed" = "Uitschrijven mislukt";
+
+/* (No Comment) */
+"Untitled" = "Naamloos";
+
+/* (No Comment) */
+"Update" = "Updaten";
+
+/* (No Comment) */
+"Updates" = "Updates";
+
+/* (No Comment) */
+"URL Actions" = "URL Acties";
+
+/* (No Comment) */
+"Use Image Proxy" = "Image Proxy gebruiken";
+
+/* (No Comment) */
+"Use System Sizing" = "Systeemgrootte gebruiken";
+
+/* (No Comment) */
+"Use Toolbar" = "Gebruik werkbalk";
 
 /* Menu */
 "View Subscription" = "Bekijk abonnement";
-"Preferences" = "Voorkeuren";
-"Refresh" = "Vernieuw";
-"Next Result" = "Volgende Resultaat";
-"Previous Result" = "Vorige resultaat";
-"Email Support" = "E-mailondersteuning";
-"Frequently Asked Questions" = "Frequently Asked Questions";
 
-/* Empty VC */
-/* Class = "UILabel"; text = "Select an article from your feeds to begin reading it. "; ObjectID = "llj-MV-kuV"; */
-"llj-MV-kuV.text" = "Selecteer een artikel uit uw feeds om het te laten lezen.";
+/* (No Comment) */
+"Website URL" = "Website URL";
 
-"No Summary" = "Geen overzicht";
+/* (No Comment) */
+"When disabled, only the article reader interface is casted over Airplay." = "Wanneer deze optie is uitgeschakeld, wordt alleen de interface van de artikellezer via Airplay uitgezonden.";
 
-/* Menu */
-"New Window" = "Nieuw venster";
-"Refresh Feeds" = "Refresh Feeds";
-"Go to Unread" = "Go to Unread";
-"Go to Today" = "Go to Today";
-"Go to Bookmarks" = "Go to Bookmarks";
-"Open in New Window" = "Open in nieuw venster";
+/* (No Comment) */
+"When enabled, the app will open the Unread List upon launch." = "Indien ingeschakeld, zal de app de Ongelezen lijst openen bij het opstarten.";
+
+/* (No Comment) */
+"When enabled, the articles list selection background color will be a light gray instead of the tint color." = "Wanneer deze optie is ingeschakeld, zal de achtergrondkleur van de lijst met artikelen een lichtgrijze kleur zijn in plaats van de tintkleur.";
+
+/* (No Comment) */
+"When enabled, the articles will be opened in the browser instead of the article reader." = "Wanneer deze optie is ingeschakeld, worden de artikelen geopend in de browser in plaats van in de ingebouwde reader.";
+
+/* (No Comment) */
+"When enabled, the full-text for the article will be automatically fetched." = "Wanneer deze functie is ingeschakeld, wordt de volledige tekst van het artikel automatisch opgehaald.";
+
+/* (No Comment) */
+"Wi-Fi Only" = "Alleen Wi-Fi";
+
+/* (No Comment) */
+"Yearly" = "Jaarlijks";
+
+/* (No Comment) */
+"YearlyDesc" = "Alle voordelen van het maandelijkse pakket.\n\nKorting ten opzichte van het maandelijkse abonnement.";
+
+/* (No Comment) */
+"Yes" = "Ja";
+
+/* (No Comment) */
+"You can optionally hide the Bookmarks Tab from the Feeds Interface." = "Je kunt het tabblad Bladwijzers optioneel verbergen in de interface voor feeds.";
+
+/* (No Comment) */
+"You can optionally hide the Bookmarks Tab from the Sidebar." = "U kunt het tabblad Bladwijzers optioneel verbergen in de zijbalk.";
+
+/* (No Comment) */
+"You may choose to restrict the app's UI only to the portrait orientation." = "U kunt ervoor kiezen de gebruikersinterface van de app te beperken tot de staande oriëntatie.";
+
+/* (No Comment) */
+"You may enable reader mode for all feeds with a single tap." = "U kunt de Reader modus voor alle feeds inschakelen met een enkele tik.";
+
+/* (No Comment) */
+"You should select Release if you want only the most stable releases. Test Builds may be buggy, crash  and even cause data loss." = "Je moet Productie selecteren als je de meest stabiele versie wilt. Test Builds kunnen instabiel zijn, crashen en zelfs dataverlies veroorzaken.";
+
+/* (No Comment) */
+"Your account has a Lifetime subscription." = "Je account heeft een Lifetime abonnement.";
+
+/* Imported alert message */
+"Your feed settings have been successfully imported" = "Uw feed-instellingen zijn succesvol geïmporteerd";
+
+/* (No Comment) */
+"Your free trial is active up to %@." = "Je gratis proefabonnement is actief tot %@..";
+
+/* (No Comment) */
+"Your preferred Twitter app. Clicking on a tweet will open this app." = "De Twitter-app die je wilt gebruiken als je op een tweet klikt.";
+
+/* (No Comment) */
+"Your Subscription" = "Je abonnement";
+
+/* (No Comment) */
+"Your subscription expired on %@." = "Je abonnement is verlopen op %@.";
+
+/* (No Comment) */
+"Your subscription is active up to %@." = "Je abonnement is actief tot %@.";
+
+/* (No Comment) */
+"Your subscription will renew on %@." = "Je abonnement wordt verlengd op %@.";
+
