@@ -25,6 +25,9 @@
 /* (No Comment) */
 "All - Oldest First" = "Tout - le plus ancien premier";
 
+/* All account, feeds and articles data will be deleted and you will be prompted to sign-in again. */
+"All account, feeds and articles data will be deleted and you will be prompted to sign-in again." = "Toutes les données relatives au compte, aux flux et aux articles seront supprimées et vous serez invité à vous reconnecter.";
+
 /* (No Comment) */
 "Always" = "Toujours";
 
@@ -87,6 +90,9 @@
 
 /* (No Comment) */
 "Are you sure you want to mark all unread articles as read?" = "Êtes-vous sûr de vouloir marquer tous les articles non lus tels que lus?";
+
+/* Are you sure you want to reset the app? */
+"Are you sure you want to reset the app?" = "Tu es sûr que tu veux réinitialiser l'application ?";
 
 /* Article Actions menu title */
 "Article Actions" = "Actions d'article";
@@ -346,6 +352,9 @@
 /* (No Comment) */
 "Folder Menu" = "Menu du dossier";
 
+/* No comment provided by engineer. */
+"Folders" = "Dossiers";
+
 /* (No Comment) */
 "Font size" = "Taille de police";
 
@@ -427,11 +436,23 @@
 /* Import/Export */
 "Import/Export" = "Importer/Exporter";
 
+/* Imported alert title */
+"Imported" = "Importé";
+
+/* Importing %d of %d */
+"Importing %d of %d" = "Importation de %d sur $d";
+
 /* (No Comment) */
 "Large" = "Grand";
 
 /* (No Comment) */
 "Last Sync: %@" = "Dernière synchronisation:%@";
+
+/* Lifetime */
+"Lifetime" = "À vie";
+
+/* Lifetime License */
+"Lifetime License" = "Licence à vie";
 
 /* (No Comment) */
 "Line spacing" = "Interligne";
@@ -570,6 +591,12 @@
 
 /* (No Comment) */
 "Once your account is deactivated, all your account data is usually deleted within an hour. Please make sure you have taken an export of your feeds." = "Une fois que votre compte est désactivé, toutes les données de votre compte sont généralement supprimées dans une heure.Veuillez vous assurer que vous avez pris une exportation de vos flux.";
+
+/* LifetimeDesc */
+"One time purchase, includes all benefits of the pro subscriptions." = "Achat unique, incluant tous les avantages des abonnements pro.";
+
+/* One-time purchase */
+"One-time purchase" = "Achat en une seule fois";
 
 /* (No Comment) */
 "Open in Browser" = "Ouvrir dans le navigateur";
@@ -900,6 +927,9 @@
 
 /* (No Comment) */
 "Your account has a Lifetime subscription." = "Votre compte a une abonnement à vie.";
+
+/* Imported alert message */
+"Your feed settings have been successfully imported" = "Vos paramètres d'alimentation ont été importés avec succès";
 
 /* (No Comment) */
 "Your free trial is active up to %@." = "Votre essai gratuit est actif jusqu'à %@.";

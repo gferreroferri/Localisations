@@ -1,637 +1,951 @@
-/* Common Actions */
-"New" = "新規";
-
-"Delete" = "削除";
-
-"Move" = "移動";
-
-"Share" = "共有";
-
-"Rename" = "名前の変更";
-
-"Cancel" = "キャンセル";
-
-"Done" = "完了";
-
-"Read" = "読む";
-
-"Bookmark" = "ブックマーク";
-
-"Unbookmark" = "ブックマーク解除";
-
-"Browser" = "ブラウザ";
-
-"Open in Browser" = "ブラウザで開く";
-
-"Share Article" = "記事を共有する";
-
-"Yes" = "はい";
-
-"Okay" = "わかった";
-
-"Copy Link" = "リンクをコピーする";
-
-"Search" = "検索";
-
-"Customize" = "カスタマイズ";
-
-"Close" = "閉じる";
-
-"Copy" = "コピー";
-
-"Share URL" = "URLを共有する";
-
-"Ok" = "Ok";
-
-"Add" = "追加";
-
-"Update" = "更新";
-
-"Enable" = "有効にする";
-
-/* Common Errors */
-"No Subscription" = "サブスクリプションがない";
-
-"An Error Occurred" = "エラーが発生した";
-
-"An unknown error has occurred." = "不明なエラーが発生しました。";
-
-"Error Parsing" = "エラーの解析";
-
-"Error Processing" = "エラー処理";
-
-"Failed to Update" = "更新に失敗しました";
-
-"Failed to Create" = "作成に失敗しました";
-
-/* Sidebar VC */
-"Feeds" = "フィード";
-
-"Unread" = "未読";
-
-"Today" = "今日";
-
-"Bookmarks" = "ブックマーク";
-
-"New Feed" = "新しいフィード";
-
-"New Folder" = "新しいフォルダ";
-
-"Last Sync: %@" = "最後の同期: %@";
-
-"Delete Feed" = "フィードの削除";
-
-"Are you sure you want to delete this feed?" = "このフィードを本当に削除しますか？";
-
-"Delete Folder" = "フォルダーの削除";
-
-"Are you sure you want to delete this folder?" = "このフォルダを削除してもよろしいですか？";
-
-"Error Deleting Feed" = "フィードの削除エラー";
-
-"Syncing..." = "同期中...";
-
-"Syncing Complete" = "同期完了";
-
-"Synced %.f%%" = "同期された%.f%%";
-
-"Share Feed URL" = "フィードのURLを共有する";
-
-"Share Website URL" = "共有サイトURL";
-
-"Feed Info" = "フィード情報";
-
-"Feed Menu" = "フィードメニュー";
-
-"Folder Menu" = "フォルダメニュー";
-
-"Rename Feed" = "フィードの名前を変更する";
-
-"Feed Name" = "フィード名";
-
-"Error Moving Folder" = "フォルダ移動エラー";
-
-"An error occurred removing the feed from its current folder - %@" = "フィードを現在のフォルダから削除する際にエラーが発生しました - %@.";
-
-/* Feed VC */
-"No unread articles" = "未読の記事がない";
-
-"No recent articles" = "最近の記事はありません";
-
-"Mark All Read?" = "すべて既読にしますか?";
-
-"Mark All Read" = "すべて既読にしますか";
-
-"Are you sure you want to mark all unread articles as read?" = "未読の記事をすべて既読にしますか？";
-
-"Sorting Options" = "並べ替えオプション";
-
-"Unread - Latest First" = "未読 - 最新のものから";
-
-"Unread - Oldest First" = "未読-古いものから";
-
-"All - Latest First" = "すべて - 最新のものから";
-
-"All - Oldest First" = "すべて - 古いものから";
-
-"Error Marking Read" = "既読のエラーメッセージ";
-
-"Error Marking Unread" = "未読のエラーマーク";
-
-"Error Bookmarking" = "ブックマークエラー";
-
-"Error Unbookmarking" = "ブックマーク解除のエラー";
-
-"An unknown error occurred when performing this action." = "このアクションを実行する際に不明なエラーが発生しました。";
-
-"Mark Read" = "既読をつける";
-
-"Mark Unread" = "未読マーク";
-
-"Bookmark" = "ブックマーク";
-
-"Unbookmark" = "ブックマーク解除";
-
-"Mark Newer Read" = "新しい読み物をマークする";
-
-"Mark Older Read" = "マークする 古いものを読む";
-
-"Articles by %@" = "記事 by %@";
-
-"Article Actions" = "記事アクション";
-
-"Untitled" = "無題";
-
-/* ArticleVC */
-"Previous search result" = "前の検索結果";
-
-"Next search result" = "次の検索結果";
-
-"Dismiss Search" = "検索を解除する";
-
-"Search Article Content" = "記事の内容を検索する";
-
-"Search for keywords in the article" = "記事中のキーワードを検索する";
-
-"Error loading the article" = "記事の読み込みエラー";
-
-"An Unexpected Error Occurred" = "予期せぬエラーが発生しました";
-
-"Error Reloading" = "リロードのエラー";
-
-"No article received after reloading." = "リロード後、記事が受信されない";
-
-"Search in article" = "記事内検索";
-
-"Go to previous article" = "前の記事へ";
-
-"Previous Article" = "前の記事";
-
-"Go to next article" = "次の記事へ";
-
-"Next Article" = "次の記事";
-
-"Close article" = "記事を閉じる";
-
-/* Appearance VC */
-"Customization" = "カスタマイズ";
-
-"Use System Sizing" = "システムサイジングを使用する";
-
-"Font Size" = "文字サイズ";
-
-"Paragraph Font" = "段落のフォント";
-
-"Title Font" = "タイトルフォント";
-
-"Line Spacing" = "行間";
-
-"Custom Font" = "カスタムフォント";
-
-/* Feed Info */
-"Close Feed Info" = "フィード情報を閉じる";
-
-"Push Notifications" = "プッシュ通知";
-
-"Local Notifications" = "ローカル通知";
-
-"This feed supports real-time notifications." = "このフィードは、リアルタイムの通知に対応しています。";
-
-"Notifications for this feed will be near real-time." = "このフィードの通知は、ほぼリアルタイムに行われます。";
-
-"Safari Reader Mode" = "Safariリーダーモード";
-
-"Auto Full-Text" = "オートフルテキスト";
-
-"When enabled, the full-text for the article will be automatically fetched." = "有効にすると、記事リーダーではなくブラウザで記事が開かれます。";
-
-"Opens in Browser" = "ブラウザで開く";
-
-"When enabled, the articles will be opened in the browser instead of the article reader." = "有効にすると、記事の読者の代わりに物品がブラウザで開かれます。";
-
-"Folder" = "フォルダ";
-
-"None" = "なし";
-
-"Feed URL" = "フィードURL";
-
-"Website URL" = "ウェブサイトURL";
-
-"Copy URL" = "コピーURL";
-
-"URL Actions" = "URLアクション";
-
-"Unsubscribe Failed" = "配信停止に失敗しました";
-
-"An unknown error occurred when unsubscribing." = "配信停止時に不明なエラーが発生しました。";
-
-"Subscribe Failed" = "登録に失敗しました";
-
-"Select a Folder" = "フォルダの選択";
-
-/* Search */
-"Delete Feed?" = "フィードを削除しますか？";
-
-"Are you sure you want to delete %@" = "本当に %@ を削除しますか？";
-
-"Error Loading Feeds" = "フィードの読み込みエラー";
-
-"The URL or query may be invalid. Please check the URL." = "URLまたはクエリーが無効である可能性があります。URLをご確認ください。";
-
-"Feed Exists" = "フィードが存在します";
-
-"This feed already exists in your account." = "このフィードはすでにあなたのアカウントに存在します。";
-
-"An error occurred when parsing the feed's information. If this repeats, please contact support." = "フィードの情報をパースする際にエラーが発生しました。繰り返される場合は、サポートにお問い合わせください。";
-
-"Adding Feed" = "フィードの追加";
-
-"Close New Folder" = "新しいフォルダを閉じる";
-
-/* STORE VC */
-"Monthly" = "月次";
-
-"Pay as you go" = "従量制";
-
-"MonthlyDesc" = "フィード数の制限はありません。
-リアルタイムのプッシュ通知。
-すべてのデバイスで統合された同期。
-インディーズデベロッパーをサポートします。";
-
-"Yearly" = "年額";
-
-"Long Term" = "長期";
-
-"YearlyDesc" = "月額プランの全特典。
-割引価格でのご提供です。";
-
-"Failed to load Products" = "製品の読み込みに失敗しました";
-
-"An unknown error occurred when loading products. Please contact support@elytra.app" = "製品の読み込み時に不明なエラーが発生しました。support@elytra.app までご連絡ください。";
-
-"Processing..." = "処理中...";
-
-"Error Purchasing" = "購入時のエラー";
-
-"Error Restoring" = "復元エラー";
-
-"Error Loading Subscription" = "エラーロード サブスクリプション";
-
-"Select a subscription plan" = "購読プランの選択";
-
+/* (No Comment) */
 " Your subscription is managed externally." = "お客様のサブスクリプションは外部で管理されています。";
 
-"Your subscription expired on %@." = "サブスクリプションの有効期限が %@ に切れています。";
-
-"Your account has a Lifetime subscription." = "お客様のアカウントにはライフタイムサブスクリプションがあります。";
-
-"Your free trial is active up to %@." = "無料トライアルは %@ まで有効です。";
-
-"Your subscription is active up to %@." = "お客様のサブスクリプションは %@ まで有効です。";
-
-"Your subscription will renew on %@." = "サブスクリプションは %@ に更新されます。";
-
-/* Settings */
-"Settings" = "設定項目";
-
+/* (No Comment) */
 "Account" = "アカウント";
 
-"Filters" = "フィルター";
-
-"Notifications" = "お知らせ";
-
-"Re-Sync" = "再同期";
-
-"Appearance" = "外観";
-
-"Background Fetch" = "背景フェッチ";
-
-"Image Loading" = "画像読み込み";
-
-"External Apps" = "外部アプリ";
-
-"OPML" = "OPML";
-
-"Miscellaneous" = "その他";
-
-"Rate on AppStore" = "AppStoreでの評価";
-
-"Attributions" = "属性";
-
-"Contact" = "連絡先";
-
-"Re-Sync All" = "すべて再同期";
-
-"Re-Sync Feeds" = "フィードの再同期";
-
-/* Account Settings */
-"No Account Setup" = "アカウント設定なし";
-
-"Deactivate Account" = "アカウントの無効化";
-
-"Deactivate" = "停止する";
-
-"Your Subscription" = "契約内容";
-
+/* (No Comment) */
 "Account ID" = "アカウントID";
 
-"Subscription" = "購読のご案内";
-
-"If you deactivate your account and wish to activate it again, please email me on support@elytra.app with the above UUID. You can use the context menu/right click to copy the ID." = "アカウントを停止し、再度有効化したい場合は、上記のUUIDを明記の上、support@elytra.app までメールをください。コンテキストメニュー/右クリックでIDをコピーすることができます。";
-
-"Connect your Apple ID to your Elytra account. This will enable you to sign in on other devices using the same account." = "Apple IDをElytraのアカウントに接続します。これにより、他のプラットフォームでもサインインできるようになります。";
-
-"Copy Account ID" = "アカウントIDのコピー";
-
-"If you have remaining days on your Pro Subscription, no refund can be issued for the same." = "Proサブスクリプションの残存日数がある場合、同じ日数の払い戻しはできません。";
-
-/* Image Loading Settings */
-"The above setting only works when the Article source provides these options. If no such option is provided in the article source, the original image is always loaded." = "上記の設定は、記事ソースがこれらのオプションを提供している場合にのみ機能します。記事のソースにそのようなオプションが提供されていない場合、オリジナルの画像が常にロードされます。";
-
-"The above setting is also used for galleries and Youtube video previews." = "上記の設定は、ギャラリーやYoutubeの動画プレビューにも使用されます。";
-
-"Enabling this shows cover images in the feeds list. This setting is also affected by your setting for Bandwidth." = "有効にすると、フィードの一覧にカバー画像が表示されます。この設定は、「帯域幅」の設定にも影響されます。";
-
-"Elytra can optionally use the weserv.nl Image Proxy for loading images optimized to be displayed on this device. Images loaded via the Image Proxy are smaller in size and therefore load faster and save bandwidth." = "Elytraは、このデバイスでの表示に最適化された画像を読み込むために、オプションでweserv.nl画像プロキシを使用することができます。画像プロキシ経由で読み込まれた画像はサイズが小さいため、読み込みが速く、帯域幅を節約することができます。";
-
-"Autoloading GIFs is not recommended for the health of your device's battery and bandwidth load. However, if you have an unlimited data plan or lots of money, this setting is for you." = "GIFのオートロードは、お使いのデバイスのバッテリーの健康状態や帯域幅の負荷のために推奨されません。ただし、無制限のデータプランをお持ちの方やお金をたくさんお持ちの方は、この設定をご利用ください。";
-
-"Image Bandwidth" = "画像の帯域幅";
-
-"Never" = "しない";
-
-"Wi-Fi Only" = "Wi-Fiのみ";
-
-"Always" = "常に";
-
-"Cover Images" = "カバー画像";
-
-"Use Image Proxy" = "画像プロキシを使用する";
-
-"Auto-load GIFs" = "GIFの自動ロード";
-
-"Image Resolution" = "画像解像度";
-
-"Low Resolution" = "低解像度";
-
-"Medium Resolution" = "中解像度";
-
-"High Resolution" = "高解像度";
-
-/* Filters */
-"Error Fetching Filters" = "エラーフェッチフィルタ";
-
+/* (No Comment) */
 "Active Filters" = "アクティブなフィルター";
 
-"Failed to Delete Filter" = "フィルタの削除に失敗しました";
+/* (No Comment) */
+"Add" = "追加";
 
+/* (No Comment) */
+"Adding Feed" = "フィードの追加";
+
+/* (No Comment) */
+"All" = "すべて";
+
+/* (No Comment) */
+"All - Latest First" = "すべて - 最新のものから";
+
+/* (No Comment) */
+"All - Oldest First" = "すべて - 古いものから";
+
+/* All account, feeds and articles data will be deleted and you will be prompted to sign-in again. */
+"All account, feeds and articles data will be deleted and you will be prompted to sign-in again." = "アカウント、フィード、記事のデータはすべて削除され、再度サインインするよう促されます。";
+
+/* (No Comment) */
+"Always" = "常に";
+
+/* (No Comment) */
+"Always load images" = "常に画像を読み込む";
+
+/* (No Comment) */
+"An Error Occurred" = "エラーが発生した";
+
+/* (No Comment) */
+"An error occurred removing the feed from its current folder - %@" = "フィードを現在のフォルダから削除する際にエラーが発生しました - %@.";
+
+/* (No Comment) */
+"An error occurred when parsing the feed's information. If this repeats, please contact support." = "フィードの情報をパースする際にエラーが発生しました。繰り返される場合は、サポートにお問い合わせください。";
+
+/* (No Comment) */
+"An Unexpected Error Occurred" = "予期せぬエラーが発生しました";
+
+/* An unknown error has occurred. */
+"An unknown error has occurred." = "不明なエラーが発生しました。";
+
+/* contact support help message */
+"An unknown error occurred when loading products. Please contact support@elytra.app" = "製品の読み込み時に不明なエラーが発生しました。support@elytra.app までご連絡ください。";
+
+/* (No Comment) */
+"An unknown error occurred when performing this action." = "このアクションを実行する際に不明なエラーが発生しました。";
+
+/* (No Comment) */
+"An unknown error occurred when registering for Push Notifications." = "プッシュ通知の登録時に不明なエラーが発生しました。";
+
+/* (No Comment) */
 "An unknown error occurred when trying to delete the keyword." = "キーワードを削除しようとしたところ、不明なエラーが発生しました。";
 
-"Short Keyword" = "短いキーワード";
-
-"The keyword should be atleast 3 letters" = "キーワードは3文字以上でなければなりません。";
-
-"Failed to add Filter" = "フィルターの追加に失敗しました";
-
-"An unknown error occurred when trying to delete the keyword." = "キーワードを削除しようとしたところ、不明なエラーが発生しました。";
+/* (No Comment) */
+"An unknown error occurred when unsubscribing." = "配信停止時に不明なエラーが発生しました。";
 
 /* MiscVC */
 "App Icon" = "アプリのアイコン";
 
-"Reader Bar Size" = "リーダーバーサイズ";
+/* (No Comment) */
+"App Logs" = "App ログ";
 
-"Small" = "小さい";
+/* (No Comment) */
+"Appearance" = "外観";
 
-"Regular" = "レギュラー";
+/* (No Comment) */
+"Apps" = "アプリ";
 
-"Large" = "大きい";
+/* (No Comment) */
+"Are you sure you want to delete %@" = "本当に %@ を削除しますか？";
 
-"Enable Reader Mode" = "リーダーモードを有効にする";
+/* (No Comment) */
+"Are you sure you want to delete this feed?" = "このフィードを本当に削除しますか？";
 
+/* (No Comment) */
+"Are you sure you want to delete this folder?" = "このフォルダを削除してもよろしいですか？";
+
+/* (No Comment) */
 "Are you sure you want to enable Reader Mode for all feeds?" = "すべてのフィードで読者モードを有効にしますか？";
 
-"App Icon" = "アプリのアイコン";
+/* (No Comment) */
+"Are you sure you want to mark all unread articles as read?" = "未読の記事をすべて既読にしますか？";
 
-"Unread Counters" = "未読カウンタ";
+/* Are you sure you want to reset the app? */
+"Are you sure you want to reset the app?" = "本当にアプリをリセットするのですか？";
 
-"Relax Mode" = "リラックスモード";
+/* Article Actions menu title */
+"Article Actions" = "記事アクション";
 
-"Mark Read Prompt" = "既読プロンプトをマーク";
+/* Articles by %@ (Author) format */
+"Articles by %@" = "記事 by %@";
 
-"Hide Bookmarks" = "ブックマークを隠す";
-
-"Open Unread" = "未読を開く";
-
-"Summary Lines" = "サマリーライン";
-
-"Use Toolbar" = "ツールバーの使用";
-
-"Hide Bars" = "バーを隠す";
-
-"Reader Bar Size" = "リーダーバーサイズ";
-
-"Portrait Lock" = "ポートレートロック";
-
-"Mirror Full UI" = "ミラーフルUI";
-
-"Faded Selection Tint" = "選択範囲の色合いを薄くする";
-
-"Mark Read on Scroll" = "スクロール時に既読をつける";
-
-"Enable Reader Mode" = "リーダーモードを有効にする";
-
-"Set whether you want to see the number of unread articles in each section." = "各セクションの未読記事数を表示するかどうかを設定します。";
-
-"Optionally hide unread counters only from feeds and folders." = "オプションでフィードとフォルダのみ未読カウンターを非表示にすることができます。";
-
-"Set whether the app should prompt you when marking articles as read." = "記事を既読にする際に、アプリにプロンプトを表示させるかどうかを設定します。";
-
-"You can optionally hide the Bookmarks Tab from the Feeds Interface." = "オプションでフィードのインターフェイスからブックマークタブを非表示にすることができます。";
-
-"When enabled, the app will open the Unread List upon launch." = "有効にすると、アプリの起動時に未読リストを開きます。";
-
-"Number of summary lines to show when viewing list of Articles." = "記事の一覧を表示する際に表示するサマリーの行数を設定します。";
-
-"Show all actions in toolbar at the bottom of the interface instead of the navigation bar at the top. (Requires an App restart)" = "すべてのアクションを上部のナビゲーションバーではなく、インターフェースの下部にあるツールバーで表示します。(アプリの再起動が必要です）";
-
-"Hides the navigation bar and toolbar in the article reader when scrolling." = "スクロール時に記事リーダーのナビゲーションバーとツールバーを非表示にします。";
-
-"You may choose to restrict the app's UI only to the portrait orientation." = "アプリのUIを縦向きのみに制限することも可能です。";
-
-"When disabled, only the article reader interface is casted over Airplay." = "無効の場合、記事リーダーのインターフェイスのみがAirplayでキャストされます。";
-
-"When enabled, the articles list selection background color will be a light gray instead of the tint color." = "有効にすると、記事一覧の選択背景色がティントカラーからライトグレーになります。";
-
+/* (No Comment) */
 "As you scroll, the app will automatically mark articles as read." = "スクロールすると、自動的に既読になります。";
 
-"You may enable reader mode for all feeds with a single tap." = "ワンタップですべてのフィードのリーダーモードを有効にすることができます。";
+/* (No Comment) */
+"Attributions" = "属性";
+
+/* (No Comment) */
+"Auto Full-Text" = "オートフルテキスト";
+
+/* (No Comment) */
+"Auto-load GIFs" = "GIFの自動ロード";
+
+/* (No Comment) */
+"Autoload GIFs" = "GIFの自動ロード";
+
+/* (No Comment) */
+"Autoloading GIFs is not recommended for the health of your device's battery and bandwidth load. However, if you have an unlimited data plan or lots of money, this setting is for you." = "GIFのオートロードは、お使いのデバイスのバッテリーの健康状態や帯域幅の負荷のために推奨されません。ただし、無制限のデータプランをお持ちの方やお金をたくさんお持ちの方は、この設定をご利用ください。";
+
+/* (No Comment) */
+"Automatically Check for Updates" = "自動でアップデートを確認する";
+
+/* (No Comment) */
+"Background Fetch" = "背景フェッチ";
+
+/* (No Comment) */
+"Bandwidth" = "帯域幅";
+
+/* (No Comment) */
+"Bookmark" = "ブックマーク";
+
+/* (No Comment) */
+"Bookmarks" = "ブックマーク";
+
+/* (No Comment) */
+"Browser" = "ブラウザ";
+
+/* (No Comment) */
+"Cancel" = "キャンセル";
+
+/* (No Comment) */
+"Close" = "閉じる";
+
+/* (No Comment) */
+"Close article" = "記事を閉じる";
+
+/* Feed Info */
+"Close Feed Info" = "フィード情報を閉じる";
+
+/* (No Comment) */
+"Close New Folder" = "新しいフォルダを閉じる";
+
+/* (No Comment) */
+"Connect your Apple ID to your Elytra account. This will enable you to sign in on other devices using the same account." = "Apple IDをエリトラのアカウントに接続します。これにより、他のプラットフォームでもサインインできるようになります。";
+
+/* (No Comment) */
+"Contact" = "連絡先";
+
+/* (No Comment) */
+"Copy" = "コピー";
+
+/* (No Comment) */
+"Copy Account ID" = "アカウントIDのコピー";
+
+/* (No Comment) */
+"Copy Link" = "リンクをコピーする";
+
+/* (No Comment) */
+"Copy URL" = "コピーURL";
+
+/* (No Comment) */
+"Cover Images" = "カバー画像";
+
+/* (No Comment) */
+"Custom Feed Names" = "カスタムフィード名";
+
+/* (No Comment) */
+"Custom Font" = "カスタムフォント";
+
+/* Appearance VC */
+"Customization" = "カスタマイズ";
+
+/* (No Comment) */
+"Customize" = "カスタマイズ";
+
+/* (No Comment) */
+"Deactivate" = "停止する";
+
+/* (No Comment) */
+"Deactivate Account" = "アカウントの無効化";
+
+/* (No Comment) */
+"Delete" = "削除";
+
+/* (No Comment) */
+"Delete Feed" = "フィードの削除";
+
+/* Search */
+"Delete Feed?" = "フィードを削除しますか？";
+
+/* (No Comment) */
+"Delete Folder" = "フォルダーの削除";
+
+/* (No Comment) */
+"Dismiss Search" = "検索を解除する";
+
+/* (No Comment) */
+"Dock Icon" = "ドックアイコン";
+
+/* (No Comment) */
+"Done" = "完了";
+
+/* (No Comment) */
+"Elytra can optionally use the weserv.nl Image Proxy for loading images optimized to be displayed on this device. Images loaded from the Image Proxy are smaller in size and therefore load faster and save bandwidth." = "エリトラは、オプションでweserv.nl Image Proxyを使用して、このデバイスでの表示に最適化された画像を読み込むことができます。画像プロキシから読み込まれた画像はサイズが小さいため、読み込みが速く、帯域幅を節約できます。";
+
+/* (No Comment) */
+"Elytra can optionally use the weserv.nl Image Proxy for loading images optimized to be displayed on this device. Images loaded via the Image Proxy are smaller in size and therefore load faster and save bandwidth." = "エリトラは、このデバイスでの表示に最適化された画像を読み込むために、オプションでweserv.nl画像プロキシを使用することができます。画像プロキシ経由で読み込まれた画像はサイズが小さいため、読み込みが速く、帯域幅を節約することができます。";
+
+/* (No Comment) */
+"Email Support" = "メールサポート";
+
+/* (No Comment) */
+"Empty Content" = "空のコンテンツ";
+
+/* (No Comment) */
+"Enable" = "有効にする";
 
 /* Notifications */
 "Enable Push Notifications" = "プッシュ通知を有効にする";
 
-"Error Registering" = "登録時のエラー";
+/* (No Comment) */
+"Enable Reader Mode" = "リーダーモードを有効にする";
 
-"An unknown error occurred when registering for Push Notifications." = "プッシュ通知の登録時に不明なエラーが発生しました。";
+/* (No Comment) */
+"Enabling this shows cover images in the feeds list. This setting is also affected by your setting for Bandwidth." = "有効にすると、フィードの一覧にカバー画像が表示されます。この設定は、「帯域幅」の設定にも影響されます。";
 
+/* (No Comment) */
+"Error Bookmarking" = "ブックマークエラー";
+
+/* (No Comment) */
+"Error Deleting Feed" = "フィードの削除エラー";
+
+/* Filters */
+"Error Fetching Filters" = "エラーフェッチフィルタ";
+
+/* (No Comment) */
+"Error Loading Feeds" = "フィードの読み込みエラー";
+
+/* (No Comment) */
+"Error Loading Subscription" = "エラーロード サブスクリプション";
+
+/* (No Comment) */
 "Error Loading Subscriptions" = "購読の読み込みエラー";
 
+/* (No Comment) */
+"Error loading the article" = "記事の読み込みエラー";
+
+/* (No Comment) */
+"Error Marking Read" = "既読のエラーメッセージ";
+
+/* (No Comment) */
+"Error Marking Unread" = "未読のエラーマーク";
+
+/* (No Comment) */
+"Error Moving Folder" = "フォルダ移動エラー";
+
+/* (No Comment) */
+"Error Parsing" = "エラーの解析";
+
+/* (No Comment) */
+"Error Processing" = "エラー処理";
+
+/* (No Comment) */
+"Error Purchasing" = "購入時のエラー";
+
+/* (No Comment) */
+"Error Registering" = "登録時のエラー";
+
+/* (No Comment) */
+"Error Reloading" = "リロードのエラー";
+
+/* (No Comment) */
 "Error Removing Subscription" = "購読解除のエラー";
 
-/* ResetVC */
-"Reset parts of your account or all data in your account. Please remember to export your feeds as an OPML file before resetting folders or feeds. Once the data is reset, it cannot be recovered." = "アカウントの一部または全データをリセットします。フォルダやフィードをリセットする前に、フィードをOPMLファイルとしてエクスポートすることを忘れないでください。一度リセットされたデータは元に戻せません。";
+/* (No Comment) */
+"Error Restoring" = "復元エラー";
 
-"Custom Feed Names" = "カスタムフィード名";
+/* (No Comment) */
+"Error Unbookmarking" = "ブックマーク解除のエラー";
 
-"Full Account" = "フルアカウント";
-
-"Selective" = "選択的";
-
-"All" = "すべて";
-
-/* General Prefs */
-"Refresh feeds" = "フィードの更新";
-
-"Manually" = "手動";
-
+/* (No Comment) */
 "Every 30 minutes" = "30分毎";
 
+/* (No Comment) */
 "Every hour" = "1時間毎";
 
-"Once your account is deactivated, all your account data is usually deleted within an hour. Please make sure you have taken an export of your feeds." = "アカウントが無効化されると、通常1時間以内にすべてのアカウントデータが削除されます。フィードのエクスポートが完了していることを確認してください。";
+/* (No Comment) */
+"Export" = "エクスポート";
 
-"Open web pages in background in browser" = "ブラウザでウェブページをバックグラウンドで開く";
+/* (No Comment) */
+"Export Feed Settings" = "フィードのエクスポート設定";
 
-"Press the shift key to do the opposite" = "シフトキーを押すと、その逆を実行します";
+/* (No Comment) */
+"Export Logs" = "ログを書き出す";
 
-"Dock Icon" = "ドックアイコン";
+/* (No Comment) */
+"External Apps" = "外部アプリ";
 
-"Show unread count" = "未読数を表示する";
+/* (No Comment) */
+"Faded Selection Tint" = "選択範囲の色合いを薄くする";
 
-/* Images Prefs */
-"Resolution" = "解像度";
+/* (No Comment) */
+"Failed to add Filter" = "フィルターの追加に失敗しました";
 
-"Bandwidth" = "帯域幅";
+/* (No Comment) */
+"Failed to Create" = "作成に失敗しました";
 
-"Never load images" = "画像を読み込まない";
+/* (No Comment) */
+"Failed to Delete Filter" = "フィルタの削除に失敗しました";
 
-"Always load images" = "常に画像を読み込む";
+/* Failed to load Products */
+"Failed to load Products" = "製品の読み込みに失敗しました";
 
-"Misc" = "その他";
+/* (No Comment) */
+"Failed to Update" = "更新に失敗しました";
 
-"Show cover images" = "カバー画像の表示";
+/* (No Comment) */
+"Feed Exists" = "フィードが存在します";
 
-"Image Proxy" = "画像プロキシ";
+/* (No Comment) */
+"Feed Info" = "フィード情報";
 
-"Elytra can optionally use the weserv.nl Image Proxy for loading images optimized to be displayed on this device. Images loaded from the Image Proxy are smaller in size and therefore load faster and save bandwidth." = "Elytraは、オプションでweserv.nl Image Proxyを使用して、このデバイスでの表示に最適化された画像を読み込むことができます。画像プロキシから読み込まれた画像はサイズが小さいため、読み込みが速く、帯域幅を節約できます。";
+/* (No Comment) */
+"Feed Menu" = "フィードメニュー";
 
-"Autoload GIFs" = "GIFの自動ロード";
+/* (No Comment) */
+"Feed Name" = "フィード名";
 
-"The font to use for drawing the paragraph text in an article." = "記事中の段落テキストを描画する際に使用するフォント。";
+/* (No Comment) */
+"Feed URL" = "フィードURL";
 
-"Heading Font" = "見出しフォント";
+/* Sidebar VC */
+"Feeds" = "フィード";
 
-"The font to use for drawing the headers in an article." = "記事中のヘッダーを描画するためのフォントです。";
+/* (No Comment) */
+"Filters" = "フィルター";
 
-"Line spacing" = "行間";
+/* (No Comment) */
+"Folder" = "フォルダ";
 
-"The space between two lines of text. A lower values renders a compact layout, a higher value renders comfortable layout." = "2行のテキスト間のスペース。値を小さくするとコンパクトなレイアウトになり、大きくすると快適なレイアウトになります。";
+/* (No Comment) */
+"Folder Menu" = "フォルダメニュー";
 
+/* No comment provided by engineer. */
+"Folders" = "フォルダ";
+
+/* (No Comment) */
 "Font size" = "文字サイズ";
 
-"The base font size. Pargraphs are rendered at this size. Other elements derive their sizes proportional to this." = "基準となるフォントの大きさです。グラフはこのサイズで描画されます。他の要素もこのサイズに比例して表示されます。";
+/* (No Comment) */
+"Font Size" = "文字サイズ";
 
-/* MISC */
-"Show unread counters" = "未読カウンターを表示する";
+/* (No Comment) */
+"Frequently Asked Questions" = "Frequently Asked Questions";
 
-"You can optionally hide the Bookmarks Tab from the Sidebar." = "オプションでサイドバーからブックマークタブを非表示にすることができます。";
-
-"Summary" = "サマリー";
-
-"Number of summary lines to show when viewing the list of Articles." = "記事一覧を表示する際に表示するサマリーの行数。";
-
-"Apps" = "アプリ";
-
-"Your preferred Twitter app. Clicking on a tweet will open this app." = "お好みのTwitterアプリです。ツイートをクリックするとこのアプリが起動します。";
-
-"Updates" = "更新情報";
-
-"Release Builds" = "リリースビルド";
-
-"Test Builds" = "テストビルド";
-
-"Automatically Check for Updates" = "自動でアップデートを確認する";
-
-"You should select Release if you want only the most stable releases. Test Builds may be buggy, crash  and even cause data loss." = "最も安定したリリースのみが必要な場合は、リリースを選択する必要があります。テストビルドは、バグがあったり、クラッシュしたり、データ消失の原因になったりすることがあります。";
-
-/* Preferences Controller */
+/* (No Comment) */
+"Full Account" = "フルアカウント";
 
 /* Title for General Prefs Tab */
 "General" = "一般";
 
+/* (No Comment) */
+"Go to Bookmarks" = "Go to Bookmarks";
+
+/* (No Comment) */
+"Go to next article" = "次の記事へ";
+
+/* (No Comment) */
+"Go to previous article" = "前の記事へ";
+
+/* (No Comment) */
+"Go to Today" = "Go to Today";
+
+/* (No Comment) */
+"Go to Unread" = "Go to Unread";
+
+/* No comment provided by engineer. */
+"Has Unicorn: %@" = "Has Unicorn: %@";
+
+/* (No Comment) */
+"Heading Font" = "見出しフォント";
+
+/* Logs */
+"Help" = "ヘルプ";
+
+/* (No Comment) */
+"Hide Bars" = "バーを隠す";
+
+/* (No Comment) */
+"Hide Bookmarks" = "ブックマークを隠す";
+
+/* (No Comment) */
+"Hides the navigation bar and toolbar in the article reader when scrolling." = "スクロール時に記事リーダーのナビゲーションバーとツールバーを非表示にします。";
+
+/* (No Comment) */
+"High Resolution" = "高解像度";
+
+/* (No Comment) */
+"If you deactivate your account and wish to activate it again, please email me on support@elytra.app with the above UUID. You can use the context menu/right click to copy the ID." = "アカウントを停止し、再度有効化したい場合は、上記のUUIDを明記の上、support@elytra.app までメールをください。コンテキストメニュー/右クリックでIDをコピーすることができます。";
+
+/* (No Comment) */
+"If you have remaining days on your Pro Subscription, no refund can be issued for the same." = "Proサブスクリプションの残存日数がある場合、同じ日数の払い戻しはできません。";
+
+/* (No Comment) */
+"Image Bandwidth" = "画像の帯域幅";
+
+/* (No Comment) */
+"Image Loading" = "画像読み込み";
+
+/* (No Comment) */
+"Image Proxy" = "画像プロキシ";
+
+/* (No Comment) */
+"Image Resolution" = "画像解像度";
+
 /* Title for Images Prefs Tab */
 "Images" = "画像";
+
+/* (No Comment) */
+"Import" = "インポート";
+
+/* (No Comment) */
+"Import Feed Settings" = "フィードのインポート設定";
+
+/* Import/Export */
+"Import/Export" = "インポート・エクスポート";
+
+/* Imported alert title */
+"Imported" = "読み込み済み";
+
+/* Importing %d of %d */
+"Importing %d of %d" = "インポート %d / %d";
+
+/* (No Comment) */
+"Large" = "大きい";
+
+/* (No Comment) */
+"Last Sync: %@" = "最後の同期: %@";
+
+/* Lifetime */
+"Lifetime" = "ライフタイム";
+
+/* Lifetime License */
+"Lifetime License" = "ライフタイムライセンス";
+
+/* (No Comment) */
+"Line spacing" = "行間";
+
+/* (No Comment) */
+"Line Spacing" = "行間";
+
+/* Class = "UILabel"; text = "Select an article from your feeds to begin reading it."; ObjectID = "llj-MV-kuV"; */
+"llj-MV-kuV.text" = "あなたのフィードから記事を選択して読むことを始めます。";
+
+/* (No Comment) */
+"Local Notifications" = "ローカル通知";
+
+/* (No Comment) */
+"Long Term" = "長期";
+
+/* (No Comment) */
+"Low Resolution" = "低解像度";
+
+/* (No Comment) */
+"Manually" = "手動";
+
+/* (No Comment) */
+"Mark All Read" = "すべて既読にしますか";
+
+/* (No Comment) */
+"Mark All Read?" = "すべて既読にしますか?";
+
+/* (No Comment) */
+"Mark Newer Read" = "新しい読み物をマークする";
+
+/* (No Comment) */
+"Mark Older Read" = "マークする 古いものを読む";
+
+/* (No Comment) */
+"Mark Read" = "既読をつける";
+
+/* (No Comment) */
+"Mark Read on Scroll" = "スクロール時に既読をつける";
+
+/* (No Comment) */
+"Mark Read Prompt" = "既読プロンプトをマーク";
+
+/* (No Comment) */
+"Mark Unread" = "未読マーク";
+
+/* (No Comment) */
+"Medium Resolution" = "中解像度";
+
+/* (No Comment) */
+"Mirror Full UI" = "ミラーフルUI";
+
+/* (No Comment) */
+"Misc" = "その他";
+
+/* (No Comment) */
+"Miscellaneous" = "その他";
+
+/* STORE VC */
+"Monthly" = "月次";
+
+/* (No Comment) */
+"MonthlyDesc" = "フィード数の制限はありません。\nリアルタイムのプッシュ通知。\nすべてのデバイスで統合された同期。\nインディーズデベロッパーをサポートします。";
+
+/* (No Comment) */
+"Move" = "移動";
+
+/* (No Comment) */
+"Never" = "しない";
+
+/* (No Comment) */
+"Never load images" = "画像を読み込まない";
+
+/* Common Actions */
+"New" = "新規";
+
+/* New Feed/Folder */
+"New Feed" = "新しいフィード";
+
+/* (No Comment) */
+"New Folder" = "新しいフォルダ";
+
+/* Menu */
+"New Window" = "新規ウインドウ";
+
+/* (No Comment) */
+"Next Article" = "次の記事";
+
+/* (No Comment) */
+"Next Result" = "次の結果を表示します";
+
+/* (No Comment) */
+"Next search result" = "次の検索結果";
+
+/* Account Settings */
+"No Account Setup" = "アカウント設定なし";
+
+/* (No Comment) */
+"No article received after reloading." = "リロード後、記事が受信されない";
+
+/* (No Comment) */
+"no file selected" = "ファイル未選択";
+
+/* (No Comment) */
+"No recent articles" = "最近の記事はありません";
+
+/* Common Errors */
+"No Subscription" = "サブスクリプションがない";
+
+/* (No Comment) */
+"No Summary" = "概要なし";
+
+/* Feed VC */
+"No unread articles" = "未読の記事がない";
+
+/* (No Comment) */
+"None" = "なし";
+
+/* (No Comment) */
+"Notifications" = "お知らせ";
+
+/* (No Comment) */
+"Notifications for this feed will be near real-time." = "このフィードの通知は、ほぼリアルタイムに行われます。";
+
+/* (No Comment) */
+"Number of summary lines to show when viewing list of Articles." = "記事の一覧を表示する際に表示するサマリーの行数を設定します。";
+
+/* (No Comment) */
+"Number of summary lines to show when viewing the list of Articles." = "記事一覧を表示する際に表示するサマリーの行数。";
+
+/* (No Comment) */
+"Ok" = "Ok";
+
+/* (No Comment) */
+"Okay" = "わかった";
+
+/* (No Comment) */
+"Once your account is deactivated, all your account data is usually deleted within an hour. Please make sure you have taken an export of your feeds." = "アカウントが無効化されると、通常1時間以内にすべてのアカウントデータが削除されます。フィードのエクスポートが完了していることを確認してください。";
+
+/* LifetimeDesc */
+"One time purchase, includes all benefits of the pro subscriptions." = "1回の購入で、プロサブスクリプションのすべての特典が含まれます。";
+
+/* One-time purchase */
+"One-time purchase" = "1回限りの購入";
+
+/* (No Comment) */
+"Open in Browser" = "ブラウザで開く";
+
+/* Open in New Window title */
+"Open in New Window" = "新規ウインドウで開く";
+
+/* (No Comment) */
+"Open Unread" = "未読を開く";
+
+/* (No Comment) */
+"Open web pages in background in browser" = "ブラウザでウェブページをバックグラウンドで開く";
+
+/* (No Comment) */
+"Opens in Browser" = "ブラウザで開く";
+
+/* (No Comment) */
+"OPML" = "OPML";
+
+/* (No Comment) */
+"Optionally hide unread counters only from feeds and folders." = "オプションでフィードとフォルダのみ未読カウンターを非表示にすることができます。";
+
+/* Article View Prefs */
+"Paragraph Font" = "段落のフォント";
+
+/* (No Comment) */
+"Pay as you go" = "従量制";
+
+/* (No Comment) */
+"Portrait Lock" = "ポートレートロック";
+
+/* (No Comment) */
+"Preferences" = "環境設定";
+
+/* (No Comment) */
+"Press the shift key to do the opposite" = "シフトキーを押すと、その逆を実行します";
+
+/* (No Comment) */
+"Previous Article" = "前の記事";
+
+/* (No Comment) */
+"Previous Result" = "前の結果を表示します";
+
+/* ArticleVC */
+"Previous search result" = "前の検索結果";
+
+/* (No Comment) */
+"Processing..." = "処理中...";
+
+/* (No Comment) */
+"Push Notifications" = "プッシュ通知";
+
+/* (No Comment) */
+"Rate on AppStore" = "AppStoreでの評価";
+
+/* (No Comment) */
+"Re-Sync" = "再同期";
+
+/* (No Comment) */
+"Re-Sync All" = "すべて再同期";
+
+/* (No Comment) */
+"Re-Sync Feeds" = "フィードの再同期";
+
+/* (No Comment) */
+"Read" = "読む";
 
 /* Title for Reader Prefs Tab */
 "Reader" = "リーダー";
 
+/* (No Comment) */
+"Reader Bar Size" = "リーダーバーサイズ";
+
+/* (No Comment) */
+"Refresh" = "更新";
+
+/* General Prefs */
+"Refresh feeds" = "フィードの更新";
+
+/* (No Comment) */
+"Refresh Feeds" = "Refresh Feeds";
+
+/* (No Comment) */
+"Regular" = "レギュラー";
+
+/* (No Comment) */
+"Relax Mode" = "リラックスモード";
+
+/* (No Comment) */
+"Release Builds" = "リリースビルド";
+
+/* (No Comment) */
+"Rename" = "名前の変更";
+
+/* (No Comment) */
+"Rename Feed" = "フィードの名前を変更する";
+
+/* ResetVC */
+"Reset parts of your account or all data in your account. Please remember to export your feeds as an OPML file before resetting folders or feeds. Once the data is reset, it cannot be recovered." = "アカウントの一部または全データをリセットします。フォルダやフィードをリセットする前に、フィードをOPMLファイルとしてエクスポートすることを忘れないでください。一度リセットされたデータは元に戻せません。";
+
+/* Images Prefs */
+"Resolution" = "解像度";
+
+/* (No Comment) */
+"Safari Reader Mode" = "Safariリーダーモード";
+
+/* (No Comment) */
+"Search" = "検索";
+
+/* (No Comment) */
+"Search Article Content" = "記事の内容を検索する";
+
+/* (No Comment) */
+"Search for keywords in the article" = "記事中のキーワードを検索する";
+
+/* (No Comment) */
+"Search in article" = "記事内検索";
+
+/* (No Comment) */
+"Select a file" = "ファイルを選択してください";
+
+/* (No Comment) */
+"Select a Folder" = "フォルダの選択";
+
+/* (No Comment) */
+"Select a subscription plan" = "購読プランの選択";
+
+/* (No Comment) */
+"Selective" = "選択的";
+
+/* (No Comment) */
 "Set up your account" = "アカウントの設定";
 
-/* Logs */
-"Help" = "ヘルプ";
-"Frequently Asked Questions" = "Frequently Asked Questions";
-"App Logs" = "App ログ";
-"Export Logs" = "ログを書き出す";
+/* (No Comment) */
+"Set whether the app should prompt you when marking articles as read." = "記事を既読にする際に、アプリにプロンプトを表示させるかどうかを設定します。";
+
+/* (No Comment) */
+"Set whether you want to see the number of unread articles in each section." = "各セクションの未読記事数を表示するかどうかを設定します。";
+
+/* Settings */
+"Settings" = "設定項目";
+
+/* (No Comment) */
+"Share" = "共有";
+
+/* (No Comment) */
+"Share Article" = "記事を共有する";
+
+/* (No Comment) */
+"Share Feed URL" = "フィードのURLを共有する";
+
+/* (No Comment) */
+"Share URL" = "URLを共有する";
+
+/* (No Comment) */
+"Share Website URL" = "共有サイトURL";
+
+/* (No Comment) */
+"Short Keyword" = "短いキーワード";
+
+/* (No Comment) */
+"Show all actions in toolbar at the bottom of the interface instead of the navigation bar at the top. (Requires an App restart)" = "すべてのアクションを上部のナビゲーションバーではなく、インターフェースの下部にあるツールバーで表示します。(アプリの再起動が必要です）";
+
+/* (No Comment) */
+"Show cover images" = "カバー画像の表示";
+
+/* (No Comment) */
 "Show Logs" = "ログを表示";
 
-/* Import/Export */
-"Import/Export" = "インポート・エクスポート";
-"Import" = "インポート";
-"Export" = "エクスポート";
-"Empty Content" = "空のコンテンツ";
-"no file selected" = "ファイル未選択";
-"Select a file" = "ファイルを選択してください";
-"Import Feed Settings" = "フィードのインポート設定";
-"Export Feed Settings" = "フィードのエクスポート設定";
+/* (No Comment) */
+"Show unread count" = "未読数を表示する";
+
+/* MISC */
+"Show unread counters" = "未読カウンターを表示する";
+
+/* (No Comment) */
+"Small" = "小さい";
+
+/* (No Comment) */
+"Sorting Options" = "並べ替えオプション";
+
+/* (No Comment) */
+"Subscribe Failed" = "登録に失敗しました";
+
+/* (No Comment) */
+"Subscription" = "購読のご案内";
+
+/* (No Comment) */
+"Summary" = "サマリー";
+
+/* (No Comment) */
+"Summary Lines" = "サマリーライン";
+
+/* (No Comment) */
+"Synced %.f%%" = "同期された%.f%%";
+
+/* (No Comment) */
+"Syncing Complete" = "同期完了";
+
+/* (No Comment) */
+"Syncing..." = "同期中...";
+
+/* (No Comment) */
+"Test Builds" = "テストビルド";
+
+/* (No Comment) */
+"The above setting is also used for galleries and Youtube video previews." = "上記の設定は、ギャラリーやYoutubeの動画プレビューにも使用されます。";
+
+/* Image Loading Settings */
+"The above setting only works when the Article source provides these options. If no such option is provided in the article source, the original image is always loaded." = "上記の設定は、記事ソースがこれらのオプションを提供している場合にのみ機能します。記事のソースにそのようなオプションが提供されていない場合、オリジナルの画像が常にロードされます。";
+
+/* (No Comment) */
+"The base font size. Pargraphs are rendered at this size. Other elements derive their sizes proportional to this." = "基準となるフォントの大きさです。グラフはこのサイズで描画されます。他の要素もこのサイズに比例して表示されます。";
+
+/* (No Comment) */
+"The font to use for drawing the headers in an article." = "記事中のヘッダーを描画するためのフォントです。";
+
+/* (No Comment) */
+"The font to use for drawing the paragraph text in an article." = "記事中の段落テキストを描画する際に使用するフォント。";
+
+/* (No Comment) */
+"The keyword should be atleast 3 letters" = "キーワードは3文字以上でなければなりません。";
+
+/* (No Comment) */
+"The space between two lines of text. A lower values renders a compact layout, a higher value renders comfortable layout." = "2行のテキスト間のスペース。値を小さくするとコンパクトなレイアウトになり、大きくすると快適なレイアウトになります。";
+
+/* (No Comment) */
+"The URL or query may be invalid. Please check the URL." = "URLまたはクエリーが無効である可能性があります。URLをご確認ください。";
+
+/* (No Comment) */
+"This feed already exists in your account." = "このフィードはすでにあなたのアカウントに存在します。";
+
+/* (No Comment) */
+"This feed supports real-time notifications." = "このフィードは、リアルタイムの通知に対応しています。";
+
+/* (No Comment) */
+"Title Font" = "タイトルフォント";
+
+/* (No Comment) */
+"Today" = "今日";
+
+/* (No Comment) */
+"Unbookmark" = "ブックマーク解除";
+
+/* (No Comment) */
+"Unread" = "未読";
+
+/* (No Comment) */
+"Unread - Latest First" = "未読 - 最新のものから";
+
+/* (No Comment) */
+"Unread - Oldest First" = "未読-古いものから";
+
+/* (No Comment) */
+"Unread Counters" = "未読カウンタ";
+
+/* (No Comment) */
+"Unsubscribe Failed" = "配信停止に失敗しました";
+
+/* (No Comment) */
+"Untitled" = "無題";
+
+/* (No Comment) */
+"Update" = "更新";
+
+/* (No Comment) */
+"Updates" = "更新情報";
+
+/* (No Comment) */
+"URL Actions" = "URLアクション";
+
+/* (No Comment) */
+"Use Image Proxy" = "画像プロキシを使用する";
+
+/* (No Comment) */
+"Use System Sizing" = "システムサイジングを使用する";
+
+/* (No Comment) */
+"Use Toolbar" = "ツールバーの使用";
 
 /* Menu */
 "View Subscription" = "サブスクリプションを表示";
-"Preferences" = "環境設定";
-"Refresh" = "更新";
-"Next Result" = "次の結果を表示します";
-"Previous Result" = "前の結果を表示します";
-"Email Support" = "メールサポート";
-"Frequently Asked Questions" = "Frequently Asked Questions";
 
-/* Empty VC */
-/* Class = "UILabel"; text = "Select an article from your feeds to begin reading it. "; ObjectID = "llj-MV-kuV"; */
-"llj-MV-kuV.text" = "あなたのフィードから記事を選択して読むことを始めます。";
+/* (No Comment) */
+"Website URL" = "ウェブサイトURL";
 
-"No Summary" = "概要なし";
+/* (No Comment) */
+"When disabled, only the article reader interface is casted over Airplay." = "無効の場合、記事リーダーのインターフェイスのみがAirplayでキャストされます。";
 
-/* Menu */
-"New Window" = "新規ウインドウ";
-"Refresh Feeds" = "Refresh Feeds";
-"Go to Unread" = "Go to Unread";
-"Go to Today" = "Go to Today";
-"Go to Bookmarks" = "Go to Bookmarks";
-"Open in New Window" = "新規ウインドウで開く";
+/* (No Comment) */
+"When enabled, the app will open the Unread List upon launch." = "有効にすると、アプリの起動時に未読リストを開きます。";
+
+/* (No Comment) */
+"When enabled, the articles list selection background color will be a light gray instead of the tint color." = "有効にすると、記事一覧の選択背景色がティントカラーからライトグレーになります。";
+
+/* (No Comment) */
+"When enabled, the articles will be opened in the browser instead of the article reader." = "有効にすると、記事の読者の代わりに物品がブラウザで開かれます。";
+
+/* (No Comment) */
+"When enabled, the full-text for the article will be automatically fetched." = "有効にすると、記事リーダーではなくブラウザで記事が開かれます。";
+
+/* (No Comment) */
+"Wi-Fi Only" = "Wi-Fiのみ";
+
+/* (No Comment) */
+"Yearly" = "年額";
+
+/* (No Comment) */
+"YearlyDesc" = "月額プランの全特典。\n割引価格でのご提供です。";
+
+/* (No Comment) */
+"Yes" = "はい";
+
+/* (No Comment) */
+"You can optionally hide the Bookmarks Tab from the Feeds Interface." = "オプションでフィードのインターフェイスからブックマークタブを非表示にすることができます。";
+
+/* (No Comment) */
+"You can optionally hide the Bookmarks Tab from the Sidebar." = "オプションでサイドバーからブックマークタブを非表示にすることができます。";
+
+/* (No Comment) */
+"You may choose to restrict the app's UI only to the portrait orientation." = "アプリのUIを縦向きのみに制限することも可能です。";
+
+/* (No Comment) */
+"You may enable reader mode for all feeds with a single tap." = "ワンタップですべてのフィードのリーダーモードを有効にすることができます。";
+
+/* (No Comment) */
+"You should select Release if you want only the most stable releases. Test Builds may be buggy, crash  and even cause data loss." = "最も安定したリリースのみが必要な場合は、リリースを選択する必要があります。テストビルドは、バグがあったり、クラッシュしたり、データ消失の原因になったりすることがあります。";
+
+/* (No Comment) */
+"Your account has a Lifetime subscription." = "お客様のアカウントにはライフタイムサブスクリプションがあります。";
+
+/* Imported alert message */
+"Your feed settings have been successfully imported" = "フィードの設定が正常にインポートされました";
+
+/* (No Comment) */
+"Your free trial is active up to %@." = "無料トライアルは %@ まで有効です。";
+
+/* (No Comment) */
+"Your preferred Twitter app. Clicking on a tweet will open this app." = "お好みのTwitterアプリです。ツイートをクリックするとこのアプリが起動します。";
+
+/* (No Comment) */
+"Your Subscription" = "契約内容";
+
+/* (No Comment) */
+"Your subscription expired on %@." = "サブスクリプションの有効期限が %@ に切れています。";
+
+/* (No Comment) */
+"Your subscription is active up to %@." = "お客様のサブスクリプションは %@ まで有効です。";
+
+/* (No Comment) */
+"Your subscription will renew on %@." = "サブスクリプションは %@ に更新されます。";
+
