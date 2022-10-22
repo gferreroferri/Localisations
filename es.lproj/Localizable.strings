@@ -941,11 +941,11 @@
 "Your Subscription" = "Su suscripción";
 
 /* (No Comment) */
-"Your subscription expired on %@." = "Suscripción caducada en en %@.";
+"Your subscription expired on %@." = "Suscripción caducada el %@.";
 
 /* (No Comment) */
-"Your subscription is active up to %@." = "Suscripción está activa hasta %@.";
+"Your subscription is active up to %@." = "Suscripción está activa hasta el %@.";
 
 /* (No Comment) */
-"Your subscription will renew on %@." = "La suscripción se renovará en %@.";
+"Your subscription will renew on %@." = "La suscripción se renovará el %@.";
 
